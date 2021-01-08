@@ -1,0 +1,2137 @@
+id	Kanji	Strokes	Grade	Kanji_Classification	JLPT-test	Name_of_Radical	Radical_Freq	#_of_On	#_of_Meanings_of_On	#_of_Meanings_of_Kun	Year_of_Inclusion	Kanji_Frequency_with_Proper_Nouns	Kanji_Frequency_without_Proper_Nouns	Symmetry
+1	亜	7	7	象形_Pictographic	1	Ni	6	1	5	0	1981	13829	1457	S
+2	哀	9	7	会意_Com_Ideographic	1	Kuchi_Kuchihen	70	1	3	8	1981	4792	4651	R
+3	挨	10	7	形声_Phonetic	0	Tehen	89	1	1	0	2010	324	324	
+4	愛	13	4	会意_Com_Ideographic	3	Kokoro_Risshinben_Shitagokoro	76	1	3	0	1981	94602	50443	R
+5	曖	17	7	形声_Phonetic	0	Nichi_Nichihen	38	1	2	0	2010	214	214	
+6	悪	11	3	形声_Phonetic	4	Kokoro_Risshinben_Shitagokoro	76	2	5	17	1981	91570	91516	R
+7	握	12	7	形声_Phonetic	1	Tehen	89	1	6	6	1981	26582	26582	
+8	圧	5	5	会意_Com_Ideographic	2	Tsuchi_Tsuchihen	50	1	4	0	1981	58313	58272	S
+9	扱	6	7	形声_Phonetic	1	Tehen	89	0	0	8	1981	22559	22559	
+10	宛	8	7	会意_Com_Ideographic	0	Ukanmuri	36	0	0	1	2010	165	165	S
+11	嵐	12	7	会意_Com_Ideographic	1	Yama_Yamahen	16	0	0	2	2010	6337	2046	P
+12	安	6	3	会意_Com_Ideographic	4	Ukanmuri	36	1	4	6	1981	358754	276286	R
+13	案	10	4	形声_Phonetic	1	Ki_Kihen	85	1	10	0	1981	182072	182072	P
+14	暗	13	3	形声_Phonetic	3	Nichi_Nichihen	38	1	1	6	1981	20182	20182	R
+15	以	5	4	象形_Pictographic	4	Hito_Ninben_Hitoyane	104	1	5	0	1981	320232	319095	R
+16	衣	6	4	象形_Pictographic	2	Koromo_Koromohen	21	1	1	5	1981	17482	14250	S
+17	位	7	4	会意_Com_Ideographic	3	Hito_Ninben_Hitoyane	104	1	3	8	1981	268425	265390	P
+18	囲	7	4	形声_Phonetic	2	Kunigamae	12	1	1	7	1981	58559	58559	S
+19	医	7	3	会意_Com_Ideographic	4	Kakushigamae	4	1	3	0	1981	136879	130946	R
+20	依	8	7	会意_Com_Ideographic	2	Hito_Ninben_Hitoyane	104	2	1	0	1981	29057	25622	S
+21	委	8	3	会意_Com_Ideographic	2	Onna_Onnahen	36	1	2	2	1981	200980	197575	S
+22	威	9	7	会意_Com_Ideographic	1	Onna_Onnahen	36	1	3	0	1981	20554	19116	S
+23	為	9	7	会意_Com_Ideographic	1	Hi_Hihen_Renga	26	1	3	0	1981	164942	164816	P
+24	畏	9	7	象形_Pictographic	0	Ta_Tahen	19	1	3	3	2010	503	503	
+25	胃	9	4	会意_Com_Ideographic	2	Niku_Nikuzuki	44	1	4	0	1981	4658	4658	R
+26	尉	11	7	会意_Com_Ideographic	1	Sun	12	1	4	0	1981	1209	1195	S
+27	異	11	6	象形_Pictographic	1	Ta_Tahen	19	1	4	3	1981	61359	61359	R
+28	移	11	5	会意_Com_Ideographic	2	Nogi_Nogihen	23	1	10	14	1981	102395	102232	R
+29	萎	11	7	形声_Phonetic	0	Kusakanmuri	47	1	5	5	2010	889	889	
+30	偉	12	7	形声_Phonetic	3	Hito_Ninben_Hitoyane	104	1	1	4	1981	6493	6492	R
+31	椅	12	7	形声_Phonetic	0	Ki_Kihen	85	1	1	0	2010	4614	4614	
+32	彙	13	7	象形_Pictographic	0	Keigashira	1	1	1	1	2010	256	256	
+33	意	13	3	会意_Com_Ideographic	4	Kokoro_Risshinben_Shitagokoro	76	1	11	0	1981	352971	352894	P
+34	違	13	7	形声_Phonetic	3	Shinnyoo	51	1	6	14	1981	138810	138798	S
+35	維	14	7	形声_Phonetic	1	Ito_Itohen	63	1	2	0	1981	38011	37233	
+36	慰	15	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	3	6	1981	8249	8207	S
+37	遺	15	6	形声_Phonetic	1	Shinnyoo	51	2	4	0	1981	86356	86349	R
+38	緯	16	7	形声_Phonetic	1	Ito_Itohen	63	1	5	0	1981	10135	10134	S
+39	域	11	6	形声_Phonetic	2	Tsuchi_Tsuchihen	50	1	4	0	1981	98814	98804	P
+40	育	8	3	会意_Com_Ideographic	3	Niku_Nikuzuki	44	1	4	7	1981	152386	145588	P
+41	一	1	1	指事_Ideographic	5	Ichi	14	2	2	5	1981	1037182	848362	R
+42	壱	7	7	象形_Pictographic	1	Samurai	5	1	1	0	1981	649	225	
+43	逸	11	7	会意_Com_Ideographic	1	Shinnyoo	51	1	2	0	1981	13749	9754	S
+44	茨	9	7	形声_Phonetic	0	Kusakanmuri	47	0	2	2	2010	22322	303	
+45	芋	6	7	形声_Phonetic	1	Kusakanmuri	47	0	0	1	1981	1185	1099	S
+46	引	4	2	会意_Com_Ideographic	3	Yumi_Yumihen	11	1	29	33	1981	217815	217047	S
+47	印	6	4	会意_Com_Ideographic	2	Fushizukuri_Warifu	6	1	3	14	1981	55714	48983	S
+48	因	6	5	会意_Com_Ideographic	3	Kunigamae	12	1	2	2	1981	72152	71737	P
+49	咽	9	7	形声_Phonetic	0	Kuchi_Kuchihen	70	1	2	0	2010	462	462	
+50	姻	9	7	形声_Phonetic	1	Onna_Onnahen	36	1	1	0	1981	1079	1079	
+51	員	10	3	象形_Pictographic	4	Kuchi_Kuchihen	70	1	3	0	1981	545063	544702	P
+52	院	10	3	形声_Phonetic	4	Kozatohen	31	1	8	0	1981	309380	140029	P
+53	淫	11	7	形声_Phonetic	0	Mizu_Sanzui_Shitamizu	118	1	2	3	2010	195	195	
+54	陰	11	7	形声_Phonetic	1	Kozatohen	31	1	15	6	1981	9803	9192	S
+55	飲	12	3	会意_Com_Ideographic	4	Shoku_Shokuhen	12	1	2	9	1981	33925	33924	S
+56	隠	14	7	形声_Phonetic	1	Kozatohen	31	1	6	10	1981	30520	29893	R
+57	韻	19	7	形声_Phonetic	1	Oto	3	1	3	0	1981	1118	1118	S
+58	右	5	1	会意_Com_Ideographic	5	Kuchi_Kuchihen	70	2	2	2	1981	118918	116443	R
+59	宇	6	6	形声_Phonetic	2	Ukanmuri	36	1	4	0	1981	44514	21014	S
+60	羽	6	2	象形_Pictographic	2	Hane	6	1	1	6	1981	46076	11101	S
+61	雨	8	1	象形_Pictographic	5	Ame_Amekanmuri	13	1	2	2	1981	27122	26169	S
+62	唄	10	7	形声_Phonetic	1	Kuchi_Kuchihen	70	0	0	1	2010	2270	2052	P
+63	鬱	29	7	会意_Com_Ideographic	0	Cho_Nioizake	1	1	3	0	2010	595	595	S
+64	畝	10	7	形声_Phonetic	1	Ta_Tahen	19	0	0	3	1981	649	341	
+65	浦	10	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	0	0	6	1981	49738	1767	
+66	運	12	3	形声_Phonetic	4	Shinnyoo	51	1	5	4	1981	168926	161376	S
+67	雲	12	2	形声_Phonetic	2	Ame_Amekanmuri	13	1	1	1	1981	12988	8889	S
+68	永	5	5	象形_Pictographic	2	Mizu_Sanzui_Shitamizu	118	1	2	2	1981	42048	8370	R
+69	泳	8	3	形声_Phonetic	3	Mizu_Sanzui_Shitamizu	118	1	4	4	1981	18982	18408	S
+70	英	8	4	形声_Phonetic	4	Kusakanmuri	47	1	4	0	1981	129557	25070	R
+71	映	9	6	形声_Phonetic	4	Nichi_Nichihen	38	1	2	16	1981	105302	103012	S
+72	栄	9	4	形声_Phonetic	2	Ki_Kihen	85	1	4	7	1981	35458	20609	S
+73	営	12	5	形声_Phonetic	2	Tsukanmuri	4	1	2	5	1981	176041	174443	P
+74	詠	12	7	形声_Phonetic	1	Gon_Gonben	68	1	4	2	1981	2523	2294	S
+75	影	15	7	会意_Com_Ideographic	1	Sanzukuri	5	1	1	7	1981	108002	106777	P
+76	鋭	15	7	形声_Phonetic	2	Kane_Kanehen	33	1	5	8	1981	10826	10763	S
+77	衛	16	5	形声_Phonetic	1	Gyoogamae	6	1	1	0	1981	110244	57115	S
+78	易	8	5	会意_Com_Ideographic	3	Nichi_Nichihen	38	2	4	4	1981	33742	33592	P
+79	疫	9	7	形声_Phonetic	1	Yamaidare	15	2	1	0	1981	7208	7206	S
+80	益	10	5	会意_Com_Ideographic	1	Sara	8	2	5	0	1981	64941	62744	P
+81	液	11	5	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	5	0	1981	16315	16262	S
+82	駅	14	3	形声_Phonetic	4	Uma_Umahen	11	1	3	0	1981	57221	56554	R
+83	悦	10	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	4	0	1981	6261	505	S
+84	越	12	7	形声_Phonetic	3	Hashiru_Soonyoo	6	1	10	14	1981	78816	48679	S
+85	謁	15	7	形声_Phonetic	1	Gon_Gonben	68	1	1	0	1981	141	141	
+86	閲	15	7	形声_Phonetic	1	Mongamae	11	1	2	0	1981	4936	4936	S
+87	円	4	1	形声_Phonetic	5	Doogamae	3	1	2	3	1981	500580	496542	R
+88	延	8	6	会意_Com_Ideographic	2	Ennyoo	3	1	1	25	1981	56177	53556	S
+89	沿	8	6	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	1	3	1981	15270	15183	R
+90	炎	8	7	会意_Com_Ideographic	1	Hi_Hihen_Renga	26	1	1	2	1981	19466	19466	S
+91	怨	9	7	形声_Phonetic	0	Kokoro_Risshinben_Shitagokoro	76	2	3	0	2010	513	513	S
+92	宴	10	7	会意_Com_Ideographic	1	Ukanmuri	36	1	4	0	1981	4440	4440	S
+93	媛	12	7	形声_Phonetic	1	Onna_Onnahen	36	1	2	0	2010	8956	109	
+94	援	12	7	形声_Phonetic	1	Tehen	89	1	2	0	1981	149374	149374	S
+95	園	13	2	形声_Phonetic	3	Kunigamae	12	1	4	2	1981	101424	60982	P
+96	煙	13	7	形声_Phonetic	3	Hi_Hihen_Renga	26	1	1	6	1981	14608	14597	P
+97	猿	13	7	形声_Phonetic	1	Inu_Kemonohen	17	1	1	6	1981	3338	1757	S
+98	遠	13	2	形声_Phonetic	3	Shinnyoo	51	2	4	4	1981	45975	33942	R
+99	鉛	13	7	形声_Phonetic	1	Kane_Kanehen	33	1	1	1	1981	2950	2853	S
+100	塩	13	4	形声_Phonetic	2	Tsuchi_Tsuchihen	50	1	1	2	1981	21528	10204	S
+101	演	14	5	形声_Phonetic	3	Mizu_Sanzui_Shitamizu	118	1	7	0	1981	155925	155906	S
+102	縁	15	7	形声_Phonetic	1	Ito_Itohen	63	1	15	14	1981	12092	11956	P
+103	艶	19	7	会意_Com_Ideographic	1	Iro	2	1	4	8	2010	698	633	S
+104	汚	6	7	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	8	28	1981	20199	20199	R
+105	王	4	1	象形_Pictographic	3	Tama_Oo	15	1	4	0	1981	95191	71024	S
+106	凹	5	7	象形_Pictographic	1	Ukebako	4	1	2	0	1981	482	482	
+107	央	5	3	象形_Pictographic	2	Dai	16	1	1	0	1981	69884	45630	
+108	応	7	5	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	2	4	1981	174232	167368	S
+109	往	8	5	形声_Phonetic	1	Gyooninben	19	1	2	0	1981	8776	8687	R
+110	押	8	7	形声_Phonetic	3	Tehen	89	1	8	24	1981	53525	52263	S
+111	旺	8	7	形声_Phonetic	1	Nichi_Nichihen	38	1	4	0	2010	1184	991	
+112	欧	8	7	会意_Com_Ideographic	2	Akubi	8	1	1	0	1981	81706	796	S
+113	殴	8	7	会意_Com_Ideographic	1	Rumata	6	1	3	3	1981	6653	6653	
+114	桜	10	5	形声_Phonetic	1	Ki_Kihen	85	1	4	4	1981	20657	9681	S
+115	翁	10	7	形声_Phonetic	1	Hane	6	1	2	0	1981	683	325	
+116	奥	12	7	会意_Com_Ideographic	2	Dai	16	1	2	2	1981	25414	12419	S
+117	横	15	3	形声_Phonetic	3	Ki_Kihen	85	1	1	7	1981	138234	45375	R
+118	岡	8	7	会意_Com_Ideographic	1	Yama_Yamahen	16	0	0	3	2010	187113	2136	
+119	屋	9	3	会意_Com_Ideographic	4	Shikabane	15	1	2	5	1981	118824	61444	P
+120	億	15	4	形声_Phonetic	2	Hito_Ninben_Hitoyane	104	1	1	0	1981	172259	172258	
+121	憶	16	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	2	0	1981	13656	13633	
+122	臆	17	7	形声_Phonetic	0	Niku_Nikuzuki	44	1	4	0	2010	329	329	
+123	虞	13	7	形声_Phonetic	1	Toragashira	5	0	0	4	1981	79	76	
+124	乙	1	7	象形_Pictographic	1	Otsu_Otsunyoo	7	1	4	0	1981	2172	1348	S
+125	俺	10	7	形声_Phonetic	0	Hito_Ninben_Hitoyane	104	0	0	1	2010	1599	1599	
+126	卸	9	7	会意_Com_Ideographic	1	Fushizukuri_Warifu	6	0	0	3	1981	4439	4434	
+127	音	9	1	会意_Com_Ideographic	4	Oto	3	2	4	8	1981	85993	81924	P
+128	恩	10	5	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	6	0	1981	9650	7761	S
+129	温	12	3	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	2	8	1981	62533	58243	S
+130	穏	16	7	形声_Phonetic	1	Nogi_Nogihen	23	1	4	4	1981	6768	6757	S
+131	下	3	1	指事_Ideographic	5	Ichi	14	2	4	75	1981	390613	328608	S
+132	化	4	3	会意_Com_Ideographic	3	Hi	2	2	5	5	1981	450696	439707	P
+133	火	4	1	象形_Pictographic	5	Hi_Hihen_Renga	26	1	2	3	1981	78182	75741	S
+134	加	5	4	会意_Com_Ideographic	3	Chikara	23	2	2	9	1981	293767	246138	R
+135	可	5	5	会意_Com_Ideographic	3	Kuchi_Kuchihen	70	1	5	0	1981	165873	165025	S
+136	仮	6	5	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	2	1	14	1981	19971	19623	R
+137	何	7	2	形声_Phonetic	5	Hito_Ninben_Hitoyane	104	1	1	1	1981	131255	131229	R
+138	花	7	1	形声_Phonetic	4	Kusakanmuri	47	1	1	12	1981	69449	48962	R
+139	佳	8	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	3	0	1981	16214	1945	R
+140	価	8	5	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	4	4	1981	166907	164689	P
+141	果	8	4	象形_Pictographic	3	Ki_Kihen	85	1	2	16	1981	183069	182852	S
+142	河	8	5	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	2	2	1981	50828	12790	S
+143	苛	8	7	形声_Phonetic	0	Kusakanmuri	47	1	3	0	2010	260	260	
+144	科	9	2	会意_Com_Ideographic	3	Nogi_Nogihen	23	1	8	0	1981	125139	115197	P
+145	架	9	7	形声_Phonetic	1	Ki_Kihen	85	1	6	2	1981	6608	6584	S
+146	夏	10	2	象形_Pictographic	4	Suinyoo	4	2	1	1	1981	62568	55923	S
+147	家	10	2	会意_Com_Ideographic	4	Ukanmuri	36	2	1	12	1981	390197	378801	S
+148	荷	10	3	形声_Phonetic	2	Kusakanmuri	47	1	1	5	1981	17583	16888	S
+149	華	10	7	象形_Pictographic	1	Kusakanmuri	47	2	4	1	1981	23238	16688	S
+150	菓	11	7	形声_Phonetic	2	Kusakanmuri	47	1	2	0	1981	6696	6161	S
+151	貨	11	4	形声_Phonetic	2	Kai_Kaihen	35	1	3	0	1981	25454	23555	P
+152	渦	12	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	3	3	1981	2615	2613	S
+153	過	12	5	形声_Phonetic	3	Shinnyoo	51	1	2	13	1981	169936	169936	R
+154	嫁	13	7	形声_Phonetic	1	Onna_Onnahen	36	1	3	5	1981	5007	4976	S
+155	暇	13	7	形声_Phonetic	1	Nichi_Nichihen	38	1	2	6	1981	4561	4555	S
+156	禍	13	7	形声_Phonetic	1	Shimesu_Shimesuhen	15	1	2	0	1981	1275	1275	P
+157	靴	13	7	形声_Phonetic	3	Kakunokawa_Kawahen	2	1	1	2	1981	6310	6282	S
+158	寡	14	7	会意_Com_Ideographic	1	Ukanmuri	36	1	4	0	1981	975	975	R
+159	歌	14	2	形声_Phonetic	4	Akubi	8	1	4	9	1981	95151	77157	P
+160	箇	14	7	形声_Phonetic	1	Take_Takekanmuri	24	1	1	0	1981	268	172	R
+161	稼	15	7	形声_Phonetic	1	Nogi_Nogihen	23	1	2	2	1981	15294	15249	
+162	課	15	4	形声_Phonetic	2	Gon_Gonben	68	1	5	0	1981	93601	93601	S
+163	蚊	10	7	形声_Phonetic	1	Mushi_Mushihen	10	0	0	1	1981	1204	1200	
+164	牙	4	7	象形_Pictographic	0	Kiba_Kibahen	1	2	4	4	2010	2493	2493	
+165	瓦	5	7	象形_Pictographic	0	Kawara	2	1	1	1	2010	2801	1469	S
+166	我	7	6	仮借_Loan	1	Hokogamae_Hokozukuri	7	1	4	4	1981	39896	33228	S
+167	画	8	2	会意_Com_Ideographic	4	Ta_Tahen	19	2	5	0	1981	217267	215393	S
+168	芽	8	4	形声_Phonetic	1	Kusakanmuri	47	1	3	3	1981	5645	5415	P
+169	賀	12	5	会意_Com_Ideographic	1	Kai_Kaihen	35	1	4	0	1981	54494	8115	S
+170	雅	13	7	形声_Phonetic	1	Furutori	9	1	2	0	1981	29481	5071	S
+171	餓	15	7	形声_Phonetic	1	Shoku_Shokuhen	12	1	3	0	1981	1646	1646	
+172	介	4	7	象形_Pictographic	2	Hito_Ninben_Hitoyane	104	1	2	0	1981	101634	83725	S
+173	回	6	2	象形_Pictographic	3	Kunigamae	12	2	8	20	1981	680362	680362	R
+174	灰	6	6	会意_Com_Ideographic	2	Hi_Hihen_Renga	26	1	1	1	1981	3803	3767	S
+175	会	6	2	象形_Pictographic	4	Hito_Ninben_Hitoyane	104	2	7	2	1981	1467498	1439692	P
+176	快	7	5	形声_Phonetic	2	Kokoro_Risshinben_Shitagokoro	76	1	2	6	1981	29266	29254	S
+177	戒	7	7	会意_Com_Ideographic	1	Hokogamae_Hokozukuri	7	1	2	3	1981	26530	26522	P
+178	改	7	4	形声_Phonetic	2	Nobun	16	1	14	21	1981	234577	234483	R
+179	怪	8	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	2	6	1981	5157	5157	R
+180	拐	8	7	形声_Phonetic	1	Tehen	89	1	2	0	1981	5223	5223	
+181	悔	9	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	2	8	1981	14850	14850	S
+182	海	9	2	形声_Phonetic	4	Mizu_Sanzui_Shitamizu	118	1	2	2	1981	253912	135716	R
+183	界	9	3	形声_Phonetic	4	Ta_Tahen	19	1	4	0	1981	276388	274516	P
+184	皆	9	7	会意_Com_Ideographic	3	Shiro	5	1	3	3	1981	16872	15261	R
+185	械	11	4	形声_Phonetic	2	Ki_Kihen	85	1	3	0	1981	7760	7481	
+186	絵	12	2	形声_Phonetic	3	Ito_Itohen	63	2	7	0	1981	37448	34440	S
+187	開	12	3	会意_Com_Ideographic	4	Mongamae	11	1	1	43	1981	492614	487193	R
+188	階	12	3	形声_Phonetic	2	Kozatohen	31	1	8	0	1981	71021	70043	S
+189	塊	13	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	6	10	1981	4858	4858	S
+190	楷	13	7	形声_Phonetic	0	Ki_Kihen	85	1	5	0	2010	262	262	
+191	解	13	5	会意_Com_Ideographic	3	Tsuno_Tsunohen	3	2	5	23	1981	231535	231356	S
+192	潰	15	7	形声_Phonetic	0	Mizu_Sanzui_Shitamizu	118	1	9	15	2010	502	502	S
+193	壊	16	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	1	9	1981	49235	49233	S
+194	懐	16	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	2	13	1981	9364	9361	S
+195	諧	16	7	形声_Phonetic	0	Gon_Gonben	68	1	3	0	2010	308	308	
+196	貝	7	1	象形_Pictographic	2	Kai_Kaihen	35	0	0	2	1981	4204	2283	S
+197	外	5	2	会意_Com_Ideographic	5	Yuube	5	2	4	29	1981	396147	365049	R
+198	劾	8	7	形声_Phonetic	1	Chikara	23	1	1	0	1981	1479	1479	
+199	害	10	4	会意_Com_Ideographic	3	Ukanmuri	36	1	5	0	1981	203753	203735	P
+200	崖	11	7	形声_Phonetic	0	Yama_Yamahen	16	1	3	3	2010	598	584	
+201	涯	11	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	1	0	1981	5496	5496	
+202	街	12	4	形声_Phonetic	1	Gyoogamae	6	2	3	3	1981	36634	35407	S
+203	慨	13	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	1	0	1981	2376	2376	
+204	蓋	13	7	形声_Phonetic	0	Kusakanmuri	47	1	1	4	2010	637	636	P
+205	該	13	7	形声_Phonetic	1	Gon_Gonben	68	1	1	0	1981	4696	4696	
+206	概	14	7	形声_Phonetic	1	Ki_Kihen	85	1	3	0	1981	11440	11440	R
+207	骸	16	7	形声_Phonetic	0	Hone_Honehen	3	1	2	0	2010	773	773	
+208	垣	9	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	0	0	3	1981	17620	4939	S
+209	柿	9	7	形声_Phonetic	0	Ki_Kihen	85	0	0	1	2010	2994	1508	S
+210	各	6	4	会意_Com_Ideographic	2	Kuchi_Kuchihen	70	1	1	4	1981	127269	126584	R
+211	角	7	2	象形_Pictographic	2	Tsuno_Tsunohen	3	1	5	8	1981	53297	43674	S
+212	拡	8	6	形声_Phonetic	1	Tehen	89	1	7	0	1981	58806	58806	R
+213	革	9	6	象形_Pictographic	2	Kakunokawa_Kawahen	2	1	1	11	1981	108516	108283	S
+214	格	10	5	形声_Phonetic	3	Ki_Kihen	85	2	8	0	1981	158523	157579	P
+215	核	10	7	形声_Phonetic	1	Ki_Kihen	85	1	4	0	1981	79956	79892	S
+216	殻	11	7	会意_Com_Ideographic	1	Rumata	6	1	7	7	1981	2665	2583	P
+217	郭	11	7	形声_Phonetic	1	Oozato	12	1	2	0	1981	2361	1666	S
+218	覚	12	4	形声_Phonetic	3	Miru	7	1	8	12	1981	65444	64368	P
+219	較	13	7	形声_Phonetic	1	Kuruma_Kurumahen	15	1	3	0	1981	13254	13254	
+220	隔	13	7	形声_Phonetic	1	Kozatohen	31	1	3	8	1981	8796	8796	S
+221	閣	14	6	形声_Phonetic	1	Mongamae	11	1	4	0	1981	89137	86132	S
+222	確	15	5	形声_Phonetic	3	Ishi_Ishihen	16	1	4	21	1981	178948	178948	R
+223	獲	16	7	形声_Phonetic	1	Inu_Kemonohen	17	1	11	11	1981	37942	37942	S
+224	嚇	17	7	形声_Phonetic	1	Kuchi_Kuchihen	70	1	3	0	1981	928	928	
+225	穫	18	7	形声_Phonetic	1	Nogi_Nogihen	23	1	2	0	1981	4657	4657	
+226	学	8	1	会意_Com_Ideographic	5	Ko_Kohen	9	1	5	2	1981	634688	569326	P
+227	岳	8	7	象形_Pictographic	1	Yama_Yamahen	16	1	2	2	1981	8436	3677	
+228	楽	13	2	象形_Pictographic	4	Ki_Kihen	85	2	6	7	1981	151158	140566	S
+229	額	18	5	形声_Phonetic	2	Oogai	22	1	8	2	1981	117158	117015	P
+230	顎	18	7	形声_Phonetic	0	Oogai	22	1	1	2	2010	162	162	
+231	掛	11	7	形声_Phonetic	3	Tehen	89	0	0	52	1981	37182	35833	S
+232	潟	15	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	0	0	1	1981	39132	1180	
+233	括	9	7	形声_Phonetic	1	Tehen	89	1	4	0	1981	16827	16827	S
+234	活	9	2	形声_Phonetic	3	Mizu_Sanzui_Shitamizu	118	1	3	0	1981	243149	242183	S
+235	喝	11	7	形声_Phonetic	1	Kuchi_Kuchihen	70	1	2	0	1981	3366	3366	S
+236	渇	11	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	1	4	1981	1497	1497	S
+237	割	12	6	形声_Phonetic	3	Katana_Rittoo	32	1	10	19	1981	137752	137700	R
+238	葛	12	7	形声_Phonetic	0	Kusakanmuri	47	1	2	2	2010	7997	1644	
+239	滑	13	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	2	6	7	1981	16490	15869	S
+240	褐	13	7	形声_Phonetic	1	Koromo_Koromohen	21	1	1	0	1981	547	547	
+241	轄	17	7	形声_Phonetic	1	Kuruma_Kurumahen	15	1	1	0	1981	2680	2680	
+242	且	5	7	象形_Pictographic	1	Ichi	14	0	0	2	1981	85	79	
+243	株	10	6	形声_Phonetic	1	Ki_Kihen	85	0	0	6	1981	124760	124753	P
+244	釜	10	7	形声_Phonetic	0	Kane_Kanehen	33	0	0	4	2010	6485	1261	
+245	鎌	18	7	形声_Phonetic	1	Kane_Kanehen	33	0	0	3	2010	6732	260	
+246	刈	4	7	象形_Pictographic	1	Katana_Rittoo	32	0	0	6	1981	6788	2974	
+247	干	3	6	象形_Pictographic	2	Ichijuu	5	1	4	6	1981	10713	10471	S
+248	刊	5	5	形声_Phonetic	2	Katana_Rittoo	32	1	3	0	1981	46452	45720	P
+249	甘	5	7	象形_Pictographic	2	Amai	2	1	3	16	1981	18128	16866	R
+250	汗	6	7	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	1	1	1981	6422	6421	S
+251	缶	6	7	形声_Phonetic	2	Hotogi	1	1	1	0	1981	5429	5417	
+252	完	7	4	会意_Com_Ideographic	3	Ukanmuri	36	1	2	0	1981	62034	61264	R
+253	肝	7	7	形声_Phonetic	1	Niku_Nikuzuki	44	1	1	4	1981	13435	13380	R
+254	官	8	4	会意_Com_Ideographic	3	Ukanmuri	36	1	3	0	1981	261404	260883	S
+255	冠	9	7	会意_Com_Ideographic	1	Wakanmuri	4	1	5	3	1981	11741	11129	P
+256	巻	9	6	会意_Com_Ideographic	2	Onore	2	1	4	9	1981	37301	32398	P
+257	看	9	6	会意_Com_Ideographic	1	Me_Mehen	19	1	1	0	1981	18309	18261	R
+258	陥	10	7	形声_Phonetic	1	Kozatohen	31	1	7	9	1981	17344	17344	S
+259	乾	11	7	会意_Com_Ideographic	2	Otsu_Otsunyoo	7	1	2	4	1981	7656	7077	R
+260	勘	11	7	会意_Com_Ideographic	1	Chikara	23	1	3	0	1981	7017	5721	S
+261	患	11	7	形声_Phonetic	2	Kokoro_Risshinben_Shitagokoro	76	1	1	3	1981	46261	46258	P
+262	貫	11	7	会意_Com_Ideographic	1	Kai_Kaihen	35	1	1	4	1981	17190	13308	S
+263	寒	12	3	会意_Com_Ideographic	3	Ukanmuri	36	1	2	2	1981	10332	9231	S
+264	喚	12	7	形声_Phonetic	1	Kuchi_Kuchihen	70	1	5	0	1981	4705	4705	S
+265	堪	12	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	8	8	1981	1822	1822	
+266	換	12	7	形声_Phonetic	2	Tehen	89	1	7	8	1981	51195	51195	S
+267	敢	12	7	象形_Pictographic	1	Nobun	16	1	7	0	1981	3528	3528	S
+268	棺	12	7	形声_Phonetic	1	Ki_Kihen	85	1	2	0	1981	971	971	
+269	款	12	7	会意_Com_Ideographic	1	Akubi	8	1	5	0	1981	1774	1774	
+270	間	12	2	会意_Com_Ideographic	5	Mongamae	11	2	8	20	1981	625322	593691	P
+271	閑	12	7	会意_Com_Ideographic	1	Mongamae	11	1	1	0	1981	2101	1469	S
+272	勧	13	7	形声_Phonetic	1	Chikara	23	1	4	4	1981	22557	21482	R
+273	寛	13	7	会意_Com_Ideographic	1	Ukanmuri	36	1	2	0	1981	14432	2023	R
+274	幹	13	5	形声_Phonetic	1	Ichijuu	5	1	1	1	1981	115353	105322	S
+275	感	13	3	形声_Phonetic	3	Kokoro_Risshinben_Shitagokoro	76	1	7	0	1981	269610	269551	S
+276	漢	13	3	形声_Phonetic	4	Mizu_Sanzui_Shitamizu	118	1	3	0	1981	13555	11457	S
+277	慣	14	5	形声_Phonetic	3	Kokoro_Risshinben_Shitagokoro	76	1	2	12	1981	15194	15194	S
+278	管	14	4	形声_Phonetic	2	Take_Takekanmuri	24	1	4	3	1981	89826	87263	P
+279	関	14	4	会意_Com_Ideographic	3	Mongamae	11	1	2	7	1981	471196	399339	S
+280	歓	15	7	形声_Phonetic	1	Akubi	8	1	2	0	1981	16949	16935	S
+281	監	15	7	会意_Com_Ideographic	1	Sara	8	1	4	0	1981	166435	166298	R
+282	緩	15	7	形声_Phonetic	1	Ito_Itohen	63	1	5	18	1981	27903	27903	R
+283	憾	16	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	2	0	1981	3524	3524	
+284	還	16	7	形声_Phonetic	1	Shinnyoo	51	1	4	0	1981	27878	27878	S
+285	館	16	3	形声_Phonetic	4	Shoku_Shokuhen	12	1	3	2	1981	123530	104513	P
+286	環	17	7	形声_Phonetic	1	Tama_Oo	15	1	1	0	1981	94606	86615	S
+287	簡	18	6	形声_Phonetic	2	Take_Takekanmuri	24	1	2	0	1981	24121	24104	R
+288	観	18	4	形声_Phonetic	3	Miru	7	1	6	0	1981	103991	101903	S
+289	韓	18	7	会意_Com_Ideographic	0	Nameshigawa	1	1	1	0	2010	114566	1651	
+290	艦	21	7	形声_Phonetic	1	Fune_Funehen	8	1	1	0	1981	17124	16793	S
+291	鑑	23	7	形声_Phonetic	1	Kane_Kanehen	33	1	2	2	1981	16024	15763	S
+292	丸	3	2	象形_Pictographic	2	Ten	4	1	4	14	1981	51748	20149	S
+293	含	7	7	会意_Com_Ideographic	2	Kuchi_Kuchihen	70	1	15	18	1981	85032	84861	S
+294	岸	8	3	形声_Phonetic	2	Yama_Yamahen	16	1	4	4	1981	36242	23045	P
+295	岩	8	2	象形_Pictographic	2	Yama_Yamahen	16	1	3	3	1981	59479	7213	R
+296	玩	8	7	形声_Phonetic	0	Tama_Oo	15	1	6	0	2010	1255	1255	
+297	眼	11	5	形声_Phonetic	1	Me_Mehen	19	2	23	1	1981	10059	10003	P
+298	頑	13	7	形声_Phonetic	1	Oogai	22	1	2	0	1981	17758	17758	R
+299	顔	18	2	形声_Phonetic	3	Oogai	22	1	2	5	1981	65586	65573	P
+300	願	19	4	形声_Phonetic	3	Oogai	22	1	3	5	1981	32081	31216	P
+301	企	6	7	象形_Pictographic	1	Hito_Ninben_Hitoyane	104	1	8	8	1981	137455	135325	
+302	伎	6	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	2	0	2010	7779	5317	
+303	危	6	6	形声_Phonetic	3	Fushizukuri_Warifu	6	1	3	13	1981	72507	72486	R
+304	机	6	6	象形_Pictographic	2	Ki_Kihen	85	1	2	2	1981	3114	3064	
+305	気	6	1	形声_Phonetic	5	Kigamae	1	2	30	0	1981	387806	378575	P
+306	岐	7	7	形声_Phonetic	1	Yama_Yamahen	16	1	6	0	1981	19388	2952	
+307	希	7	4	象形_Pictographic	2	Haba_Kinben	17	1	1	0	1981	41379	32914	R
+308	忌	7	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	3	11	1981	2776	2637	S
+309	汽	7	2	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	2	0	1981	1375	1069	
+310	奇	8	7	会意_Com_Ideographic	1	Dai	16	1	3	0	1981	10880	10780	R
+311	祈	8	7	形声_Phonetic	2	Shimesu_Shimesuhen	15	1	2	2	1981	8956	8936	
+312	季	8	4	会意_Com_Ideographic	2	Ko_Kohen	9	1	1	0	1981	84575	83471	P
+313	紀	9	4	形声_Phonetic	1	Ito_Itohen	63	1	5	0	1981	84456	39505	S
+314	軌	9	7	形声_Phonetic	1	Kuruma_Kurumahen	15	1	8	0	1981	6684	6683	S
+315	既	10	7	会意_Com_Ideographic	1	Munyoo	1	1	5	5	1981	27473	27473	R
+316	記	10	2	形声_Phonetic	3	Gon_Gonben	68	1	7	4	1981	325687	320434	P
+317	起	10	3	形声_Phonetic	4	Hashiru_Soonyoo	6	1	5	26	1981	143238	142531	S
+318	飢	10	7	形声_Phonetic	1	Shoku_Shokuhen	12	1	2	2	1981	2283	2283	
+319	鬼	10	7	象形_Pictographic	1	Oni_Kinyoo	4	1	3	7	1981	8447	5180	R
+320	帰	10	2	会意_Com_Ideographic	4	Haba_Kinben	17	1	4	5	1981	84044	83936	R
+321	基	11	5	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	9	3	1981	183500	176867	R
+322	寄	11	5	形声_Phonetic	3	Ukanmuri	36	1	13	24	1981	71641	70655	R
+323	規	11	5	会意_Com_Ideographic	3	Miru	7	1	2	0	1981	125053	122281	S
+324	亀	11	7	象形_Pictographic	1	Otsu_Otsunyoo	7	1	2	2	2010	20419	5017	
+325	喜	12	4	会意_Com_Ideographic	3	Kuchi_Kuchihen	70	1	3	3	1981	59165	31074	S
+326	幾	12	7	会意_Com_Ideographic	3	Itogashira	4	1	6	5	1981	3329	2681	R
+327	揮	12	6	形声_Phonetic	1	Tehen	89	1	6	0	1981	26137	25881	
+328	期	12	3	形声_Phonetic	3	Tsuki_Tsukihen	8	2	9	0	1981	373280	372411	P
+329	棋	12	7	形声_Phonetic	1	Ki_Kihen	85	1	1	0	1981	32955	30669	S
+330	貴	12	6	会意_Com_Ideographic	1	Kai_Kaihen	35	1	6	11	1981	40784	11941	R
+331	棄	13	7	会意_Com_Ideographic	1	Ki_Kihen	85	1	13	0	1981	41725	41725	S
+332	毀	13	7	会意_Com_Ideographic	0	Rumata	6	1	3	0	2010	271	271	
+333	旗	14	4	形声_Phonetic	1	Hoo_Hoohen	6	1	6	6	1981	13950	13045	S
+334	器	15	4	会意_Com_Ideographic	1	Kuchi_Kuchihen	70	1	7	7	1981	96315	90488	P
+335	畿	15	7	形声_Phonetic	0	Ta_Tahen	19	1	2	0	2010	7830	399	
+336	輝	15	7	形声_Phonetic	1	Kuruma_Kurumahen	15	1	7	7	1981	21277	13041	
+337	機	16	4	形声_Phonetic	3	Ki_Kihen	85	1	5	1	1981	341144	328821	S
+338	騎	18	7	形声_Phonetic	1	Uma_Umahen	11	1	2	0	1981	5900	5830	R
+339	技	7	5	形声_Phonetic	2	Tehen	89	1	6	6	1981	121322	118311	P
+340	宜	8	7	象形_Pictographic	1	Ukanmuri	36	1	24	0	1981	5920	2933	P
+341	偽	11	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	5	10	1981	33521	33521	R
+342	欺	12	7	形声_Phonetic	1	Akubi	8	1	3	3	1981	12533	12533	
+343	義	13	5	会意_Com_Ideographic	1	Hitsuji	7	1	11	0	1981	137923	98175	S
+344	疑	14	6	象形_Pictographic	3	Hiki	2	1	3	3	1981	215539	215539	S
+345	儀	15	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	5	0	1981	25031	24131	P
+346	戯	15	7	会意_Com_Ideographic	1	Hokogamae_Hokozukuri	7	1	5	5	1981	2360	2359	S
+347	擬	17	7	形声_Phonetic	1	Tehen	89	1	5	0	1981	1644	1644	R
+348	犠	17	7	形声_Phonetic	1	Ushi_Ushihen	6	1	1	0	1981	17568	17568	
+349	議	20	4	形声_Phonetic	3	Gon_Gonben	68	1	6	0	1981	557609	554146	P
+350	菊	11	7	会意_Com_Ideographic	1	Kusakanmuri	47	1	1	0	1981	13537	2811	S
+351	吉	6	7	会意_Com_Ideographic	1	Kuchi_Kuchihen	70	2	3	0	1981	73912	3185	S
+352	喫	12	7	形声_Phonetic	2	Kuchi_Kuchihen	70	1	4	0	1981	12168	12168	S
+353	詰	13	7	形声_Phonetic	2	Gon_Gonben	68	1	4	26	1981	29712	29629	S
+354	却	7	7	会意_Com_Ideographic	1	Fushizukuri_Warifu	6	1	4	0	1981	34599	34599	P
+355	客	9	3	会意_Com_Ideographic	3	Ukanmuri	36	2	5	0	1981	77689	77463	S
+356	脚	11	7	形声_Phonetic	1	Niku_Nikuzuki	44	2	3	16	1981	17524	17512	S
+357	逆	9	5	形声_Phonetic	2	Shinnyoo	51	1	6	6	1981	53169	53103	R
+358	虐	9	7	象形_Pictographic	1	Toragashira	5	1	2	1	1981	14877	14877	S
+359	九	2	1	象形_Pictographic	5	Otsu_Otsunyoo	7	2	1	1	1981	83167	44817	R
+360	久	3	5	象形_Pictographic	2	No	4	2	3	3	1981	86023	15812	S
+361	及	3	7	会意_Com_Ideographic	1	No	4	1	3	13	1981	65027	62000	S
+362	弓	3	2	象形_Pictographic	1	Yumi_Yumihen	11	1	2	4	1981	4289	1326	S
+363	丘	5	7	象形_Pictographic	1	Ichi	14	1	3	3	1981	9788	3344	S
+364	旧	5	5	会意_Com_Ideographic	2	Nichi_Nichihen	38	1	6	0	1981	55161	54326	R
+365	休	6	1	会意_Com_Ideographic	5	Hito_Ninben_Hitoyane	104	1	5	16	1981	57608	57257	S
+366	吸	6	6	形声_Phonetic	3	Kuchi_Kuchihen	70	1	5	5	1981	20591	20591	R
+367	朽	6	7	形声_Phonetic	1	Ki_Kihen	85	1	3	3	1981	2168	2116	S
+368	臼	6	7	象形_Pictographic	0	Usu	2	1	2	2	2010	2657	576	S
+369	求	7	4	象形_Pictographic	3	Mizu_Sanzui_Shitamizu	118	1	9	9	1981	199081	198721	S
+370	究	7	3	形声_Phonetic	4	Ana_Anakanmuri	10	1	3	3	1981	128759	126101	S
+371	泣	8	4	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	4	4	1981	12445	12412	
+372	急	9	3	形声_Phonetic	4	Kokoro_Risshinben_Shitagokoro	76	1	5	2	1981	117082	106764	R
+373	級	9	3	形声_Phonetic	1	Ito_Itohen	63	1	5	0	1981	78280	78184	P
+374	糾	9	7	形声_Phonetic	1	Ito_Itohen	63	1	6	0	1981	1787	1787	S
+375	宮	10	3	会意_Com_Ideographic	1	Ukanmuri	36	3	2	4	1981	137304	18307	S
+376	救	11	4	会意_Com_Ideographic	1	Nobun	16	1	6	6	1981	47547	47537	R
+377	球	11	3	形声_Phonetic	3	Tama_Oo	15	1	5	4	1981	284228	280835	P
+378	給	12	4	形声_Phonetic	3	Ito_Itohen	63	1	3	0	1981	77929	77558	S
+379	嗅	13	7	会意_Com_Ideographic	0	Kuchi_Kuchihen	70	1	3	3	2010	320	320	
+380	窮	15	7	会意_Com_Ideographic	1	Ana_Anakanmuri	10	1	4	3	1981	4098	4098	R
+381	牛	4	2	象形_Pictographic	4	Ushi_Ushihen	6	1	2	4	1981	35738	32331	S
+382	去	5	3	会意_Com_Ideographic	4	Mu	2	2	12	12	1981	106919	106911	S
+383	巨	5	7	象形_Pictographic	2	Hakogamae	2	1	3	0	1981	51473	24423	R
+384	居	8	5	会意_Com_Ideographic	3	Shikabane	15	1	1	9	1981	46963	43119	P
+385	拒	8	7	形声_Phonetic	1	Tehen	89	1	8	8	1981	25910	25910	
+386	拠	8	7	形声_Phonetic	1	Tehen	89	2	2	0	1981	44834	44834	P
+387	挙	10	4	会意_Com_Ideographic	1	Te	6	1	5	6	1981	161313	160969	S
+388	虚	11	7	形声_Phonetic	1	Toragashira	5	2	6	0	1981	13524	13127	R
+389	許	11	5	形声_Phonetic	3	Gon_Gonben	68	1	10	10	1981	46404	45217	P
+390	距	12	7	形声_Phonetic	1	Ashi_Ashihen	11	1	1	0	1981	24305	24304	
+391	魚	11	2	象形_Pictographic	4	Uo_Uohen	3	1	1	1	1981	17300	14588	S
+392	御	12	7	形声_Phonetic	3	Gyooninben	19	2	2	1	1981	26325	18220	R
+393	漁	14	4	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	2	4	0	1981	20101	19912	R
+394	凶	4	7	象形_Pictographic	1	Ukebako	4	1	4	0	1981	4290	4290	R
+395	共	6	4	会意_Com_Ideographic	3	Hachi	8	1	9	9	1981	222581	183137	R
+396	叫	6	7	形声_Phonetic	2	Kuchi_Kuchihen	70	1	9	9	1981	7581	7581	
+397	狂	7	7	形声_Phonetic	1	Inu_Kemonohen	17	1	1	12	1981	11005	10950	R
+398	京	8	2	象形_Pictographic	4	Nabebuta	5	2	4	0	1981	527226	5778	S
+399	享	8	7	象形_Pictographic	1	Nabebuta	5	1	16	0	1981	2293	1114	
+400	供	8	6	形声_Phonetic	3	Hito_Ninben_Hitoyane	104	2	5	6	1981	137249	136909	R
+401	協	8	4	形声_Phonetic	2	Juu	11	1	1	0	1981	248079	241560	S
+402	況	8	7	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	2	0	1981	69500	69500	P
+403	峡	9	7	形声_Phonetic	1	Yama_Yamahen	16	1	2	0	1981	2955	2295	
+404	挟	9	7	形声_Phonetic	2	Tehen	89	1	6	13	1981	4111	4093	
+405	狭	9	7	形声_Phonetic	1	Inu_Kemonohen	17	1	3	8	1981	10512	7592	S
+406	恐	10	7	形声_Phonetic	3	Kokoro_Risshinben_Shitagokoro	76	1	5	10	1981	35850	35846	R
+407	恭	10	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	2	2	1981	7071	73	
+408	胸	10	6	形声_Phonetic	2	Niku_Nikuzuki	44	1	6	6	1981	19267	19264	R
+409	脅	10	7	形声_Phonetic	1	Niku_Nikuzuki	44	1	2	2	1981	17600	17600	
+410	強	11	2	会意_Com_Ideographic	4	Yumi_Yumihen	11	2	3	24	1981	349571	347529	R
+411	教	11	2	会意_Com_Ideographic	4	Nobun	16	1	1	7	1981	308288	291374	R
+412	郷	11	6	会意_Com_Ideographic	1	Oozato	12	2	4	0	1981	22958	12301	S
+413	境	14	5	形声_Phonetic	2	Tsuchi_Tsuchihen	50	2	4	4	1981	107562	98091	P
+414	橋	16	3	形声_Phonetic	2	Ki_Kihen	85	1	1	1	1981	114752	18165	S
+415	矯	17	7	形声_Phonetic	1	Ya_Yahen	4	1	6	6	1981	1351	1351	S
+416	鏡	19	4	形声_Phonetic	1	Kane_Kanehen	33	1	4	4	1981	9692	8958	S
+417	競	20	4	会意_Com_Ideographic	2	Tatsu	5	2	2	6	1981	98697	96606	R
+418	響	20	7	形声_Phonetic	1	Oto	3	1	10	10	1981	94066	93381	P
+419	驚	22	7	形声_Phonetic	1	Uma_Umahen	11	1	5	8	1981	20764	20712	S
+420	仰	6	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	2	9	12	1981	6430	5769	S
+421	暁	12	7	形声_Phonetic	1	Nichi_Nichihen	38	1	3	3	1981	3889	1626	S
+422	業	13	3	象形_Pictographic	4	Ki_Kihen	85	2	13	6	1981	606730	582234	P
+423	凝	16	7	形声_Phonetic	1	Nisui	6	1	2	11	1981	3717	3717	R
+424	曲	6	3	象形_Pictographic	3	Hirabi	8	1	5	13	1981	44726	43583	S
+425	局	7	3	会意_Com_Ideographic	3	Shikabane	15	1	9	0	1981	204511	198760	S
+426	極	12	4	形声_Phonetic	2	Ki_Kihen	85	2	4	9	1981	71754	64721	R
+427	玉	5	1	象形_Pictographic	2	Tama_Oo	15	1	4	17	1981	86790	30588	S
+428	巾	3	7	象形_Pictographic	0	Haba_Kinben	17	1	1	0	2010	306	206	S
+429	斤	4	7	象形_Pictographic	1	Kin_Onozukuri	5	1	3	0	1981	396	396	
+430	均	7	5	形声_Phonetic	2	Tsuchi_Tsuchihen	50	1	2	0	1981	41745	39791	R
+431	近	7	2	形声_Phonetic	4	Shinnyoo	51	1	12	12	1981	225079	189013	R
+432	金	8	1	象形_Pictographic	5	Kane_Kanehen	33	2	3	2	1981	589350	516324	S
+433	菌	11	7	形声_Phonetic	1	Kusakanmuri	47	1	3	0	1981	11520	11520	P
+434	勤	12	6	形声_Phonetic	3	Chikara	23	2	3	11	1981	36276	33539	S
+435	琴	12	7	形声_Phonetic	1	Tama_Oo	15	1	1	3	1981	12077	10224	S
+436	筋	12	6	象形_Pictographic	1	Take_Takekanmuri	24	1	3	25	1981	38521	38292	P
+437	僅	13	7	形声_Phonetic	0	Hito_Ninben_Hitoyane	104	1	2	2	2010	134	134	
+438	禁	13	5	会意_Com_Ideographic	2	Shimesu_Shimesuhen	15	1	4	0	1981	56249	56243	R
+439	緊	15	7	形声_Phonetic	1	Ito_Itohen	63	1	4	0	1981	41503	41503	S
+440	錦	16	7	形声_Phonetic	1	Kane_Kanehen	33	1	3	3	2010	10765	6625	R
+441	謹	17	7	形声_Phonetic	1	Gon_Gonben	68	1	6	6	1981	1750	1668	R
+442	襟	18	7	形声_Phonetic	1	Koromo_Koromohen	21	1	4	4	1981	1239	1198	S
+443	吟	7	7	形声_Phonetic	1	Kuchi_Kuchihen	70	1	4	0	1981	1599	1403	S
+444	銀	14	3	形声_Phonetic	4	Kane_Kanehen	33	1	1	0	1981	158495	103071	R
+445	区	4	3	会意_Com_Ideographic	2	Kakushigamae	4	1	3	0	1981	281952	281786	S
+446	句	5	5	会意_Com_Ideographic	1	Kuchi_Kuchihen	70	1	10	0	1981	24111	23828	P
+447	苦	8	3	形声_Phonetic	3	Kusakanmuri	47	1	7	26	1981	64615	64607	R
+448	駆	14	7	形声_Phonetic	1	Uma_Umahen	11	1	3	10	1981	25208	25208	S
+449	具	8	3	会意_Com_Ideographic	3	Hachi	8	1	7	0	1981	57111	56159	P
+450	惧	11	7	形声_Phonetic	0	Kokoro_Risshinben_Shitagokoro	76	1	3	0	2010	2515	2515	
+451	愚	13	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	4	3	1981	3412	3337	R
+452	空	8	1	形声_Phonetic	4	Ana_Anakanmuri	10	1	7	9	1981	148417	126665	R
+453	偶	11	7	形声_Phonetic	3	Hito_Ninben_Hitoyane	104	1	6	0	1981	5943	5943	S
+454	遇	12	7	形声_Phonetic	1	Shinnyoo	51	1	4	0	1981	12277	12277	P
+455	隅	12	7	形声_Phonetic	2	Kozatohen	31	1	1	2	1981	6440	5426	S
+456	串	7	7	象形_Pictographic	0	Bou_Tatebou	1	0	0	2	2010	1217	238	
+457	屈	8	7	象形_Pictographic	1	Shikabane	15	1	6	0	1981	10676	10467	S
+458	掘	11	7	形声_Phonetic	2	Tehen	89	1	9	9	1981	13532	13532	S
+459	窟	13	7	形声_Phonetic	0	Ana_Anakanmuri	10	1	1	0	2010	822	822	P
+460	熊	14	7	会意_Com_Ideographic	1	Hi_Hihen_Renga	26	0	0	1	2010	33164	3484	S
+461	繰	19	7	形声_Phonetic	1	Ito_Itohen	63	0	0	9	1981	39890	39888	
+462	君	7	3	会意_Com_Ideographic	3	Kuchi_Kuchihen	70	1	1	2	1981	26134	23196	P
+463	訓	10	4	形声_Phonetic	2	Gon_Gonben	68	1	5	0	1981	22413	21608	S
+464	勲	15	7	形声_Phonetic	1	Chikara	23	1	2	0	1981	8799	5463	S
+465	薫	16	7	形声_Phonetic	1	Kusakanmuri	47	1	3	2	1981	4878	411	
+466	軍	9	4	象形_Pictographic	2	Kuruma_Kurumahen	15	1	3	0	1981	167323	164725	R
+467	郡	10	4	形声_Phonetic	1	Oozato	12	1	2	0	1981	8772	4463	
+468	群	13	5	形声_Phonetic	2	Hitsuji	7	1	7	10	1981	33616	18719	R
+469	兄	5	2	会意_Com_Ideographic	4	Hitoashi	9	2	3	1	1981	17286	17153	S
+470	刑	6	7	形声_Phonetic	1	Katana_Rittoo	32	1	3	0	1981	58863	58773	S
+471	形	7	2	会意_Com_Ideographic	3	Sanzukuri	5	2	1	9	1981	105465	88135	P
+472	系	7	6	象形_Pictographic	1	Ito_Itohen	63	1	7	0	1981	62080	62080	P
+473	径	8	4	形声_Phonetic	1	Gyooninben	19	1	3	0	1981	5895	5814	P
+474	茎	8	7	形声_Phonetic	1	Kusakanmuri	47	1	2	2	1981	978	894	P
+475	係	9	3	会意_Com_Ideographic	3	Hito_Ninben_Hitoyane	104	1	2	3	1981	171020	171018	R
+476	型	9	4	形声_Phonetic	2	Tsuchi_Tsuchihen	50	1	10	10	1981	91041	91041	P
+477	契	9	7	会意_Com_Ideographic	1	Dai	16	1	4	4	1981	42071	42070	
+478	計	9	2	会意_Com_Ideographic	4	Gon_Gonben	68	1	6	12	1981	225855	223446	P
+479	恵	10	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	2	7	3	1981	46794	14441	S
+480	啓	11	7	会意_Com_Ideographic	1	Kuchi_Kuchihen	70	1	2	0	1981	14249	5090	S
+481	掲	11	7	形声_Phonetic	1	Tehen	89	1	8	8	1981	50915	50915	S
+482	渓	11	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	1	0	1981	2118	1280	
+483	経	11	5	形声_Phonetic	3	Ito_Itohen	63	2	3	4	1981	358157	335548	R
+484	蛍	11	7	形声_Phonetic	1	Mushi_Mushihen	10	1	1	1	1981	1320	1310	R
+485	敬	12	6	会意_Com_Ideographic	2	Nobun	16	1	3	4	1981	25480	16582	S
+486	景	12	4	形声_Phonetic	3	Nichi_Nichihen	38	1	2	0	1981	91762	88790	P
+487	軽	12	3	形声_Phonetic	2	Kuruma_Kurumahen	15	1	7	7	1981	49092	46003	R
+488	傾	13	7	形声_Phonetic	2	Hito_Ninben_Hitoyane	104	1	7	23	1981	24307	24299	S
+489	携	13	7	形声_Phonetic	1	Tehen	89	1	4	6	1981	64257	64257	S
+490	継	13	7	形声_Phonetic	1	Ito_Itohen	63	1	6	6	1981	60714	60474	R
+491	詣	13	7	形声_Phonetic	0	Gon_Gonben	68	1	1	5	2010	1020	1020	
+492	慶	15	7	会意_Com_Ideographic	1	Kokoro_Risshinben_Shitagokoro	76	1	1	0	1981	21864	2694	S
+493	憬	15	7	形声_Phonetic	0	Kokoro_Risshinben_Shitagokoro	76	1	1	0	2010	105	105	
+494	稽	15	7	会意_Com_Ideographic	0	Nogi_Nogihen	23	1	3	0	2010	1112	1111	
+495	憩	16	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	3	3	1981	3292	3292	
+496	警	19	6	形声_Phonetic	3	Gon_Gonben	68	1	3	0	1981	168039	134506	R
+497	鶏	19	7	形声_Phonetic	1	Tori	4	1	1	1	1981	7422	7363	S
+498	芸	7	4	会意_Com_Ideographic	2	Kusakanmuri	47	1	8	0	1981	51423	43928	S
+499	迎	7	7	形声_Phonetic	3	Shinnyoo	51	1	5	5	1981	54743	54363	S
+500	鯨	19	7	形声_Phonetic	1	Uo_Uohen	3	1	1	1	1981	4599	3934	R
+501	隙	13	7	会意_Com_Ideographic	0	Kozatohen	31	1	5	9	2010	259	259	
+502	劇	15	6	会意_Com_Ideographic	2	Katana_Rittoo	32	1	2	0	1981	47985	45816	S
+503	撃	15	7	形声_Phonetic	1	Te	6	1	4	26	1981	113833	113833	P
+504	激	16	6	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	8	12	1981	61832	61832	R
+505	桁	10	7	形声_Phonetic	0	Ki_Kihen	85	0	0	5	2010	162	120	
+506	欠	4	4	形声_Phonetic	3	Akubi	8	1	2	13	1981	48044	48034	R
+507	穴	5	6	象形_Pictographic	1	Ana_Anakanmuri	10	1	17	17	1981	12710	11875	S
+508	血	6	3	会意_Com_Ideographic	2	Chi	2	1	1	2	1981	41708	41651	S
+509	決	7	3	形声_Phonetic	3	Mizu_Sanzui_Shitamizu	118	1	2	11	1981	512014	512014	S
+510	結	12	4	形声_Phonetic	1	Ito_Itohen	63	1	9	14	1981	221207	219380	R
+511	傑	13	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	1	0	1981	3843	2426	S
+512	潔	15	5	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	6	6	1981	5027	3591	S
+513	月	4	1	象形_Pictographic	5	Tsuki_Tsukihen	8	2	4	2	1981	960443	951166	S
+514	犬	4	1	象形_Pictographic	4	Inu_Kemonohen	17	1	1	2	1981	19546	17022	P
+515	件	6	5	会意_Com_Ideographic	3	Hito_Ninben_Hitoyane	104	1	3	0	1981	244514	244194	P
+516	見	7	1	象形_Pictographic	5	Miru	7	1	4	23	1981	719042	688417	P
+517	券	8	5	会意_Com_Ideographic	2	Katana_Rittoo	32	1	4	0	1981	56358	51067	P
+518	肩	8	7	象形_Pictographic	2	Niku_Nikuzuki	44	1	1	1	1981	16973	16972	S
+519	建	9	4	会意_Com_Ideographic	4	Ennyoo	3	2	2	57	1981	129051	114210	R
+520	研	9	3	形声_Phonetic	4	Ishi_Ishihen	16	1	6	6	1981	144742	136201	S
+521	県	9	3	会意_Com_Ideographic	2	Me_Mehen	19	1	2	0	1981	414131	412805	R
+522	倹	10	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	1	0	1981	225	225	
+523	兼	10	7	会意_Com_Ideographic	1	Hachi	8	1	3	4	1981	20997	19476	R
+524	剣	10	7	形声_Phonetic	1	Katana_Rittoo	32	1	6	1	1981	12313	12114	S
+525	拳	10	7	形声_Phonetic	1	Tehen	89	1	1	1	2010	5187	4176	S
+526	軒	10	7	形声_Phonetic	2	Kuruma_Kurumahen	15	1	1	1	1981	6963	6461	S
+527	健	11	4	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	3	3	1981	94206	59964	S
+528	険	11	5	形声_Phonetic	3	Kozatohen	31	1	6	3	1981	94785	88108	S
+529	圏	12	7	形声_Phonetic	1	Kunigamae	12	1	4	0	1981	17687	17314	S
+530	堅	12	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	17	17	1981	21305	20584	R
+531	検	12	5	形声_Phonetic	1	Ki_Kihen	85	1	1	0	1981	212504	208303	R
+532	嫌	13	7	形声_Phonetic	1	Onna_Onnahen	36	2	3	4	1981	19271	19271	R
+533	献	13	7	会意_Com_Ideographic	1	Inu_Kemonohen	17	2	1	0	1981	32600	32541	R
+534	絹	13	6	形声_Phonetic	1	Ito_Itohen	63	1	1	1	1981	1908	940	S
+535	遣	13	7	形声_Phonetic	1	Shinnyoo	51	1	6	18	1981	48420	48420	S
+536	権	15	6	形声_Phonetic	3	Ki_Kihen	85	2	2	0	1981	446386	445373	P
+537	憲	16	6	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	1	0	1981	58068	43988	S
+538	賢	16	7	形声_Phonetic	2	Kai_Kaihen	35	1	2	2	1981	14354	3076	S
+539	謙	17	7	形声_Phonetic	1	Gon_Gonben	68	1	3	0	1981	7011	2259	S
+540	鍵	17	7	形声_Phonetic	0	Kane_Kanehen	33	1	1	1	2010	4581	4203	
+541	繭	18	7	会意_Com_Ideographic	1	Ito_Itohen	63	1	1	1	1981	253	189	
+542	顕	18	7	会意_Com_Ideographic	1	Oogai	22	1	8	0	1981	7188	6412	R
+543	験	18	4	形声_Phonetic	4	Uma_Umahen	11	2	3	0	1981	113712	113565	P
+544	懸	20	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	2	22	42	1981	46161	46103	R
+545	元	4	2	象形_Pictographic	4	Hitoashi	9	2	5	14	1981	301141	284013	S
+546	幻	4	7	象形_Pictographic	1	Itogashira	4	1	4	4	1981	7517	6657	R
+547	玄	5	7	会意_Com_Ideographic	1	Gen	2	1	3	0	1981	11385	8585	R
+548	言	7	2	象形_Pictographic	4	Gon_Gonben	68	2	4	9	1981	408709	408580	P
+549	弦	8	7	形声_Phonetic	1	Yumi_Yumihen	11	1	6	2	1981	2794	2677	S
+550	限	9	5	会意_Com_Ideographic	3	Kozatohen	31	1	3	3	1981	118926	118921	P
+551	原	10	2	象形_Pictographic	3	Gandare	4	1	2	6	1981	340241	180401	R
+552	現	11	5	形声_Phonetic	3	Tama_Oo	15	1	3	16	1981	506680	506029	R
+553	舷	11	7	形声_Phonetic	0	Fune_Funehen	8	1	1	0	2010	323	320	
+554	減	12	5	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	2	10	1981	175018	175018	R
+555	源	13	6	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	2	2	1981	57244	52338	P
+556	厳	17	6	形声_Phonetic	1	Tsukanmuri	4	2	2	10	1981	60693	60374	S
+557	己	3	6	象形_Pictographic	1	Onore	2	2	1	3	1981	30270	25044	P
+558	戸	4	2	象形_Pictographic	2	To_Tokanmuri	6	1	4	1	1981	106805	29863	S
+559	古	5	2	会意_Com_Ideographic	4	Kuchi_Kuchihen	70	1	1	8	1981	117209	50067	R
+560	呼	8	6	形声_Phonetic	3	Kuchi_Kuchihen	70	1	10	10	1981	79473	79054	S
+561	固	8	4	会意_Com_Ideographic	2	Kunigamae	12	1	12	38	1981	41792	41791	S
+562	股	8	7	形声_Phonetic	0	Niku_Nikuzuki	44	1	5	3	2010	932	713	S
+563	虎	8	7	象形_Pictographic	1	Toragashira	5	1	2	2	2010	5877	2832	S
+564	孤	9	7	形声_Phonetic	1	Ko_Kohen	9	1	1	0	1981	11667	11659	R
+565	弧	9	7	形声_Phonetic	1	Yumi_Yumihen	11	1	3	0	1981	424	424	
+566	故	9	5	会意_Com_Ideographic	1	Nobun	16	1	3	3	1981	87940	87940	R
+567	枯	9	7	形声_Phonetic	2	Ki_Kihen	85	1	6	9	1981	3373	3373	R
+568	個	10	5	形声_Phonetic	2	Hito_Ninben_Hitoyane	104	1	2	0	1981	103506	103488	S
+569	庫	10	3	会意_Com_Ideographic	2	Madare	17	2	1	0	1981	51789	27077	P
+570	湖	12	3	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	1	1	1981	16688	5672	R
+571	雇	12	7	形声_Phonetic	2	Furutori	9	1	2	2	1981	32647	32647	S
+572	誇	13	7	形声_Phonetic	1	Gon_Gonben	68	1	2	2	1981	14394	14394	
+573	鼓	13	7	会意_Com_Ideographic	1	Tsuzumi	1	1	1	1	1981	3838	3832	S
+574	錮	16	7	形声_Phonetic	0	Kane_Kanehen	33	1	1	0	2010	27	27	
+575	顧	21	7	会意_Com_Ideographic	1	Oogai	22	1	6	6	1981	25207	25205	S
+576	五	4	1	仮借_Loan	5	Ni	6	1	1	2	1981	166108	149703	R
+577	互	4	7	象形_Pictographic	3	Ni	6	1	3	3	1981	22660	22648	S
+578	午	4	2	象形_Pictographic	5	Juu	11	1	2	0	1981	175292	175250	S
+579	呉	7	7	会意_Com_Ideographic	1	Kuchi_Kuchihen	70	1	2	0	1981	5540	671	
+580	後	9	2	会意_Com_Ideographic	5	Gyooninben	19	2	3	21	1981	748246	734183	R
+581	娯	10	7	形声_Phonetic	1	Onna_Onnahen	36	1	1	0	1981	2725	2725	
+582	悟	10	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	7	7	1981	12331	7152	S
+583	碁	13	7	形声_Phonetic	1	Ishi_Ishihen	16	1	1	0	1981	20315	20311	S
+584	語	14	2	形声_Phonetic	5	Gon_Gonben	68	1	4	10	1981	191480	189717	P
+585	誤	14	6	形声_Phonetic	3	Gon_Gonben	68	1	4	4	1981	26573	26573	R
+586	護	20	5	形声_Phonetic	1	Gon_Gonben	68	1	8	3	1981	145034	137410	S
+587	口	3	1	象形_Pictographic	4	Kuchi_Kuchihen	70	2	1	26	1981	200300	113613	S
+588	工	3	2	象形_Pictographic	4	E_Takumihen	4	2	4	0	1981	175531	134455	S
+589	公	4	2	象形_Pictographic	4	Hachi	8	1	4	5	1981	380111	328700	R
+590	勾	4	7	会意_Com_Ideographic	0	Tsutsumigamae	3	1	1	0	2010	281	280	
+591	孔	4	7	象形_Pictographic	1	Ko_Kohen	9	1	17	0	1981	1630	1098	S
+592	功	5	4	形声_Phonetic	1	Chikara	23	2	7	0	1981	36808	31135	S
+593	巧	5	7	形声_Phonetic	1	E_Takumihen	4	1	1	2	1981	7473	6536	S
+594	広	5	2	形声_Phonetic	4	Madare	17	1	3	27	1981	229871	146056	R
+595	甲	5	7	象形_Pictographic	1	Ta_Tahen	19	2	9	0	1981	30085	5102	S
+596	交	6	2	象形_Pictographic	3	Nabebuta	5	1	3	18	1981	364208	354159	R
+597	光	6	2	会意_Com_Ideographic	3	Hitoashi	9	1	1	16	1981	115368	68528	S
+598	向	6	3	会意_Com_Ideographic	3	Kuchi_Kuchihen	70	1	8	21	1981	249990	244750	P
+599	后	6	6	会意_Com_Ideographic	1	Kuchi_Kuchihen	70	1	4	0	1981	4260	4180	
+600	好	6	4	会意_Com_Ideographic	3	Onna_Onnahen	36	1	2	3	1981	114754	110530	R
+601	江	6	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	2	2	1981	69216	3292	
+602	考	6	2	形声_Phonetic	4	Oikanmuri	3	1	4	19	1981	207299	207066	S
+603	行	6	2	象形_Pictographic	5	Gyoogamae	6	3	7	10	1981	750313	708761	P
+604	坑	7	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	2	0	1981	629	629	S
+605	孝	7	6	会意_Com_Ideographic	1	Ko_Kohen	9	1	1	0	1981	29923	2470	S
+606	抗	7	7	形声_Phonetic	1	Tehen	89	1	4	0	1981	62518	62518	S
+607	攻	7	7	会意_Com_Ideographic	1	Nobun	16	1	2	2	1981	91144	90407	S
+608	更	7	7	会意_Com_Ideographic	3	Hirabi	8	1	1	7	1981	49407	47766	S
+609	効	8	5	会意_Com_Ideographic	2	Chikara	23	1	6	1	1981	91013	91013	S
+610	幸	8	3	象形_Pictographic	3	Ichijuu	5	1	2	4	1981	66427	22368	S
+611	拘	8	7	形声_Phonetic	1	Tehen	89	1	2	0	1981	18534	18534	R
+612	肯	8	7	象形_Pictographic	2	Niku_Nikuzuki	44	1	4	0	1981	2236	2236	
+613	侯	9	7	会意_Com_Ideographic	1	Hito_Ninben_Hitoyane	104	1	3	0	1981	374	285	
+614	厚	9	5	会意_Com_Ideographic	2	Gandare	4	1	2	3	1981	68054	47396	R
+615	恒	9	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	1	0	1981	10884	5499	R
+616	洪	9	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	2	0	1981	3102	1985	
+617	皇	9	6	象形_Pictographic	1	Shiro	5	2	1	0	1981	43267	36432	R
+618	紅	9	6	形声_Phonetic	2	Ito_Itohen	63	2	1	6	1981	11522	8523	S
+619	荒	9	7	形声_Phonetic	2	Kusakanmuri	47	1	7	12	1981	27378	11773	R
+620	郊	9	7	形声_Phonetic	2	Oozato	12	1	2	0	1981	10881	10831	
+621	香	9	7	会意_Com_Ideographic	2	Kaori	1	2	2	8	1981	60014	17861	S
+622	候	10	4	形声_Phonetic	3	Hito_Ninben_Hitoyane	104	1	2	1	1981	82458	82442	P
+623	校	10	1	形声_Phonetic	5	Ki_Kihen	85	1	5	0	1981	226338	224878	S
+624	耕	10	5	形声_Phonetic	2	Sukihen	2	1	2	2	1981	10920	3267	S
+625	航	10	4	形声_Phonetic	2	Fune_Funehen	8	1	2	0	1981	56626	44534	S
+626	貢	10	7	形声_Phonetic	1	Kai_Kaihen	35	2	1	2	1981	16232	15628	S
+627	降	10	6	会意_Com_Ideographic	3	Kozatohen	31	1	2	24	1981	85507	85361	R
+628	高	10	2	会意_Com_Ideographic	5	Takai	1	1	1	32	1981	666356	510050	R
+629	康	11	4	会意_Com_Ideographic	1	Madare	17	1	1	0	1981	68468	30235	
+630	控	11	7	形声_Phonetic	1	Tehen	89	1	10	5	1981	32818	32818	
+631	梗	11	7	形声_Phonetic	0	Ki_Kihen	85	1	2	0	2010	2201	2173	
+632	黄	11	2	象形_Pictographic	2	Ki_Kiiro	1	2	1	3	1981	14802	11977	R
+633	喉	12	7	形声_Phonetic	0	Kuchi_Kuchihen	70	1	2	2	2010	510	510	
+634	慌	12	7	形声_Phonetic	0	Kokoro_Risshinben_Shitagokoro	76	1	4	7	1981	3072	3072	
+635	港	12	3	形声_Phonetic	3	Mizu_Sanzui_Shitamizu	118	1	2	2	1981	72472	34382	P
+636	硬	12	7	形声_Phonetic	2	Ishi_Ishihen	16	1	17	17	1981	18594	18576	R
+637	絞	12	7	形声_Phonetic	1	Ito_Itohen	63	1	3	10	1981	13210	13210	
+638	項	12	7	形声_Phonetic	1	Oogai	22	1	5	0	1981	24559	24342	P
+639	溝	13	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	4	7	1981	6312	3767	S
+640	鉱	13	5	形声_Phonetic	2	Kane_Kanehen	33	1	1	0	1981	8258	7273	S
+641	構	14	5	形声_Phonetic	3	Ki_Kihen	85	1	9	18	1981	121750	120598	S
+642	綱	14	7	形声_Phonetic	1	Ito_Itohen	63	1	1	7	1981	22810	21849	S
+643	酵	14	7	形声_Phonetic	1	Tori_Torihen	14	1	1	0	1981	3771	3006	
+644	稿	15	7	形声_Phonetic	1	Nogi_Nogihen	23	1	4	0	1981	10591	10591	P
+645	興	16	5	会意_Com_Ideographic	1	Usu	2	2	3	5	1981	66165	58071	S
+646	衡	16	7	会意_Com_Ideographic	1	Gyoogamae	6	1	2	0	1981	3278	3209	S
+647	鋼	16	6	形声_Phonetic	1	Kane_Kanehen	33	1	1	1	1981	12861	8785	S
+648	講	17	5	形声_Phonetic	2	Gon_Gonben	68	1	3	0	1981	56715	50593	S
+649	購	17	7	形声_Phonetic	1	Kai_Kaihen	35	1	1	0	1981	24402	24402	
+650	乞	3	7	象形_Pictographic	0	Otsu_Otsunyoo	7	0	0	6	2010	273	252	
+651	号	5	3	会意_Com_Ideographic	3	Kuchi_Kuchihen	70	1	5	0	1981	75923	75594	P
+652	合	6	2	象形_Pictographic	3	Kuchi_Kuchihen	70	3	1	19	1981	727812	706173	S
+653	拷	9	7	形声_Phonetic	1	Tehen	89	1	2	0	1981	1200	1200	
+654	剛	10	7	会意_Com_Ideographic	1	Katana_Rittoo	32	1	1	0	1981	17299	2501	R
+655	傲	13	7	形声_Phonetic	0	Hito_Ninben_Hitoyane	104	1	1	0	2010	308	308	
+656	豪	14	7	形声_Phonetic	1	Inoko	3	1	3	0	1981	31718	15193	R
+657	克	7	7	象形_Pictographic	1	Hitoashi	9	1	4	0	1981	22580	6399	S
+658	告	7	4	象形_Pictographic	3	Kuchi_Kuchihen	70	1	6	6	1981	232580	232497	P
+659	谷	7	2	象形_Pictographic	2	Tani	1	1	5	5	1981	146721	9885	S
+660	刻	8	6	形声_Phonetic	3	Katana_Rittoo	32	1	4	8	1981	34101	34075	P
+661	国	8	2	会意_Com_Ideographic	5	Kunigamae	12	1	1	5	1981	1703390	1122135	S
+662	黒	11	2	会意_Com_Ideographic	4	Kuro	2	1	2	5	1981	87276	64560	R
+663	穀	14	6	形声_Phonetic	1	Nogi_Nogihen	23	1	2	0	1981	2738	2452	S
+664	酷	14	7	形声_Phonetic	1	Tori_Torihen	14	1	2	0	1981	6166	6166	S
+665	獄	14	7	会意_Com_Ideographic	1	Inu_Kemonohen	17	1	2	0	1981	4149	4109	S
+666	骨	10	6	会意_Com_Ideographic	2	Hone_Honehen	3	1	3	8	1981	34407	34358	P
+667	駒	15	7	形声_Phonetic	1	Uma_Umahen	11	0	0	6	2010	16605	5299	
+668	込	5	7	国字_Original	3	Shinnyoo	51	0	0	6	1981	226062	224779	P
+669	頃	11	7	会意_Com_Ideographic	0	Oogai	22	0	0	3	2010	1927	1872	P
+670	今	4	2	仮借_Loan	5	Hito_Ninben_Hitoyane	104	2	4	6	1981	538441	521143	R
+671	困	7	6	象形_Pictographic	3	Kunigamae	12	1	5	5	1981	35845	35845	R
+672	昆	8	7	象形_Pictographic	1	Nichi_Nichihen	38	1	2	0	1981	2808	2324	
+673	恨	9	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	2	4	1981	3306	3305	P
+674	根	10	3	形声_Phonetic	2	Ki_Kihen	85	1	4	6	1981	82891	49884	S
+675	婚	11	7	形声_Phonetic	3	Onna_Onnahen	36	1	1	0	1981	34501	34500	S
+676	混	11	5	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	5	8	1981	36692	36692	R
+677	痕	11	7	形声_Phonetic	0	Yamaidare	15	1	2	2	2010	2614	2614	P
+678	紺	11	7	形声_Phonetic	1	Ito_Itohen	63	1	2	0	1981	1816	1232	S
+679	魂	14	7	会意_Com_Ideographic	1	Oni_Kinyoo	4	1	2	2	1981	5312	5312	P
+680	墾	16	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	1	0	1981	175	175	
+681	懇	17	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	4	4	1981	10633	10631	R
+682	左	5	1	会意_Com_Ideographic	5	E_Takumihen	4	1	2	3	1981	102910	100234	R
+683	佐	7	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	1	0	1981	125737	12920	S
+684	沙	7	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	1	0	2010	5326	2200	R
+685	査	9	5	形声_Phonetic	2	Ki_Kihen	85	1	1	0	1981	269288	267111	P
+686	砂	9	6	形声_Phonetic	2	Ishi_Ishihen	16	2	1	1	1981	20553	14833	R
+687	唆	10	7	形声_Phonetic	1	Kuchi_Kuchihen	70	1	4	1	1981	9869	9869	
+688	差	10	4	形声_Phonetic	3	E_Takumihen	4	1	6	12	1981	101311	101178	P
+689	詐	12	7	形声_Phonetic	1	Gon_Gonben	68	1	6	0	1981	14705	14705	R
+690	鎖	18	7	形声_Phonetic	1	Kane_Kanehen	33	1	3	3	1981	13639	13619	S
+691	座	10	6	形声_Phonetic	3	Madare	17	1	11	3	1981	79240	59674	P
+692	挫	10	7	形声_Phonetic	0	Tehen	89	1	7	0	2010	3282	3282	
+693	才	3	2	象形_Pictographic	3	Tehen	89	1	15	0	1981	10298	9723	S
+694	再	6	5	象形_Pictographic	2	Doogamae	3	2	2	2	1981	207701	207615	R
+695	災	7	5	会意_Com_Ideographic	1	Hi_Hihen_Renga	26	1	5	5	1981	58886	56316	S
+696	妻	8	5	象形_Pictographic	3	Onna_Onnahen	36	1	1	2	1981	53436	51669	P
+697	采	8	7	会意_Com_Ideographic	1	Nogome	2	1	3	0	2010	799	799	S
+698	砕	9	7	形声_Phonetic	1	Ishi_Ishihen	16	1	6	10	1981	3211	3206	S
+699	宰	10	7	会意_Com_Ideographic	1	Ukanmuri	36	1	2	0	1981	6346	3924	
+700	栽	10	7	形声_Phonetic	1	Ki_Kihen	85	1	1	0	1981	6341	6316	
+701	彩	11	7	形声_Phonetic	1	Sanzukuri	5	1	3	3	1981	17633	14565	P
+702	採	11	5	形声_Phonetic	2	Tehen	89	1	41	41	1981	55808	55801	R
+703	済	11	6	形声_Phonetic	3	Mizu_Sanzui_Shitamizu	118	1	5	8	1981	193637	187620	S
+704	祭	11	3	会意_Com_Ideographic	2	Shimesu_Shimesuhen	15	1	5	7	1981	23729	22405	S
+705	斎	11	7	会意_Com_Ideographic	1	Sei	2	1	2	0	1981	19817	2778	S
+706	細	11	2	形声_Phonetic	2	Ito_Itohen	63	1	2	16	1981	60103	48478	R
+707	菜	11	4	形声_Phonetic	2	Kusakanmuri	47	1	3	3	1981	19424	17168	P
+708	最	12	4	会意_Com_Ideographic	3	Hirabi	8	1	1	1	1981	428924	412739	R
+709	裁	12	6	形声_Phonetic	1	Koromo_Koromohen	21	1	1	9	1981	187046	172776	S
+710	債	13	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	2	0	1981	56470	55602	S
+711	催	13	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	6	6	1981	85745	85744	S
+712	塞	13	7	会意_Com_Ideographic	0	Tsuchi_Tsuchihen	50	2	7	13	2010	3791	3791	P
+713	歳	13	7	象形_Pictographic	3	Tomeru	6	2	7	0	1981	224298	223080	S
+714	載	13	7	形声_Phonetic	1	Kuruma_Kurumahen	15	1	12	20	1981	59771	59741	P
+715	際	14	5	会意_Com_Ideographic	3	Kozatohen	31	1	3	3	1981	211527	204626	P
+716	埼	11	7	形声_Phonetic	0	Tsuchi_Tsuchihen	50	0	0	1	2010	40496	911	
+717	在	6	5	会意_Com_Ideographic	3	Tsuchi_Tsuchihen	50	1	3	11	1981	307776	307010	S
+718	材	7	4	形声_Phonetic	2	Ki_Kihen	85	1	6	0	1981	87856	87744	P
+719	剤	10	7	会意_Com_Ideographic	1	Katana_Rittoo	32	1	3	0	1981	25141	25090	P
+720	財	10	5	形声_Phonetic	3	Kai_Kaihen	35	2	4	0	1981	130034	117905	S
+721	罪	13	5	会意_Com_Ideographic	3	Amigashira	7	1	7	7	1981	80769	80769	P
+722	崎	11	7	形声_Phonetic	1	Yama_Yamahen	16	0	0	3	1981	150430	1923	
+723	作	7	2	形声_Phonetic	4	Hito_Ninben_Hitoyane	104	2	5	17	1981	513294	500901	P
+724	削	9	7	会意_Com_Ideographic	1	Katana_Rittoo	32	1	9	9	1981	52954	52785	S
+725	昨	9	4	形声_Phonetic	3	Nichi_Nichihen	38	1	3	0	1981	173067	173067	R
+726	柵	9	7	形声_Phonetic	0	Ki_Kihen	85	1	3	0	2010	711	604	
+727	索	10	7	象形_Pictographic	1	Ito_Itohen	63	1	2	0	1981	22997	22995	S
+728	策	12	6	形声_Phonetic	1	Take_Takekanmuri	24	1	6	0	1981	216934	216864	P
+729	酢	12	7	形声_Phonetic	1	Tori_Torihen	14	1	1	1	1981	2741	2737	S
+730	搾	13	7	形声_Phonetic	1	Tehen	89	1	8	8	1981	952	952	
+731	錯	16	7	形声_Phonetic	1	Kane_Kanehen	33	1	2	0	1981	4961	4961	S
+732	咲	9	7	形声_Phonetic	2	Kuchi_Kuchihen	70	0	0	2	1981	10457	8096	
+733	冊	5	6	象形_Pictographic	2	Doogamae	3	2	4	0	1981	14274	14273	S
+734	札	5	4	会意_Com_Ideographic	2	Ki_Kihen	85	1	2	8	1981	46167	23430	P
+735	刷	8	4	会意_Com_Ideographic	2	Katana_Rittoo	32	1	1	1	1981	10406	9559	S
+736	刹	8	7	会意_Com_Ideographic	0	Katana_Rittoo	32	2	1	0	2010	265	265	
+737	拶	9	7	会意_Com_Ideographic	0	Tehen	89	1	1	0	2010	323	323	
+738	殺	10	4	会意_Com_Ideographic	3	Rumata	6	3	8	8	1981	114950	114950	P
+739	察	14	4	会意_Com_Ideographic	3	Ukanmuri	36	1	8	0	1981	98410	88079	P
+740	撮	15	7	形声_Phonetic	1	Tehen	89	1	4	1	1981	28791	28791	
+741	擦	17	7	形声_Phonetic	1	Tehen	89	1	6	6	1981	2905	2905	
+742	雑	14	5	形声_Phonetic	3	Furutori	9	2	2	0	1981	35155	34932	R
+743	皿	5	3	象形_Pictographic	2	Sara	8	0	0	3	1981	5278	5210	P
+744	三	3	1	指事_Ideographic	5	Ichi	14	1	1	1	1981	304749	151259	R
+745	山	3	1	象形_Pictographic	5	Yama_Yamahen	16	1	2	15	1981	498242	90473	R
+746	参	8	4	会意_Com_Ideographic	3	Mu	2	1	4	9	1981	210543	148993	R
+747	桟	10	7	形声_Phonetic	1	Ki_Kihen	85	1	7	0	1981	902	801	
+748	蚕	10	6	形声_Phonetic	1	Mushi_Mushihen	10	1	1	1	1981	377	373	S
+749	惨	11	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	2	3	3	1981	7809	7809	R
+750	産	11	4	会意_Com_Ideographic	3	Umareru	2	1	5	7	1981	255196	207564	P
+751	傘	12	7	象形_Pictographic	1	Hito_Ninben_Hitoyane	104	1	2	2	1981	9416	9409	S
+752	散	12	4	会意_Com_Ideographic	3	Nobun	16	1	7	21	1981	44313	44295	S
+753	算	14	2	会意_Com_Ideographic	2	Take_Takekanmuri	24	1	6	0	1981	132770	132406	P
+754	酸	14	5	形声_Phonetic	1	Tori_Torihen	14	1	2	3	1981	19131	19077	S
+755	賛	15	5	会意_Com_Ideographic	3	Kai_Kaihen	35	1	3	0	1981	35559	35550	S
+756	残	10	4	形声_Phonetic	3	Kabanehen	5	1	2	12	1981	125250	125241	R
+757	斬	11	7	会意_Com_Ideographic	0	Kin_Onozukuri	5	1	1	2	2010	2237	2237	
+758	暫	15	7	形声_Phonetic	1	Nichi_Nichihen	38	1	3	0	1981	13843	13843	
+759	士	3	4	象形_Pictographic	1	Samurai	5	1	4	0	1981	143794	101506	P
+760	子	3	1	象形_Pictographic	5	Ko_Kohen	9	2	8	3	1981	787533	505793	P
+761	支	4	5	会意_Com_Ideographic	3	Shi	1	1	1	8	1981	288791	288712	R
+762	止	4	2	象形_Pictographic	4	Tomeru	6	1	12	19	1981	189270	189165	P
+763	氏	4	4	象形_Pictographic	1	Uji	2	1	3	4	1981	355926	353478	S
+764	仕	5	3	形声_Phonetic	4	Hito_Ninben_Hitoyane	104	2	2	2	1981	102116	102023	R
+765	史	5	4	会意_Com_Ideographic	2	Kuchi_Kuchihen	70	1	4	0	1981	99763	78830	S
+766	司	5	4	会意_Com_Ideographic	1	Kuchi_Kuchihen	70	1	2	0	1981	85831	39398	S
+767	四	5	1	指事_Ideographic	5	Kunigamae	12	1	1	1	1981	101707	81851	R
+768	市	5	2	象形_Pictographic	3	Haba_Kinben	17	1	3	2	1981	658374	627813	R
+769	矢	5	2	象形_Pictographic	1	Ya_Yahen	4	1	1	1	1981	21829	6392	S
+770	旨	6	7	会意_Com_Ideographic	1	Nichi_Nichihen	38	1	2	5	1981	13109	13108	P
+771	死	6	3	会意_Com_Ideographic	4	Kabanehen	5	1	1	1	1981	236326	236271	S
+772	糸	6	1	会意_Com_Ideographic	2	Ito_Itohen	63	1	2	5	1981	8069	4975	S
+773	至	6	6	会意_Com_Ideographic	1	Itaru	2	1	8	8	1981	21492	20648	R
+774	伺	7	7	形声_Phonetic	2	Hito_Ninben_Hitoyane	104	1	7	7	1981	451	451	
+775	志	7	5	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	12	16	1981	68688	29164	S
+776	私	7	6	会意_Com_Ideographic	4	Nogi_Nogihen	23	1	2	3	1981	171763	171647	R
+777	使	8	3	形声_Phonetic	4	Hito_Ninben_Hitoyane	104	1	2	12	1981	207502	207147	S
+778	刺	8	7	形声_Phonetic	2	Katana_Rittoo	32	1	1	13	1981	27609	26973	S
+779	始	8	3	形声_Phonetic	4	Onna_Onnahen	36	1	1	14	1981	175926	175199	S
+780	姉	8	2	形声_Phonetic	4	Onna_Onnahen	36	1	1	1	1981	12481	10820	S
+781	枝	8	5	形声_Phonetic	2	Ki_Kihen	85	1	4	4	1981	17014	4858	S
+782	祉	8	7	形声_Phonetic	1	Shimesu_Shimesuhen	15	1	1	0	1981	20199	18141	
+783	肢	8	7	形声_Phonetic	1	Niku_Nikuzuki	44	1	2	0	1981	6503	6503	S
+784	姿	9	6	形声_Phonetic	1	Onna_Onnahen	36	1	9	9	1981	92831	92823	S
+785	思	9	2	形声_Phonetic	4	Kokoro_Risshinben_Shitagokoro	76	1	21	21	1981	320430	320338	R
+786	指	9	3	形声_Phonetic	3	Tehen	89	1	1	24	1981	314148	313454	R
+787	施	9	7	形声_Phonetic	1	Hoo_Hoohen	6	2	6	6	1981	143819	140848	R
+788	師	10	5	会意_Com_Ideographic	3	Haba_Kinben	17	1	5	0	1981	93148	90690	P
+789	恣	10	7	形声_Phonetic	0	Kokoro_Risshinben_Shitagokoro	76	1	4	0	2010	555	555	
+790	紙	10	2	形声_Phonetic	4	Ito_Itohen	63	1	1	1	1981	80522	75301	P
+791	脂	10	7	形声_Phonetic	2	Niku_Nikuzuki	44	1	2	6	1981	8175	8054	S
+792	視	11	6	形声_Phonetic	1	Miru	7	1	1	0	1981	136691	114421	P
+793	紫	12	7	形声_Phonetic	1	Ito_Itohen	63	1	2	3	1981	6653	3589	S
+794	詞	12	6	形声_Phonetic	2	Gon_Gonben	68	1	2	0	1981	6812	6812	P
+795	歯	12	3	形声_Phonetic	3	Ha_Hahen	2	1	2	3	1981	23542	20784	S
+796	嗣	13	7	会意_Com_Ideographic	1	Kuchi_Kuchihen	70	1	1	0	1981	2603	1750	S
+797	試	13	4	形声_Phonetic	4	Gon_Gonben	68	1	1	5	1981	168464	167576	R
+798	詩	13	3	形声_Phonetic	1	Gon_Gonben	68	1	2	0	1981	21247	20800	R
+799	資	13	5	形声_Phonetic	3	Kai_Kaihen	35	1	8	0	1981	225264	221680	S
+800	飼	13	5	形声_Phonetic	1	Shoku_Shokuhen	12	1	1	3	1981	13044	11212	R
+801	誌	14	6	形声_Phonetic	2	Gon_Gonben	68	1	3	0	1981	30702	30683	P
+802	雌	14	7	形声_Phonetic	1	Furutori	9	1	1	1	1981	1553	1526	R
+803	摯	15	7	形声_Phonetic	0	Tehen	89	1	2	0	2010	1896	1896	
+804	賜	15	7	形声_Phonetic	1	Kai_Kaihen	35	1	5	5	1981	1110	984	S
+805	諮	16	7	形声_Phonetic	1	Gon_Gonben	68	1	1	1	1981	11985	11985	
+806	示	5	5	象形_Pictographic	3	Shimesu_Shimesuhen	15	2	1	7	1981	338806	338792	P
+807	字	6	1	会意_Com_Ideographic	4	Ko_Kohen	9	1	4	1	1981	108230	103301	P
+808	寺	6	2	形声_Phonetic	2	Sun	12	1	1	1	1981	41334	9434	S
+809	次	6	3	象形_Pictographic	3	Akubi	8	2	5	5	1981	230245	213903	S
+810	耳	6	1	象形_Pictographic	3	Mimi_Mimihen	5	1	1	6	1981	13234	13189	S
+811	自	6	2	象形_Pictographic	4	Mizukara	2	2	1	2	1981	810019	621663	R
+812	似	7	5	形声_Phonetic	3	Hito_Ninben_Hitoyane	104	1	1	1	1981	17632	17428	P
+813	児	7	4	象形_Pictographic	2	Hitoashi	9	2	1	0	1981	92950	75131	P
+814	事	8	3	会意_Com_Ideographic	4	Haneboo	3	2	2	7	1981	934182	925136	P
+815	侍	8	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	2	2	1981	1356	1167	S
+816	治	8	4	形声_Phonetic	3	Mizu_Sanzui_Shitamizu	118	2	13	31	1981	292395	228836	S
+817	持	9	3	形声_Phonetic	4	Tehen	89	1	4	11	1981	323708	322666	S
+818	時	10	2	形声_Phonetic	5	Nichi_Nichihen	38	1	4	8	1981	835363	829845	S
+819	滋	12	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	4	0	1981	11728	299	
+820	慈	13	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	3	3	1981	4142	2740	R
+821	辞	13	4	会意_Com_Ideographic	3	Karai	3	1	5	1	1981	50717	50327	S
+822	磁	14	6	形声_Phonetic	1	Ishi_Ishihen	16	1	2	0	1981	4153	4144	S
+823	餌	15	7	形声_Phonetic	0	Shoku_Shokuhen	12	1	1	5	2010	2336	2336	
+824	璽	19	7	形声_Phonetic	0	Tama_Oo	15	1	1	0	1981	133	133	
+825	鹿	11	7	象形_Pictographic	1	Shika	3	0	0	1	2010	39387	2577	S
+826	式	6	3	会意_Com_Ideographic	3	Shikigamae	2	1	14	0	1981	159193	158236	P
+827	識	19	5	形声_Phonetic	3	Gon_Gonben	68	1	3	0	1981	91776	91684	P
+828	軸	12	7	形声_Phonetic	1	Kuruma_Kurumahen	15	1	9	0	1981	15371	15355	P
+829	七	2	1	仮借_Loan	5	Ichi	14	1	1	1	1981	55012	51124	R
+830	叱	5	7	形声_Phonetic	0	Kuchi_Kuchihen	70	1	2	2	2010	919	919	
+831	失	5	4	象形_Pictographic	3	Dai	16	1	5	2	1981	123666	123666	R
+832	室	9	2	会意_Com_Ideographic	4	Ukanmuri	36	1	4	3	1981	98639	88857	P
+833	疾	10	7	会意_Com_Ideographic	1	Yamaidare	15	1	2	0	1981	6525	6522	S
+834	執	11	7	会意_Com_Ideographic	1	Tsuchi_Tsuchihen	50	2	41	41	1981	34802	34796	S
+835	湿	12	7	会意_Com_Ideographic	2	Mizu_Sanzui_Shitamizu	118	1	3	6	1981	5283	5194	S
+836	嫉	13	7	形声_Phonetic	0	Onna_Onnahen	36	1	2	0	2010	464	464	
+837	漆	14	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	2	2	1981	2179	1364	
+838	質	15	5	会意_Com_Ideographic	4	Kai_Kaihen	35	3	8	0	1981	112708	112140	P
+839	実	8	3	会意_Com_Ideographic	3	Ukanmuri	36	1	8	10	1981	436044	423855	R
+840	芝	6	7	形声_Phonetic	1	Kusakanmuri	47	0	0	3	1981	24138	10505	
+841	写	5	3	会意_Com_Ideographic	4	Wakanmuri	4	1	3	11	1981	261896	261182	P
+842	社	7	2	形声_Phonetic	4	Shimesu_Shimesuhen	15	1	5	1	1981	720650	629446	S
+843	車	7	1	象形_Pictographic	5	Kuruma_Kurumahen	15	1	2	10	1981	222210	198192	P
+844	舎	8	5	会意_Com_Ideographic	1	Hito_Ninben_Hitoyane	104	1	4	0	1981	16572	15025	P
+845	者	8	3	会意_Com_Ideographic	4	Oikanmuri	3	1	2	2	1981	966424	965848	P
+846	射	10	6	会意_Com_Ideographic	1	Sun	12	1	2	1	1981	33801	33399	S
+847	捨	11	6	形声_Phonetic	2	Tehen	89	1	13	13	1981	18405	18341	S
+848	赦	11	7	会意_Com_Ideographic	1	Aka	2	1	1	0	1981	1689	1689	S
+849	斜	11	7	形声_Phonetic	1	Tomasu	3	1	2	6	1981	4722	4517	R
+850	煮	12	7	形声_Phonetic	1	Hi_Hihen_Renga	26	1	4	6	1981	6648	6648	S
+851	遮	14	7	形声_Phonetic	1	Shinnyoo	51	1	3	3	1981	3330	3330	
+852	謝	17	5	形声_Phonetic	1	Gon_Gonben	68	1	5	2	1981	38160	34198	S
+853	邪	8	7	形声_Phonetic	1	Oozato	12	1	3	0	1981	7111	6733	R
+854	蛇	11	7	形声_Phonetic	1	Mushi_Mushihen	10	2	3	1	1981	2437	2159	S
+855	尺	4	6	象形_Pictographic	1	Shikabane	15	1	5	0	1981	1430	1409	S
+856	借	10	4	形声_Phonetic	4	Hito_Ninben_Hitoyane	104	1	1	4	1981	25968	25957	S
+857	酌	10	7	形声_Phonetic	1	Tori_Torihen	14	1	2	9	1981	1224	1224	S
+858	釈	11	7	会意_Com_Ideographic	1	Nogome	2	1	1	0	1981	19723	19436	S
+859	爵	17	7	象形_Pictographic	1	Tsumekanmuri	2	1	2	0	1981	712	712	P
+860	若	8	6	象形_Pictographic	3	Kusakanmuri	47	2	1	10	1981	92809	79629	R
+861	弱	10	2	会意_Com_Ideographic	2	Yumi_Yumihen	11	1	2	12	1981	30438	30418	S
+862	寂	11	7	形声_Phonetic	1	Ukanmuri	36	2	2	9	1981	6064	5460	S
+863	手	4	1	象形_Pictographic	4	Te	6	1	19	19	1981	761851	736309	S
+864	主	5	3	象形_Pictographic	4	Ten	4	2	6	7	1981	478885	393309	S
+865	守	6	3	会意_Com_Ideographic	3	Ukanmuri	36	2	8	12	1981	100909	90065	P
+866	朱	6	7	象形_Pictographic	1	Ki_Kihen	85	1	2	0	1981	3998	1520	R
+867	取	8	3	会意_Com_Ideographic	3	Mata	9	1	41	41	1981	410712	397528	S
+868	狩	9	7	形声_Phonetic	1	Inu_Kemonohen	17	1	1	5	1981	4377	2309	S
+869	首	9	2	象形_Pictographic	3	Kubi	1	1	5	2	1981	357903	357115	S
+870	殊	10	7	形声_Phonetic	1	Kabanehen	5	1	3	3	1981	13237	12509	
+871	珠	10	7	形声_Phonetic	1	Tama_Oo	15	1	2	0	1981	4944	2018	S
+872	酒	10	3	形声_Phonetic	3	Tori_Torihen	14	1	3	3	1981	37771	29427	S
+873	腫	13	7	形声_Phonetic	0	Niku_Nikuzuki	44	1	2	4	2010	4714	4714	S
+874	種	14	4	形声_Phonetic	3	Nogi_Nogihen	23	1	5	16	1981	84368	81890	P
+875	趣	15	7	形声_Phonetic	1	Hashiru_Soonyoo	6	1	3	11	1981	13442	13389	S
+876	寿	7	7	形声_Phonetic	0	Sun	12	1	4	2	1981	19439	9167	P
+877	受	8	3	会意_Com_Ideographic	3	Mata	9	1	1	18	1981	318245	318245	R
+878	呪	8	7	会意_Com_Ideographic	0	Kuchi_Kuchihen	70	1	3	1	2010	1326	1326	R
+879	授	11	5	形声_Phonetic	1	Tehen	89	1	2	12	1981	100711	100711	S
+880	需	14	7	会意_Com_Ideographic	1	Ame_Amekanmuri	13	1	2	0	1981	18564	18564	S
+881	儒	16	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	3	0	1981	493	493	S
+882	樹	16	6	形声_Phonetic	1	Ki_Kihen	85	1	2	0	1981	51575	17317	S
+883	収	4	6	会意_Com_Ideographic	3	Mata	9	1	1	23	1981	146647	146002	S
+884	囚	5	7	会意_Com_Ideographic	1	Kunigamae	12	1	2	0	1981	4408	4408	S
+885	州	6	3	象形_Pictographic	2	Magarigawa	3	1	3	2	1981	158456	54766	S
+886	舟	6	7	象形_Pictographic	2	Fune_Funehen	8	1	1	11	1981	5711	3157	S
+887	秀	7	7	象形_Pictographic	1	Nogi_Nogihen	23	1	2	4	1981	65349	22765	S
+888	周	8	4	会意_Com_Ideographic	2	Kuchi_Kuchihen	70	1	5	9	1981	74380	67477	R
+889	宗	8	6	会意_Com_Ideographic	1	Ukanmuri	36	2	3	0	1981	28259	16954	S
+890	拾	9	3	形声_Phonetic	2	Tehen	89	2	1	5	1981	6834	6812	
+891	秋	9	2	会意_Com_Ideographic	4	Nogi_Nogihen	23	1	1	1	1981	78078	42265	S
+892	臭	9	7	会意_Com_Ideographic	1	Mizukara	2	1	3	9	1981	4787	4787	P
+893	修	10	5	会意_Com_Ideographic	1	Hito_Ninben_Hitoyane	104	2	2	8	1981	78951	65049	R
+894	袖	10	7	形声_Phonetic	0	Koromo_Koromohen	21	1	4	4	2010	3236	2556	P
+895	終	11	3	形声_Phonetic	4	Ito_Itohen	63	1	1	7	1981	195327	195324	R
+896	羞	11	7	会意_Com_Ideographic	0	Hitsuji	7	1	1	0	2010	177	177	
+897	習	11	3	会意_Com_Ideographic	4	Hane	6	1	4	4	1981	71958	69535	P
+898	週	11	2	形声_Phonetic	4	Shinnyoo	51	1	1	0	1981	82692	82110	S
+899	就	12	6	会意_Com_Ideographic	1	Dainomageashi	1	2	5	5	1981	65148	65095	R
+900	衆	12	6	会意_Com_Ideographic	1	Chi	2	2	4	0	1981	92285	18138	S
+901	集	12	3	会意_Com_Ideographic	4	Furutori	9	1	2	11	1981	234156	231136	S
+902	愁	13	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	3	6	1981	1131	1131	S
+903	酬	13	7	形声_Phonetic	1	Tori_Torihen	14	1	2	0	1981	12055	12055	
+904	醜	17	7	形声_Phonetic	1	Tori_Torihen	14	1	3	5	1981	799	799	R
+905	蹴	19	7	形声_Phonetic	0	Ashi_Ashihen	11	1	1	1	2010	968	968	S
+906	襲	22	7	会意_Com_Ideographic	1	Koromo_Koromohen	21	1	1	4	1981	22855	22855	P
+907	十	2	1	指事_Ideographic	5	Juu	11	2	1	1	1981	112519	94851	R
+908	汁	5	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	1	6	1981	4464	4457	P
+909	充	6	7	象形_Pictographic	1	Hitoashi	9	1	1	11	1981	31607	27597	R
+910	住	7	3	形声_Phonetic	4	Hito_Ninben_Hitoyane	104	1	2	3	1981	192383	169176	S
+911	柔	9	7	会意_Com_Ideographic	2	Ki_Kihen	85	2	3	6	1981	19223	19000	S
+912	重	9	3	会意_Com_Ideographic	4	Sato_Satohen	4	2	1	15	1981	256780	223305	R
+913	従	10	6	会意_Com_Ideographic	1	Gyooninben	19	3	7	10	1981	50374	50356	S
+914	渋	11	7	会意_Com_Ideographic	1	Mizu_Sanzui_Shitamizu	118	1	3	12	1981	24000	6396	S
+915	銃	14	7	形声_Phonetic	1	Kane_Kanehen	33	1	2	0	1981	19700	19700	R
+916	獣	16	7	会意_Com_Ideographic	1	Inu_Kemonohen	17	1	2	2	1981	4096	3922	S
+917	縦	16	6	形声_Phonetic	1	Ito_Itohen	63	1	2	3	1981	10352	10350	R
+918	叔	8	7	会意_Com_Ideographic	1	Mata	9	1	2	0	1981	1376	1347	
+919	祝	9	4	会意_Com_Ideographic	2	Shimesu_Shimesuhen	15	2	2	3	1981	15985	15691	R
+920	宿	11	3	会意_Com_Ideographic	3	Ukanmuri	36	1	5	15	1981	53369	27625	S
+921	淑	11	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	4	0	1981	2736	412	S
+922	粛	11	7	会意_Com_Ideographic	1	Fudezukuri	1	1	3	0	1981	5064	4899	S
+923	縮	17	6	形声_Phonetic	1	Ito_Itohen	63	1	4	28	1981	33187	33187	S
+924	塾	14	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	3	0	1981	9799	7118	
+925	熟	15	6	形声_Phonetic	1	Hi_Hihen_Renga	26	1	6	6	1981	9991	9991	S
+926	出	5	1	象形_Pictographic	5	Ukebako	4	2	4	66	1981	956723	938651	S
+927	述	8	5	会意_Com_Ideographic	2	Shinnyoo	51	1	3	5	1981	101933	101933	P
+928	術	11	5	会意_Com_Ideographic	3	Gyoogamae	6	1	10	0	1981	131760	127136	P
+929	俊	9	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	2	0	1981	35764	2755	S
+930	春	9	2	形声_Phonetic	4	Nichi_Nichihen	38	1	1	2	1981	87078	62227	S
+931	瞬	18	7	形声_Phonetic	1	Me_Mehen	19	1	2	3	1981	16344	16061	
+932	旬	6	7	象形_Pictographic	1	Nichi_Nichihen	38	2	2	0	1981	38096	36853	S
+933	巡	6	7	形声_Phonetic	1	Magarigawa	3	1	2	3	1981	38126	38124	R
+934	盾	9	7	象形_Pictographic	1	Me_Mehen	19	1	4	4	1981	6610	6608	
+935	准	10	7	形声_Phonetic	1	Nisui	6	1	3	0	1981	8450	8450	
+936	殉	10	7	形声_Phonetic	1	Kabanehen	5	1	3	0	1981	1336	1336	R
+937	純	10	6	形声_Phonetic	2	Ito_Itohen	63	1	3	0	1981	47796	14828	R
+938	循	12	7	形声_Phonetic	1	Gyooninben	19	1	1	0	1981	5467	5467	
+939	順	12	4	形声_Phonetic	2	Oogai	22	1	6	0	1981	65901	55532	S
+940	準	13	5	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	4	0	1981	127637	127128	S
+941	潤	15	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	4	14	1981	6871	3427	S
+942	遵	15	7	形声_Phonetic	1	Shinnyoo	51	1	3	0	1981	112	112	
+943	処	5	6	会意_Com_Ideographic	3	Suinyoo	4	1	7	0	1981	92803	92789	S
+944	初	7	4	会意_Com_Ideographic	3	Katana_Rittoo	32	1	2	11	1981	307333	305500	R
+945	所	8	3	会意_Com_Ideographic	3	To_Tokanmuri	6	1	1	19	1981	348762	332553	P
+946	書	10	2	会意_Com_Ideographic	5	Hirabi	8	1	4	4	1981	328006	317053	P
+947	庶	11	7	会意_Com_Ideographic	1	Madare	17	1	2	0	1981	4168	4160	
+948	暑	12	3	形声_Phonetic	1	Nichi_Nichihen	38	1	1	3	1981	8110	8106	P
+949	署	13	6	形声_Phonetic	2	Amigashira	7	1	2	0	1981	59183	58347	S
+950	緒	14	7	形声_Phonetic	3	Ito_Itohen	63	2	3	5	1981	31341	27053	S
+951	諸	15	6	形声_Phonetic	2	Gon_Gonben	68	1	4	0	1981	36135	29928	R
+952	女	3	1	象形_Pictographic	5	Onna_Onnahen	36	3	3	4	1981	329980	322259	S
+953	如	6	7	会意_Com_Ideographic	1	Onna_Onnahen	36	2	3	0	1981	5931	4607	S
+954	助	7	3	会意_Com_Ideographic	3	Chikara	23	1	2	13	1981	91357	83256	S
+955	序	7	5	形声_Phonetic	1	Madare	17	1	6	0	1981	12499	12499	S
+956	叙	9	7	会意_Com_Ideographic	1	Mata	9	1	6	0	1981	2192	2109	R
+957	徐	10	7	形声_Phonetic	1	Gyooninben	19	1	3	0	1981	6055	5311	
+958	除	10	6	形声_Phonetic	3	Kozatohen	31	2	2	5	1981	75671	75647	S
+959	小	3	1	象形_Pictographic	5	Shoo	5	1	5	11	1981	493785	227697	R
+960	升	4	7	象形_Pictographic	1	Juu	11	1	1	1	1981	1090	652	
+961	少	4	2	象形_Pictographic	4	Shoo	5	1	3	11	1981	176331	175913	S
+962	召	5	7	会意_Com_Ideographic	2	Kuchi_Kuchihen	70	1	10	10	1981	3516	3510	S
+963	匠	6	7	会意_Com_Ideographic	1	Hakogamae	2	1	4	0	1981	6864	6105	P
+964	床	7	7	形声_Phonetic	2	Madare	17	1	2	5	1981	18948	18092	S
+965	抄	7	7	形声_Phonetic	1	Tehen	89	1	3	0	1981	629	629	S
+966	肖	7	7	形声_Phonetic	1	Niku_Nikuzuki	44	1	1	0	1981	2335	2335	
+967	尚	8	7	会意_Com_Ideographic	1	Shoo	5	1	6	0	1981	12251	3024	S
+968	招	8	5	形声_Phonetic	3	Tehen	89	1	7	7	1981	37383	37273	R
+969	承	8	5	会意_Com_Ideographic	2	Te	6	1	17	3	1981	34862	34803	S
+970	昇	8	7	形声_Phonetic	2	Nichi_Nichihen	38	1	10	10	1981	48108	43002	R
+971	松	8	4	形声_Phonetic	1	Ki_Kihen	85	1	1	1	1981	161500	8025	S
+972	沼	8	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	2	4	1981	18607	2745	S
+973	昭	9	3	形声_Phonetic	1	Nichi_Nichihen	38	1	2	0	1981	42854	58	
+974	宵	10	7	形声_Phonetic	1	Ukanmuri	36	1	2	2	1981	618	509	S
+975	将	10	6	会意_Com_Ideographic	2	Sun	12	1	3	0	1981	77204	71832	S
+976	消	10	3	形声_Phonetic	3	Mizu_Sanzui_Shitamizu	118	1	8	14	1981	132050	129962	R
+977	症	10	7	形声_Phonetic	1	Yamaidare	15	1	4	0	1981	51142	51142	S
+978	祥	10	7	形声_Phonetic	1	Shimesu_Shimesuhen	15	1	1	0	1981	18394	7792	S
+979	称	10	7	形声_Phonetic	1	Nogi_Nogihen	23	1	4	0	1981	28293	28256	P
+980	笑	10	4	象形_Pictographic	3	Take_Takekanmuri	24	1	1	9	1981	54603	54152	S
+981	唱	11	4	形声_Phonetic	1	Kuchi_Kuchihen	70	1	8	8	1981	15042	15042	P
+982	商	11	3	会意_Com_Ideographic	3	Kuchi_Kuchihen	70	1	3	3	1981	106813	93620	R
+983	渉	11	7	会意_Com_Ideographic	1	Mizu_Sanzui_Shitamizu	118	1	9	0	1981	174306	173141	S
+984	章	11	3	象形_Pictographic	2	Tatsu	5	1	7	0	1981	37509	22049	P
+985	紹	11	7	形声_Phonetic	2	Ito_Itohen	63	1	2	0	1981	30354	30330	
+986	訟	11	7	形声_Phonetic	1	Gon_Gonben	68	1	1	0	1981	28689	28689	
+987	勝	12	3	形声_Phonetic	3	Chikara	23	1	2	7	1981	562597	537244	S
+988	掌	12	7	形声_Phonetic	1	Te	6	1	3	0	1981	3233	3233	S
+989	晶	12	7	象形_Pictographic	1	Nichi_Nichihen	38	1	2	0	1981	8021	4696	
+990	焼	12	4	形声_Phonetic	2	Hi_Hihen_Renga	26	1	1	30	1981	31200	30528	S
+991	焦	12	7	会意_Com_Ideographic	1	Hi_Hihen_Renga	26	1	4	12	1981	24074	24074	R
+992	硝	12	7	形声_Phonetic	1	Ishi_Ishihen	16	1	1	0	1981	948	476	R
+993	粧	12	7	形声_Phonetic	0	Kome_Komehen	10	1	1	0	1981	6876	6442	
+994	詔	12	7	形声_Phonetic	1	Gon_Gonben	68	1	1	1	1981	407	356	
+995	証	12	5	形声_Phonetic	1	Gon_Gonben	68	1	3	0	1981	133739	115212	S
+996	象	12	4	象形_Pictographic	2	Inoko	3	2	4	2	1981	117221	111135	S
+997	傷	13	6	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	2	23	1981	63587	63579	P
+998	奨	13	7	形声_Phonetic	1	Dai	16	1	2	0	1981	10638	9283	S
+999	照	13	4	形声_Phonetic	2	Hi_Hihen_Renga	26	1	1	6	1981	26639	20578	S
+1000	詳	13	7	形声_Phonetic	1	Gon_Gonben	68	1	6	6	1981	22878	22870	R
+1001	彰	14	7	会意_Com_Ideographic	1	Sanzukuri	5	1	1	0	1981	17962	10957	
+1002	障	14	6	形声_Phonetic	1	Kozatohen	31	1	5	5	1981	87311	86035	S
+1003	憧	15	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	6	6	2010	549	549	
+1004	衝	15	7	形声_Phonetic	1	Gyoogamae	6	1	5	0	1981	26549	26549	S
+1005	賞	15	4	形声_Phonetic	2	Kai_Kaihen	35	1	3	0	1981	161830	156578	S
+1006	償	17	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	6	6	1981	36879	36879	S
+1007	礁	17	7	形声_Phonetic	1	Ishi_Ishihen	16	1	1	0	1981	2008	2008	P
+1008	鐘	20	7	形声_Phonetic	1	Kane_Kanehen	33	1	4	4	1981	3667	3156	S
+1009	上	3	1	指事_Ideographic	5	Ichi	14	2	15	85	1981	862397	739020	S
+1010	丈	3	7	会意_Com_Ideographic	0	Ichi	14	1	4	3	1981	15154	10047	P
+1011	冗	4	7	会意_Com_Ideographic	1	Wakanmuri	4	1	1	0	1981	2373	2373	R
+1012	条	7	5	会意_Com_Ideographic	1	Ki_Kihen	85	1	8	0	1981	87689	82845	S
+1013	状	7	5	形声_Phonetic	3	Inu_Kemonohen	17	1	5	0	1981	150338	150301	P
+1014	乗	9	3	会意_Com_Ideographic	3	No	4	1	5	20	1981	109192	108840	S
+1015	城	9	6	形声_Phonetic	2	Tsuchi_Tsuchihen	50	1	1	2	1981	82540	12904	S
+1016	浄	9	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	5	0	1981	8463	6388	S
+1017	剰	11	7	形声_Phonetic	1	Katana_Rittoo	32	1	1	0	1981	8262	8262	
+1018	常	11	5	形声_Phonetic	3	Haba_Kinben	17	1	3	5	1981	130133	123080	R
+1019	情	11	5	形声_Phonetic	3	Kokoro_Risshinben_Shitagokoro	76	2	11	2	1981	241529	240958	P
+1020	場	12	2	形声_Phonetic	4	Tsuchi_Tsuchihen	50	1	7	7	1981	643257	627086	P
+1021	畳	12	7	会意_Com_Ideographic	2	Ta_Tahen	19	1	1	11	1981	4113	4050	S
+1022	蒸	13	6	形声_Phonetic	2	Kusakanmuri	47	1	6	11	1981	4537	4537	R
+1023	縄	15	7	形声_Phonetic	1	Ito_Itohen	63	1	2	2	1981	41421	3218	S
+1024	壌	16	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	2	0	1981	8836	2668	
+1025	嬢	16	7	形声_Phonetic	1	Onna_Onnahen	36	1	4	0	1981	864	864	
+1026	錠	16	7	形声_Phonetic	1	Kane_Kanehen	33	1	6	0	1981	3703	3646	
+1027	譲	20	7	形声_Phonetic	1	Gon_Gonben	68	1	15	15	1981	24866	23074	S
+1028	醸	20	7	形声_Phonetic	1	Tori_Torihen	14	1	3	3	1981	2852	2852	
+1029	色	6	2	会意_Com_Ideographic	4	Iro	2	2	1	13	1981	62087	60753	P
+1030	拭	9	7	形声_Phonetic	0	Tehen	89	1	3	3	2010	772	772	
+1031	食	9	2	象形_Pictographic	5	Shoku_Shokuhen	12	2	5	12	1981	167658	164637	P
+1032	植	12	3	形声_Phonetic	2	Ki_Kihen	85	1	1	6	1981	41556	36875	S
+1033	殖	12	7	形声_Phonetic	1	Kabanehen	5	1	1	7	1981	8812	8141	S
+1034	飾	13	7	会意_Com_Ideographic	1	Shoku_Shokuhen	12	1	7	7	1981	17252	14941	P
+1035	触	13	7	形声_Phonetic	2	Tsuno_Tsunohen	3	1	1	11	1981	33402	33374	S
+1036	嘱	15	7	形声_Phonetic	1	Kuchi_Kuchihen	70	1	1	0	1981	1833	1833	
+1037	織	18	5	形声_Phonetic	1	Ito_Itohen	63	2	1	1	1981	72142	63740	S
+1038	職	18	5	形声_Phonetic	3	Mimi_Mimihen	5	1	4	0	1981	176796	176595	P
+1039	辱	10	7	会意_Com_Ideographic	1	Shinnotatsu	2	1	6	6	1981	5015	5015	P
+1040	尻	5	7	形声_Phonetic	0	Shikabane	15	0	0	6	2010	6156	3229	S
+1041	心	4	2	象形_Pictographic	4	Kokoro_Risshinben_Shitagokoro	76	1	10	18	1981	258654	256954	P
+1042	申	5	3	象形_Pictographic	3	Ta_Tahen	19	1	9	9	1981	72345	72320	S
+1043	伸	7	7	形声_Phonetic	2	Hito_Ninben_Hitoyane	104	1	1	25	1981	50886	35458	S
+1044	臣	7	4	象形_Pictographic	2	Shin	2	2	2	0	1981	17240	14912	P
+1045	芯	7	7	形声_Phonetic	0	Kusakanmuri	47	1	1	0	2010	965	965	
+1046	身	7	3	象形_Pictographic	3	Mi	1	1	15	15	1981	164014	162915	P
+1047	辛	7	7	象形_Pictographic	2	Karai	3	1	2	8	1981	7570	7501	R
+1048	侵	9	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	5	5	1981	23066	23066	R
+1049	信	9	4	会意_Com_Ideographic	3	Hito_Ninben_Hitoyane	104	1	7	0	1981	236001	172908	S
+1050	津	9	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	3	3	1981	66225	13640	S
+1051	神	9	3	形声_Phonetic	3	Shimesu_Shimesuhen	15	2	4	3	1981	211666	78266	R
+1052	唇	10	7	形声_Phonetic	1	Kuchi_Kuchihen	70	1	1	1	1981	1330	1330	
+1053	娠	10	7	形声_Phonetic	1	Onna_Onnahen	36	1	1	0	1981	4721	4721	
+1054	振	10	7	形声_Phonetic	1	Tehen	89	1	10	20	1981	93772	93205	S
+1055	浸	10	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	8	14	1981	9359	9359	R
+1056	真	10	3	会意_Com_Ideographic	4	Me_Mehen	19	1	4	6	1981	315343	267420	R
+1057	針	10	6	形声_Phonetic	2	Kane_Kanehen	33	1	1	14	1981	87419	87082	S
+1058	深	11	3	形声_Phonetic	3	Mizu_Sanzui_Shitamizu	118	1	1	10	1981	84163	72752	R
+1059	紳	11	7	形声_Phonetic	1	Ito_Itohen	63	1	2	0	1981	3837	1504	
+1060	進	11	3	形声_Phonetic	3	Shinnyoo	51	1	1	14	1981	252430	241979	S
+1061	森	12	1	会意_Com_Ideographic	2	Ki_Kihen	85	1	2	2	1981	117996	19325	S
+1062	診	12	7	形声_Phonetic	1	Gon_Gonben	68	1	2	2	1981	36486	36473	P
+1063	寝	13	7	会意_Com_Ideographic	3	Ukanmuri	36	1	3	10	1981	18048	17035	R
+1064	慎	13	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	6	6	1981	30142	19928	
+1065	新	13	2	会意_Com_Ideographic	4	Kin_Onozukuri	5	1	7	5	1981	659987	465263	R
+1066	審	15	7	会意_Com_Ideographic	1	Ukanmuri	36	1	3	0	1981	106198	104685	P
+1067	震	15	7	形声_Phonetic	2	Ame_Amekanmuri	13	1	6	6	1981	69520	68814	S
+1068	薪	16	7	形声_Phonetic	1	Kusakanmuri	47	1	1	3	1981	892	891	
+1069	親	16	2	会意_Com_Ideographic	4	Miru	7	1	3	9	1981	130969	129143	R
+1070	人	2	1	象形_Pictographic	5	Hito_Ninben_Hitoyane	104	2	3	13	1981	1757335	1696029	P
+1071	刃	3	7	象形_Pictographic	1	Katana_Rittoo	32	1	3	2	1981	5075	5072	S
+1072	仁	4	6	会意_Com_Ideographic	1	Hito_Ninben_Hitoyane	104	2	5	0	1981	19549	3227	S
+1073	尽	6	7	会意_Com_Ideographic	1	Shikabane	15	1	9	12	1981	16392	15811	S
+1074	迅	6	7	形声_Phonetic	1	Shinnyoo	51	1	1	0	1981	4107	3934	
+1075	甚	9	7	象形_Pictographic	1	Amai	2	1	1	8	1981	1862	1568	S
+1076	陣	10	7	会意_Com_Ideographic	1	Kozatohen	31	1	4	0	1981	48780	48330	S
+1077	尋	12	7	会意_Com_Ideographic	1	Sun	12	1	1	3	1981	10511	9760	
+1078	腎	13	7	形声_Phonetic	0	Niku_Nikuzuki	44	1	1	0	2010	4246	4246	S
+1079	須	12	7	会意_Com_Ideographic	1	Oogai	22	1	2	0	2010	24868	2041	S
+1080	図	7	2	会意_Com_Ideographic	4	Kunigamae	12	2	8	15	1981	79453	78609	S
+1081	水	4	1	象形_Pictographic	5	Mizu_Sanzui_Shitamizu	118	1	3	1	1981	230561	158842	S
+1082	吹	7	7	会意_Com_Ideographic	3	Kuchi_Kuchihen	70	1	7	7	1981	19074	13484	S
+1083	垂	8	6	会意_Com_Ideographic	1	Tsuchi_Tsuchihen	50	1	3	16	1981	3553	3068	S
+1084	炊	8	7	会意_Com_Ideographic	1	Hi_Hihen_Renga	26	1	2	2	1981	2984	2966	
+1085	帥	9	7	会意_Com_Ideographic	1	Haba_Kinben	17	1	1	0	1981	627	627	
+1086	粋	10	7	形声_Phonetic	1	Kome_Komehen	10	1	12	2	1981	4129	4129	P
+1087	衰	10	7	会意_Com_Ideographic	1	Koromo_Koromohen	21	1	7	7	1981	7105	7089	S
+1088	推	11	6	形声_Phonetic	1	Tehen	89	1	1	6	1981	66779	66720	R
+1089	酔	11	7	形声_Phonetic	1	Tori_Torihen	14	1	5	5	1981	6346	6338	S
+1090	遂	12	7	形声_Phonetic	1	Shinnyoo	51	1	3	3	1981	13356	13356	S
+1091	睡	13	7	形声_Phonetic	1	Me_Mehen	19	1	2	0	1981	4241	4241	S
+1092	穂	15	7	会意_Com_Ideographic	1	Nogi_Nogihen	23	1	3	3	1981	10891	2473	S
+1093	随	12	7	形声_Phonetic	1	Kozatohen	31	1	1	0	1981	8586	8581	R
+1094	髄	19	7	形声_Phonetic	1	Hone_Honehen	3	1	2	0	1981	3759	3759	P
+1095	枢	8	7	会意_Com_Ideographic	1	Ki_Kihen	85	1	2	0	1981	3229	3229	S
+1096	崇	11	7	形声_Phonetic	1	Yama_Yamahen	16	1	1	0	1981	6388	891	
+1097	数	13	2	会意_Com_Ideographic	3	Nobun	16	2	6	5	1981	321551	320758	P
+1098	据	11	7	形声_Phonetic	1	Tehen	89	0	0	9	1981	8837	8837	
+1099	杉	7	7	形声_Phonetic	1	Ki_Kihen	85	0	0	3	1981	28919	2990	
+1100	裾	13	7	形声_Phonetic	0	Koromo_Koromohen	21	0	0	3	2010	649	387	
+1101	寸	3	6	会意_Com_Ideographic	1	Sun	12	1	2	0	1981	4287	4241	R
+1102	瀬	19	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	0	0	5	1981	35828	3344	S
+1103	是	9	7	象形_Pictographic	1	Nichi_Nichihen	38	1	2	0	1981	13295	12562	S
+1104	井	4	7	象形_Pictographic	1	Ni	6	2	1	1	1981	234115	9355	S
+1105	世	5	3	象形_Pictographic	4	Ichi	14	2	4	12	1981	356337	337799	P
+1106	正	5	1	会意_Com_Ideographic	4	Tomeru	6	2	11	18	1981	313748	233599	R
+1107	生	5	1	象形_Pictographic	5	Umareru	2	2	6	46	1981	784409	709119	S
+1108	成	6	4	会意_Com_Ideographic	3	Hokogamae_Hokozukuri	7	2	19	24	1981	362233	314970	S
+1109	西	6	2	仮借_Loan	5	Nishi	4	2	1	1	1981	215897	54683	R
+1110	声	7	2	会意_Com_Ideographic	3	Samurai	5	2	6	6	1981	115043	114958	P
+1111	制	8	5	会意_Com_Ideographic	3	Katana_Rittoo	32	1	11	0	1981	325886	325665	S
+1112	姓	8	7	形声_Phonetic	2	Onna_Onnahen	36	2	2	0	1981	3025	3016	S
+1113	征	8	7	形声_Phonetic	1	Gyooninben	19	1	2	0	1981	9302	6876	S
+1114	性	8	5	形声_Phonetic	3	Kokoro_Risshinben_Shitagokoro	76	2	7	0	1981	450195	450157	P
+1115	青	8	1	形声_Phonetic	4	Ao_Aohen	2	2	3	6	1981	93865	33794	R
+1116	斉	8	7	象形_Pictographic	1	Sei	2	1	2	0	1981	21534	8700	
+1117	政	9	5	形声_Phonetic	3	Nobun	16	2	2	2	1981	673588	660968	S
+1118	星	9	2	形声_Phonetic	2	Nichi_Nichihen	38	2	1	8	1981	56924	44802	S
+1119	牲	9	7	形声_Phonetic	1	Ushi_Ushihen	6	1	3	0	1981	13069	13069	
+1120	省	9	4	形声_Phonetic	2	Me_Mehen	19	2	3	10	1981	238338	124009	S
+1121	凄	10	7	形声_Phonetic	0	Nisui	6	1	1	0	2010	510	510	R
+1122	逝	10	7	形声_Phonetic	1	Shinnyoo	51	1	2	2	1981	2214	2210	
+1123	清	11	4	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	2	2	11	1981	70246	11861	R
+1124	盛	11	6	形声_Phonetic	1	Sara	8	2	3	16	1981	55458	48232	S
+1125	婿	12	7	形声_Phonetic	1	Onna_Onnahen	36	1	1	1	1981	705	705	
+1126	晴	12	2	形声_Phonetic	3	Nichi_Nichihen	38	1	3	6	1981	25329	14761	S
+1127	勢	13	5	会意_Com_Ideographic	2	Chikara	23	1	2	13	1981	159626	151652	P
+1128	聖	13	6	会意_Com_Ideographic	1	Mimi_Mimihen	5	1	4	0	1981	29664	20210	R
+1129	誠	13	6	形声_Phonetic	1	Gon_Gonben	68	1	3	4	1981	26839	8845	S
+1130	精	14	5	形声_Phonetic	3	Kome_Komehen	10	2	10	0	1981	55290	53008	R
+1131	製	14	5	形声_Phonetic	1	Koromo_Koromohen	21	1	2	0	1981	103775	86050	S
+1132	誓	14	7	形声_Phonetic	1	Gon_Gonben	68	1	3	3	1981	7426	7337	S
+1133	静	14	4	会意_Com_Ideographic	3	Ao_Aohen	2	2	3	24	1981	58348	24694	S
+1134	請	15	7	形声_Phonetic	1	Gon_Gonben	68	2	2	15	1981	75093	75073	S
+1135	整	16	3	形声_Phonetic	1	Nobun	16	1	1	17	1981	86828	85649	R
+1136	醒	16	7	形声_Phonetic	0	Tori_Torihen	14	1	3	0	2010	253	240	
+1137	税	12	5	形声_Phonetic	2	Nogi_Nogihen	23	1	2	0	1981	137754	132146	S
+1138	夕	3	1	象形_Pictographic	4	Yuube	5	1	1	1	1981	26561	25026	S
+1139	斥	5	7	象形_Pictographic	1	Kin_Onozukuri	5	1	3	0	1981	718	718	
+1140	石	5	1	会意_Com_Ideographic	3	Ishi_Ishihen	16	3	7	5	1981	156574	59831	S
+1141	赤	7	1	会意_Com_Ideographic	4	Aka	2	2	3	8	1981	68494	47188	R
+1142	昔	8	3	仮借_Loan	3	Nichi_Nichihen	38	2	2	2	1981	14731	14730	S
+1143	析	8	7	会意_Com_Ideographic	1	Ki_Kihen	85	1	3	0	1981	27325	27325	
+1144	席	10	4	会意_Com_Ideographic	3	Haba_Kinben	17	1	5	0	1981	116905	116905	P
+1145	脊	10	7	会意_Com_Ideographic	0	Niku_Nikuzuki	44	1	2	0	2010	1272	1234	R
+1146	隻	10	7	会意_Com_Ideographic	2	Furutori	9	1	2	0	1981	3641	3641	S
+1147	惜	11	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	7	12	1981	5739	5739	S
+1148	戚	11	7	形声_Phonetic	0	Hokogamae_Hokozukuri	7	1	2	0	2010	232	232	P
+1149	責	11	5	形声_Phonetic	3	Kai_Kaihen	35	1	9	9	1981	73506	73506	P
+1150	跡	13	7	形声_Phonetic	2	Ashi_Ashihen	11	1	13	13	1981	33663	33446	P
+1151	積	16	4	形声_Phonetic	3	Nogi_Nogihen	23	1	4	17	1981	63995	60996	S
+1152	績	17	5	形声_Phonetic	2	Ito_Itohen	63	1	3	0	1981	57529	57350	P
+1153	籍	20	7	形声_Phonetic	2	Take_Takekanmuri	24	1	2	0	1981	33656	33383	P
+1154	切	4	2	会意_Com_Ideographic	4	Katana_Rittoo	32	2	22	38	1981	205574	204798	S
+1155	折	7	4	会意_Com_Ideographic	3	Tehen	89	1	10	21	1981	27998	26727	S
+1156	拙	8	7	形声_Phonetic	1	Tehen	89	1	2	3	1981	1955	1908	S
+1157	窃	9	7	会意_Com_Ideographic	1	Ana_Anakanmuri	10	1	1	0	1981	4988	4988	
+1158	接	11	5	形声_Phonetic	2	Tehen	89	1	8	6	1981	74969	74968	S
+1159	設	11	5	会意_Com_Ideographic	2	Gon_Gonben	68	1	9	9	1981	264570	256062	P
+1160	雪	11	2	象形_Pictographic	3	Ame_Amekanmuri	13	1	2	2	1981	30737	23076	S
+1161	摂	13	7	形声_Phonetic	1	Tehen	89	1	2	0	1981	4893	4107	R
+1162	節	13	4	形声_Phonetic	1	Take_Takekanmuri	24	2	11	8	1981	42145	38934	S
+1163	説	14	4	形声_Phonetic	3	Gon_Gonben	68	2	8	6	1981	277598	277566	P
+1164	舌	6	5	象形_Pictographic	1	Shita	1	1	3	3	1981	3874	3834	S
+1165	絶	12	5	形声_Phonetic	3	Ito_Itohen	63	1	1	17	1981	45507	45507	S
+1166	千	3	1	形声_Phonetic	5	Juu	11	1	2	2	1981	132016	36665	R
+1167	川	3	1	象形_Pictographic	5	Magarigawa	3	1	3	3	1981	385851	39520	R
+1168	仙	5	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	2	0	1981	27445	910	S
+1169	占	5	7	会意_Com_Ideographic	2	Uranai	1	1	5	8	1981	41311	41169	S
+1170	先	6	1	会意_Com_Ideographic	5	Hitoashi	9	1	3	13	1981	350771	349259	R
+1171	宣	9	6	会意_Com_Ideographic	1	Ukanmuri	36	1	2	0	1981	37312	35318	R
+1172	専	9	6	会意_Com_Ideographic	2	Sun	12	1	2	2	1981	84267	80518	R
+1173	泉	9	6	象形_Pictographic	2	Mizu_Sanzui_Shitamizu	118	1	3	3	1981	97182	13022	S
+1174	浅	9	4	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	6	6	1981	23325	4014	R
+1175	洗	9	6	形声_Phonetic	3	Mizu_Sanzui_Shitamizu	118	1	3	3	1981	19250	17345	R
+1176	染	9	6	会意_Com_Ideographic	1	Ki_Kihen	85	1	3	18	1981	45259	44239	S
+1177	扇	10	7	会意_Com_Ideographic	1	To_Tokanmuri	6	1	1	1	1981	5663	3282	S
+1178	栓	10	7	形声_Phonetic	1	Ki_Kihen	85	1	8	0	1981	1444	1444	S
+1179	旋	11	7	会意_Com_Ideographic	1	Hoo_Hoohen	6	1	1	0	1981	3190	3189	S
+1180	船	11	2	形声_Phonetic	3	Fune_Funehen	8	1	1	11	1981	60249	50627	S
+1181	戦	13	4	会意_Com_Ideographic	3	Hokogamae_Hokozukuri	7	1	4	8	1981	594059	592083	S
+1182	煎	13	7	形声_Phonetic	0	Hi_Hihen_Renga	26	1	5	5	2010	421	421	
+1183	羨	13	7	形声_Phonetic	0	Hitsuji	7	1	3	4	2010	142	142	
+1184	腺	13	7	形声_Phonetic	0	Niku_Nikuzuki	44	1	1	0	2010	1803	1803	S
+1185	詮	13	7	形声_Phonetic	0	Gon_Gonben	68	1	5	0	2010	125	119	
+1186	践	13	7	形声_Phonetic	1	Ashi_Ashihen	11	1	8	0	1981	5799	5621	
+1187	箋	14	7	形声_Phonetic	0	Kusakanmuri	47	1	4	0	2010	192	192	
+1188	銭	14	5	形声_Phonetic	1	Kane_Kanehen	33	1	2	1	1981	19160	17541	P
+1189	潜	15	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	3	6	1981	13752	13706	S
+1190	線	15	2	形声_Phonetic	2	Ito_Itohen	63	1	4	0	1981	138903	126148	P
+1191	遷	15	7	形声_Phonetic	1	Shinnyoo	51	1	10	0	1981	1810	1802	S
+1192	選	15	4	形声_Phonetic	3	Shinnyoo	51	1	2	6	1981	653237	652435	S
+1193	薦	16	7	会意_Com_Ideographic	1	Kusakanmuri	47	1	3	4	1981	14404	14403	
+1194	繊	17	7	形声_Phonetic	1	Ito_Itohen	63	1	3	0	1981	5679	5621	S
+1195	鮮	17	7	形声_Phonetic	1	Uo_Uohen	3	1	2	7	1981	142308	16805	S
+1196	全	6	3	象形_Pictographic	3	Hito_Ninben_Hitoyane	104	1	1	6	1981	462041	444404	R
+1197	前	9	2	会意_Com_Ideographic	5	Katana_Rittoo	32	1	1	8	1981	718328	679235	R
+1198	善	12	6	会意_Com_Ideographic	1	Kuchi_Kuchihen	70	1	4	24	1981	58196	45066	S
+1199	然	12	4	会意_Com_Ideographic	3	Hi_Hihen_Renga	26	2	1	0	1981	95276	95022	P
+1200	禅	13	7	形声_Phonetic	1	Shimesu_Shimesuhen	15	1	2	0	1981	2010	1711	R
+1201	漸	14	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	1	0	1981	279	264	S
+1202	膳	16	7	形声_Phonetic	0	Niku_Nikuzuki	44	1	2	0	2010	905	709	P
+1203	繕	18	7	形声_Phonetic	1	Ito_Itohen	63	1	6	6	1981	1126	1126	
+1204	狙	8	7	形声_Phonetic	1	Inu_Kemonohen	17	1	5	5	2010	55133	55133	
+1205	阻	8	7	形声_Phonetic	1	Kozatohen	31	1	3	8	1981	9986	9986	S
+1206	祖	9	5	形声_Phonetic	3	Shimesu_Shimesuhen	15	1	4	0	1981	16851	16123	S
+1207	租	10	7	形声_Phonetic	1	Nogi_Nogihen	23	1	2	0	1981	1443	1443	S
+1208	素	10	5	象形_Pictographic	1	Ito_Itohen	63	2	5	0	1981	61589	60060	S
+1209	措	11	7	形声_Phonetic	1	Tehen	89	1	6	0	1981	33820	33820	S
+1210	粗	11	7	形声_Phonetic	1	Kome_Komehen	10	1	5	5	1981	3991	3991	R
+1211	組	11	2	形声_Phonetic	3	Ito_Itohen	63	1	4	17	1981	286910	281931	S
+1212	疎	12	7	形声_Phonetic	1	Hiki	2	1	3	7	1981	5159	5158	S
+1213	訴	12	7	形声_Phonetic	1	Gon_Gonben	68	1	4	4	1981	127929	127902	P
+1214	塑	13	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	2	0	1981	199	199	
+1215	遡	14	7	形声_Phonetic	0	Shinnyoo	51	1	2	2	2010	399	399	
+1216	礎	18	7	形声_Phonetic	1	Ishi_Ishihen	16	1	2	2	1981	13327	13105	
+1217	双	4	7	会意_Com_Ideographic	2	Mata	9	1	4	1	1981	18829	16367	R
+1218	壮	6	7	形声_Phonetic	1	Samurai	5	1	2	0	1981	6473	4145	S
+1219	早	6	1	仮借_Loan	4	Nichi_Nichihen	38	2	7	14	1981	117986	89336	R
+1220	争	6	4	会意_Com_Ideographic	3	Ku	1	1	4	4	1981	133311	131595	S
+1221	走	7	2	象形_Pictographic	4	Hashiru_Soonyoo	6	1	6	6	1981	85281	84685	P
+1222	奏	9	6	会意_Com_Ideographic	1	Dai	16	1	1	1	1981	21985	21985	S
+1223	相	9	3	会意_Com_Ideographic	3	Me_Mehen	19	2	5	6	1981	568804	555691	S
+1224	荘	9	7	形声_Phonetic	1	Kusakanmuri	47	1	2	0	1981	6533	5012	S
+1225	草	9	1	形声_Phonetic	3	Kusakanmuri	47	1	6	6	1981	34002	20753	S
+1226	送	9	3	形声_Phonetic	4	Shinnyoo	51	1	1	10	1981	155394	149941	S
+1227	倉	10	4	象形_Pictographic	1	Hito_Ninben_Hitoyane	104	1	1	7	1981	40861	6488	P
+1228	捜	10	7	形声_Phonetic	2	Tehen	89	1	4	4	1981	73463	73375	
+1229	挿	10	7	形声_Phonetic	1	Tehen	89	1	5	5	1981	2367	2366	R
+1230	桑	10	7	象形_Pictographic	1	Ki_Kihen	85	1	1	1	1981	6610	1699	S
+1231	巣	11	4	象形_Pictographic	1	Tsukanmuri	4	1	7	7	1981	7348	5431	S
+1232	掃	11	7	形声_Phonetic	2	Tehen	89	1	3	3	1981	11537	11536	S
+1233	曹	11	7	会意_Com_Ideographic	1	Hirabi	8	1	1	0	1981	3399	3221	S
+1234	曽	11	7	象形_Pictographic	0	Hirabi	8	2	7	0	2010	13354	6	
+1235	爽	11	7	会意_Com_Ideographic	1	Meme_Kou	1	1	6	6	2010	892	889	S
+1236	窓	11	6	形声_Phonetic	3	Ana_Anakanmuri	10	1	1	1	1981	18178	18149	S
+1237	創	12	6	形声_Phonetic	1	Katana_Rittoo	32	1	9	0	1981	47756	41991	R
+1238	喪	12	7	会意_Com_Ideographic	1	Kuchi_Kuchihen	70	1	1	1	1981	15053	15053	S
+1239	痩	12	7	形声_Phonetic	0	Yamaidare	15	1	1	1	2010	174	174	
+1240	葬	12	7	会意_Com_Ideographic	1	Kusakanmuri	47	1	2	2	1981	23145	23144	S
+1241	装	12	6	形声_Phonetic	2	Koromo_Koromohen	21	2	5	5	1981	65339	64282	P
+1242	僧	13	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	2	0	1981	3804	3781	S
+1243	想	13	3	形声_Phonetic	3	Kokoro_Risshinben_Shitagokoro	76	2	3	0	1981	110218	110205	P
+1244	層	14	6	形声_Phonetic	2	Shikabane	15	1	9	0	1981	45107	45081	P
+1245	総	14	5	形声_Phonetic	2	Ito_Itohen	63	1	6	0	1981	256508	243446	R
+1246	遭	14	7	形声_Phonetic	1	Shinnyoo	51	1	2	2	1981	7168	7168	
+1247	槽	15	7	形声_Phonetic	1	Ki_Kihen	85	1	3	0	1981	2452	2452	
+1248	踪	15	7	形声_Phonetic	0	Ashi_Ashihen	11	1	3	0	2010	661	661	
+1249	操	16	6	形声_Phonetic	1	Tehen	89	1	4	9	1981	21705	21377	S
+1250	燥	17	7	形声_Phonetic	2	Hi_Hihen_Renga	26	1	1	0	1981	3865	3865	
+1251	霜	17	7	形声_Phonetic	1	Ame_Amekanmuri	13	1	1	1	1981	1830	1029	S
+1252	騒	18	7	形声_Phonetic	1	Uma_Umahen	11	1	11	11	1981	16066	16065	S
+1253	藻	19	7	形声_Phonetic	1	Kusakanmuri	47	1	2	2	1981	1239	1166	S
+1254	造	10	5	会意_Com_Ideographic	2	Shinnyoo	51	1	17	17	1981	103483	100149	S
+1255	像	14	5	形声_Phonetic	2	Hito_Ninben_Hitoyane	104	1	5	0	1981	50722	49930	P
+1256	増	14	5	形声_Phonetic	3	Tsuchi_Tsuchihen	50	1	1	7	1981	202667	194787	R
+1257	憎	14	7	形声_Phonetic	2	Kokoro_Risshinben_Shitagokoro	76	1	2	9	1981	3933	3933	
+1258	蔵	15	6	形声_Phonetic	2	Kusakanmuri	47	1	8	8	1981	43152	19730	P
+1259	贈	18	7	形声_Phonetic	2	Kai_Kaihen	35	2	1	4	1981	19813	19813	S
+1260	臓	19	6	形声_Phonetic	2	Niku_Nikuzuki	44	1	2	0	1981	20504	20494	S
+1261	即	7	7	会意_Com_Ideographic	1	Fushizukuri_Warifu	6	1	2	0	1981	13182	13182	R
+1262	束	7	4	象形_Pictographic	3	Ki_Kihen	85	1	3	4	1981	35694	35325	P
+1263	足	7	1	象形_Pictographic	4	Ashi_Ashihen	11	1	3	32	1981	134406	123380	P
+1264	促	9	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	7	7	1981	24588	24588	S
+1265	則	9	5	会意_Com_Ideographic	2	Katana_Rittoo	32	1	6	0	1981	42023	33941	P
+1266	息	10	3	会意_Com_Ideographic	3	Kokoro_Risshinben_Shitagokoro	76	1	2	2	1981	41044	41036	P
+1267	捉	10	7	形声_Phonetic	0	Tehen	89	1	3	3	2010	1242	737	
+1268	速	10	3	形声_Phonetic	3	Shinnyoo	51	1	3	8	1981	88472	85564	S
+1269	側	11	4	形声_Phonetic	3	Hito_Ninben_Hitoyane	104	1	4	3	1981	155653	155635	P
+1270	測	12	5	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	7	7	1981	40780	40737	S
+1271	俗	9	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	7	0	1981	5701	5694	S
+1272	族	11	3	会意_Com_Ideographic	4	Hoo_Hoohen	6	1	5	0	1981	109908	109595	P
+1273	属	12	5	会意_Com_Ideographic	1	Shikabane	15	1	2	0	1981	44814	42419	S
+1274	賊	13	7	会意_Com_Ideographic	1	Kai_Kaihen	35	1	3	0	1981	3456	3456	P
+1275	続	13	4	形声_Phonetic	3	Ito_Itohen	63	1	2	2	1981	331308	330249	S
+1276	卒	8	4	象形_Pictographic	2	Juu	11	1	3	0	1981	36091	36091	S
+1277	率	11	5	象形_Pictographic	1	Gen	2	2	7	3	1981	142430	142430	P
+1278	存	6	6	会意_Com_Ideographic	3	Ko_Kohen	9	2	6	0	1981	73361	73187	S
+1279	村	7	1	形声_Phonetic	2	Ki_Kihen	85	1	2	2	1981	248650	68884	S
+1280	孫	10	4	会意_Com_Ideographic	2	Ko_Kohen	9	1	1	1	1981	16008	14683	S
+1281	尊	12	6	会意_Com_Ideographic	2	Sun	12	1	6	12	1981	14935	13921	R
+1282	損	13	5	会意_Com_Ideographic	2	Tehen	89	1	3	7	1981	47814	47805	S
+1283	遜	14	7	形声_Phonetic	0	Shinnyoo	51	1	3	0	2010	304	304	
+1284	他	5	3	形声_Phonetic	3	Hito_Ninben_Hitoyane	104	1	6	3	1981	76614	76605	R
+1285	多	6	2	会意_Com_Ideographic	4	Yuube	5	1	1	5	1981	278725	258481	R
+1286	汰	7	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	2	0	2010	828	826	
+1287	打	5	3	会意_Com_Ideographic	3	Tehen	89	1	1	26	1981	323451	323160	S
+1288	妥	7	7	会意_Com_Ideographic	1	Onna_Onnahen	36	1	2	0	1981	9430	9430	
+1289	唾	11	7	形声_Phonetic	0	Kuchi_Kuchihen	70	1	2	2	2010	349	349	
+1290	堕	12	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	3	0	1981	747	747	
+1291	惰	12	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	1	0	1981	321	321	S
+1292	駄	14	7	形声_Phonetic	1	Uma_Umahen	11	1	3	0	1981	10376	9554	S
+1293	太	4	2	形声_Phonetic	3	Dai	16	2	3	12	1981	124854	33847	S
+1294	対	7	3	会意_Com_Ideographic	3	Sun	12	2	12	0	1981	599540	597097	R
+1295	体	7	2	形声_Phonetic	4	Hito_Ninben_Hitoyane	104	2	11	2	1981	440216	430860	P
+1296	耐	9	7	会意_Com_Ideographic	1	Shikashite	1	1	1	8	1981	17747	17724	R
+1297	待	9	3	形声_Phonetic	4	Gyooninben	19	1	1	7	1981	116127	116043	S
+1298	怠	9	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	2	5	1981	5155	5155	S
+1299	胎	9	7	形声_Phonetic	1	Niku_Nikuzuki	44	1	2	0	1981	2890	2885	S
+1300	退	9	5	会意_Com_Ideographic	3	Shinnyoo	51	1	4	11	1981	117331	117266	R
+1301	帯	10	4	象形_Pictographic	2	Haba_Kinben	17	1	2	13	1981	68745	66763	P
+1302	泰	10	7	会意_Com_Ideographic	1	Mizu_Sanzui_Shitamizu	118	1	5	0	1981	19099	871	S
+1303	堆	11	7	形声_Phonetic	0	Tsuchi_Tsuchihen	50	1	1	0	2010	708	700	
+1304	袋	11	7	形声_Phonetic	2	Koromo_Koromohen	21	1	2	3	1981	17171	11030	P
+1305	逮	11	7	形声_Phonetic	1	Shinnyoo	51	1	1	0	1981	67703	67703	
+1306	替	12	7	会意_Com_Ideographic	2	Hirabi	8	1	7	8	1981	44036	44020	P
+1307	貸	12	5	形声_Phonetic	4	Kai_Kaihen	35	1	5	5	1981	20579	20579	R
+1308	隊	12	4	会意_Com_Ideographic	1	Kozatohen	31	1	9	0	1981	83171	51823	P
+1309	滞	13	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	1	5	1981	19247	19247	S
+1310	態	14	5	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	4	0	1981	104268	104268	P
+1311	戴	17	7	形声_Phonetic	0	Hokogamae_Hokozukuri	7	1	10	0	2010	726	679	
+1312	大	3	1	象形_Pictographic	5	Dai	16	2	9	15	1981	1825235	1224358	R
+1313	代	5	3	形声_Phonetic	4	Hito_Ninben_Hitoyane	104	2	8	22	1981	549569	504830	P
+1314	台	5	2	会意_Com_Ideographic	4	Kuchi_Kuchihen	70	2	11	0	1981	193902	126169	S
+1315	第	11	3	形声_Phonetic	1	Take_Takekanmuri	24	1	2	0	1981	354870	351478	
+1316	題	18	3	形声_Phonetic	4	Oogai	22	1	8	0	1981	312442	312133	P
+1317	滝	13	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	0	0	3	1981	10276	2320	S
+1318	宅	6	6	形声_Phonetic	3	Ukanmuri	36	1	5	0	1981	111966	103463	P
+1319	択	7	7	形声_Phonetic	1	Tehen	89	1	6	0	1981	41135	40622	
+1320	沢	7	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	2	4	1981	124565	3426	S
+1321	卓	8	7	象形_Pictographic	1	Juu	11	1	3	0	1981	23306	12328	S
+1322	拓	8	7	形声_Phonetic	1	Tehen	89	1	3	0	1981	19248	4258	S
+1323	託	10	7	形声_Phonetic	1	Gon_Gonben	68	1	2	0	1981	26692	25391	P
+1324	濯	17	7	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	3	0	1981	3916	3896	
+1325	諾	15	7	形声_Phonetic	1	Gon_Gonben	68	1	3	0	1981	4088	4088	S
+1326	濁	16	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	9	8	1981	1754	1718	S
+1327	但	7	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	0	0	3	1981	334	28	
+1328	達	12	4	形声_Phonetic	3	Shinnyoo	51	1	8	0	1981	85674	72381	P
+1329	脱	11	7	形声_Phonetic	1	Niku_Nikuzuki	44	1	1	5	1981	41449	41449	R
+1330	奪	14	7	会意_Com_Ideographic	1	Dai	16	1	9	3	1981	38243	38243	S
+1331	棚	12	7	形声_Phonetic	1	Ki_Kihen	85	0	0	7	1981	12879	11951	S
+1332	誰	15	7	形声_Phonetic	0	Gon_Gonben	68	0	0	1	2010	24845	24845	
+1333	丹	4	7	象形_Pictographic	1	Ten	4	1	3	0	1981	11381	2129	S
+1334	旦	5	7	象形_Pictographic	1	Nichi_Nichihen	38	1	2	0	2010	805	584	S
+1335	担	8	6	形声_Phonetic	2	Tehen	89	1	2	3	1981	128180	128180	S
+1336	単	9	4	象形_Pictographic	3	Tsukanmuri	4	1	5	0	1981	63753	63748	R
+1337	炭	9	3	会意_Com_Ideographic	2	Hi_Hihen_Renga	26	1	2	1	1981	15363	15187	S
+1338	胆	9	7	形声_Phonetic	1	Niku_Nikuzuki	44	1	2	0	1981	6103	5954	P
+1339	探	11	6	形声_Phonetic	3	Tehen	89	1	6	6	1981	33925	33925	R
+1340	淡	11	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	5	5	1981	8092	6255	S
+1341	短	12	3	形声_Phonetic	2	Ya_Yahen	4	1	6	2	1981	44330	43198	R
+1342	嘆	13	7	形声_Phonetic	1	Kuchi_Kuchihen	70	1	1	10	1981	5929	5929	S
+1343	端	14	7	形声_Phonetic	1	Tatsu	5	1	3	9	1981	34484	30321	P
+1344	綻	14	7	形声_Phonetic	0	Ito_Itohen	63	1	6	6	2010	4191	4191	
+1345	誕	15	6	形声_Phonetic	1	Gon_Gonben	68	1	4	0	1981	21857	21713	
+1346	鍛	17	7	形声_Phonetic	1	Kane_Kanehen	33	1	5	5	1981	4813	4673	R
+1347	団	6	5	形声_Phonetic	2	Kunigamae	12	2	8	0	1981	232277	215789	P
+1348	男	7	1	会意_Com_Ideographic	5	Ta_Tahen	19	2	4	7	1981	268685	236012	S
+1349	段	9	6	会意_Com_Ideographic	3	Rumata	6	1	15	0	1981	128815	123176	P
+1350	断	11	5	会意_Com_Ideographic	3	Kin_Onozukuri	5	1	3	14	1981	149619	149595	S
+1351	弾	12	7	形声_Phonetic	1	Yumi_Yumihen	11	1	1	12	1981	50880	50735	S
+1352	暖	13	6	形声_Phonetic	1	Nichi_Nichihen	38	1	1	8	1981	19156	19156	R
+1353	談	15	3	形声_Phonetic	3	Gon_Gonben	68	1	2	0	1981	135061	129173	P
+1354	壇	16	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	2	6	0	1981	7863	7574	P
+1355	地	6	2	形声_Phonetic	4	Tsuchi_Tsuchihen	50	2	22	0	1981	627071	611473	P
+1356	池	6	2	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	5	5	1981	47798	9390	S
+1357	知	8	2	会意_Com_Ideographic	4	Ya_Yahen	4	1	3	11	1981	267746	217178	S
+1358	値	10	6	形声_Phonetic	3	Hito_Ninben_Hitoyane	104	1	3	3	1981	81179	81150	P
+1359	恥	10	7	会意_Com_Ideographic	3	Kokoro_Risshinben_Shitagokoro	76	1	5	15	1981	5614	5614	S
+1360	致	10	7	会意_Com_Ideographic	1	Itaru	2	1	9	9	1981	69700	69697	P
+1361	遅	12	7	形声_Phonetic	3	Shinnyoo	51	1	5	10	1981	37540	37425	R
+1362	痴	13	7	会意_Com_Ideographic	1	Yamaidare	15	1	1	0	1981	4755	4753	S
+1363	稚	13	7	形声_Phonetic	1	Nogi_Nogihen	23	1	1	0	1981	6806	6287	S
+1364	置	13	4	形声_Phonetic	3	Amigashira	7	1	17	17	1981	161103	159822	P
+1365	緻	16	7	形声_Phonetic	0	Ito_Itohen	63	1	1	0	2010	967	967	S
+1366	竹	6	1	象形_Pictographic	2	Take_Takekanmuri	24	1	1	2	1981	46323	7362	P
+1367	畜	10	7	会意_Com_Ideographic	2	Ta_Tahen	19	1	1	0	1981	4741	4459	S
+1368	逐	10	7	会意_Com_Ideographic	1	Shinnyoo	51	1	5	0	1981	1025	1025	S
+1369	蓄	13	7	形声_Phonetic	1	Kusakanmuri	47	1	3	4	1981	9211	9211	S
+1370	築	16	5	形声_Phonetic	2	Take_Takekanmuri	24	1	2	2	1981	40789	38256	S
+1371	秩	10	7	形声_Phonetic	1	Nogi_Nogihen	23	1	2	0	1981	6831	3287	
+1372	窒	11	7	形声_Phonetic	1	Ana_Anakanmuri	10	1	2	0	1981	2562	2562	
+1373	茶	9	2	形声_Phonetic	4	Kusakanmuri	47	2	4	0	1981	21104	18222	R
+1374	着	12	3	形声_Phonetic	4	Hitsuji	7	2	3	14	1981	137543	137422	P
+1375	嫡	14	7	形声_Phonetic	1	Onna_Onnahen	36	1	4	0	1981	387	387	S
+1376	中	4	1	象形_Pictographic	5	Boo	1	1	8	6	1981	1327113	846645	S
+1377	仲	6	4	形声_Phonetic	2	Hito_Ninben_Hitoyane	104	1	2	2	1981	42150	27518	S
+1378	虫	6	1	会意_Com_Ideographic	2	Mushi_Mushihen	10	1	8	8	1981	11017	10424	P
+1379	沖	7	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	2	2	1981	55452	15096	
+1380	宙	8	6	形声_Phonetic	1	Ukanmuri	36	1	7	0	1981	23756	22540	
+1381	忠	8	6	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	4	0	1981	23776	4632	R
+1382	抽	8	7	形声_Phonetic	1	Tehen	89	1	3	0	1981	10475	10467	R
+1383	注	8	3	形声_Phonetic	4	Mizu_Sanzui_Shitamizu	118	1	3	9	1981	92991	92964	S
+1384	昼	9	2	会意_Com_Ideographic	4	Nichi_Nichihen	38	1	2	3	1981	14793	14781	S
+1385	柱	9	3	形声_Phonetic	2	Ki_Kihen	85	1	4	9	1981	16782	16223	P
+1386	衷	10	7	形声_Phonetic	1	Koromo_Koromohen	21	1	3	0	1981	459	459	
+1387	酎	10	7	形声_Phonetic	0	Tori_Torihen	14	1	1	0	2010	1604	1604	
+1388	鋳	15	7	形声_Phonetic	1	Kane_Kanehen	33	1	1	3	1981	657	601	S
+1389	駐	15	7	形声_Phonetic	2	Uma_Umahen	11	1	2	0	1981	27728	27520	S
+1390	著	11	6	形声_Phonetic	2	Kusakanmuri	47	1	1	4	1981	184898	184771	S
+1391	貯	12	4	形声_Phonetic	2	Kai_Kaihen	35	1	5	0	1981	12502	12495	S
+1392	丁	2	3	象形_Pictographic	1	Ichi	14	2	5	0	1981	14027	13222	S
+1393	弔	4	7	象形_Pictographic	1	Yumi_Yumihen	11	1	1	3	1981	2079	2079	R
+1394	庁	5	6	形声_Phonetic	2	Madare	17	1	1	0	1981	118547	45202	P
+1395	兆	6	4	象形_Pictographic	2	Hitoashi	9	1	5	4	1981	50730	50537	P
+1396	町	7	1	形声_Phonetic	4	Ta_Tahen	19	1	5	3	1981	173304	145204	R
+1397	長	8	2	象形_Pictographic	5	Nagai	1	1	11	2	1981	961902	863456	S
+1398	挑	9	7	形声_Phonetic	1	Tehen	89	1	3	3	1981	39036	39036	
+1399	帳	11	3	形声_Phonetic	1	Haba_Kinben	17	1	5	0	1981	18431	15163	S
+1400	張	11	5	形声_Phonetic	1	Yumi_Yumihen	11	1	1	29	1981	125617	114027	P
+1401	彫	11	7	会意_Com_Ideographic	1	Sanzukuri	5	1	1	4	1981	9569	9549	R
+1402	眺	11	7	形声_Phonetic	1	Me_Mehen	19	1	4	4	1981	4119	4118	
+1403	釣	11	7	形声_Phonetic	1	Kane_Kanehen	33	1	5	5	1981	8825	8282	R
+1404	頂	11	6	形声_Phonetic	3	Oogai	22	1	6	10	1981	12374	12350	S
+1405	鳥	11	2	象形_Pictographic	4	Tori	4	1	1	3	1981	39244	20897	P
+1406	朝	12	2	会意_Com_Ideographic	4	Tsuki_Tsukihen	8	1	6	2	1981	223992	55404	R
+1407	貼	12	7	形声_Phonetic	0	Kai_Kaihen	35	1	1	6	2010	232	232	
+1408	超	12	7	形声_Phonetic	2	Hashiru_Soonyoo	6	1	2	5	1981	67462	67445	S
+1409	腸	13	4	形声_Phonetic	1	Niku_Nikuzuki	44	1	4	0	1981	5404	5404	P
+1410	跳	13	7	形声_Phonetic	1	Ashi_Ashihen	11	1	14	19	1981	8562	8562	
+1411	徴	14	7	会意_Com_Ideographic	1	Gyooninben	19	1	3	0	1981	33347	33347	S
+1412	嘲	15	7	形声_Phonetic	0	Kuchi_Kuchihen	70	1	2	2	2010	357	357	
+1413	潮	15	6	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	3	3	1981	17509	9244	S
+1414	澄	15	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	3	7	1981	5535	1725	
+1415	調	15	3	形声_Phonetic	3	Gon_Gonben	68	1	6	30	1981	380533	376892	P
+1416	聴	17	7	会意_Com_Ideographic	1	Mimi_Mimihen	5	1	1	5	1981	47901	47295	S
+1417	懲	18	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	3	5	1981	20886	20886	
+1418	直	8	2	会意_Com_Ideographic	3	Me_Mehen	19	2	6	23	1981	225689	184378	R
+1419	勅	9	7	会意_Com_Ideographic	1	Chikara	23	1	1	0	1981	824	510	R
+1420	捗	10	7	形声_Phonetic	0	Tehen	89	1	1	0	2010	56	56	
+1421	沈	7	7	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	1	8	1981	14895	14890	R
+1422	珍	9	7	形声_Phonetic	2	Tama_Oo	15	1	3	7	1981	10474	10176	R
+1423	朕	10	7	会意_Com_Ideographic	1	Tsuki_Tsukihen	8	1	1	0	1981	37	37	
+1424	陳	11	7	会意_Com_Ideographic	1	Kozatohen	31	1	3	0	1981	13735	10728	S
+1425	賃	13	6	形声_Phonetic	1	Kai_Kaihen	35	1	7	0	1981	20150	20150	S
+1426	鎮	18	7	形声_Phonetic	1	Kane_Kanehen	33	1	1	13	1981	5731	5369	R
+1427	追	9	3	会意_Com_Ideographic	3	Shinnyoo	51	1	5	5	1981	115252	114796	R
+1428	椎	12	7	形声_Phonetic	1	Ki_Kihen	85	1	2	0	2010	3187	975	S
+1429	墜	15	7	会意_Com_Ideographic	1	Tsuchi_Tsuchihen	50	1	1	0	1981	6103	6103	
+1430	通	10	2	形声_Phonetic	4	Shinnyoo	51	2	2	38	1981	409067	370160	R
+1431	痛	12	6	形声_Phonetic	3	Yamaidare	15	1	1	18	1981	40235	40235	S
+1432	塚	12	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	0	0	3	1981	39408	2853	
+1433	漬	14	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	0	0	11	1981	3530	3529	
+1434	坪	8	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	0	0	1	1981	5882	1471	
+1435	爪	4	7	象形_Pictographic	0	Tsumekanmuri	2	0	0	7	2010	1258	554	S
+1436	鶴	21	7	形声_Phonetic	1	Tori	4	1	2	0	2010	17199	3323	
+1437	低	7	4	形声_Phonetic	2	Hito_Ninben_Hitoyane	104	1	1	6	1981	91396	91396	R
+1438	呈	7	7	会意_Com_Ideographic	1	Kuchi_Kuchihen	70	1	6	0	1981	6591	6588	P
+1439	廷	7	7	形声_Phonetic	1	Ennyoo	3	1	2	0	1981	14294	14240	P
+1440	弟	7	2	象形_Pictographic	4	Yumi_Yumihen	11	3	3	1	1981	20452	20205	P
+1441	定	8	3	会意_Com_Ideographic	3	Ukanmuri	36	2	4	26	1981	573023	571195	S
+1442	底	8	4	形声_Phonetic	2	Madare	17	1	4	5	1981	36666	36642	P
+1443	抵	8	7	形声_Phonetic	1	Tehen	89	1	3	0	1981	14466	14466	S
+1444	邸	8	7	形声_Phonetic	1	Oozato	12	1	2	0	1981	29212	29210	P
+1445	亭	9	7	象形_Pictographic	1	Nabebuta	5	1	7	0	1981	7372	5734	
+1446	貞	9	7	会意_Com_Ideographic	1	Kai_Kaihen	35	1	3	0	1981	8656	430	S
+1447	帝	9	7	象形_Pictographic	1	Haba_Kinben	17	1	3	0	1981	14534	6334	S
+1448	訂	9	7	形声_Phonetic	1	Gon_Gonben	68	1	2	0	1981	7111	7111	
+1449	庭	10	3	形声_Phonetic	3	Madare	17	1	3	3	1981	36731	33738	S
+1450	逓	10	7	形声_Phonetic	1	Shinnyoo	51	1	2	0	1981	383	225	S
+1451	停	11	4	形声_Phonetic	2	Hito_Ninben_Hitoyane	104	1	1	0	1981	45060	45060	R
+1452	偵	11	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	1	0	1981	3586	3586	
+1453	堤	12	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	3	3	1981	7046	2618	
+1454	提	12	5	形声_Phonetic	1	Tehen	89	1	2	2	1981	174364	174186	R
+1455	程	12	5	形声_Phonetic	3	Nogi_Nogihen	23	1	4	9	1981	75544	75519	P
+1456	艇	13	7	形声_Phonetic	1	Fune_Funehen	8	1	1	0	1981	3883	3876	S
+1457	締	15	7	形声_Phonetic	1	Ito_Itohen	63	1	9	17	1981	46310	46310	S
+1458	諦	16	7	形声_Phonetic	0	Gon_Gonben	68	1	4	4	2010	417	302	
+1459	泥	8	7	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	2	5	1981	6089	6075	S
+1460	的	8	4	形声_Phonetic	4	Shiro	5	1	5	4	1981	538548	537747	P
+1461	笛	11	3	形声_Phonetic	1	Take_Takekanmuri	24	1	1	9	1981	2411	2017	P
+1462	摘	14	7	形声_Phonetic	1	Tehen	89	1	4	7	1981	80949	80853	S
+1463	滴	14	7	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	1	3	1981	2888	2876	S
+1464	適	14	5	形声_Phonetic	3	Shinnyoo	51	1	1	0	1981	62229	62229	R
+1465	敵	15	5	形声_Phonetic	1	Nobun	16	1	3	3	1981	19080	19080	S
+1466	溺	13	7	形声_Phonetic	0	Mizu_Sanzui_Shitamizu	118	1	2	2	2010	265	265	
+1467	迭	8	7	形声_Phonetic	1	Shinnyoo	51	1	1	0	1981	3096	3096	
+1468	哲	10	7	形声_Phonetic	1	Kuchi_Kuchihen	70	1	1	0	1981	27950	5107	S
+1469	鉄	13	3	形声_Phonetic	2	Kane_Kanehen	33	1	4	0	1981	71624	43045	R
+1470	徹	15	7	形声_Phonetic	1	Gyooninben	19	1	1	0	1981	31230	21540	S
+1471	撤	15	7	形声_Phonetic	1	Tehen	89	1	6	0	1981	31171	31171	R
+1472	天	4	1	象形_Pictographic	5	Dai	16	1	13	3	1981	114146	86565	R
+1473	典	8	4	会意_Com_Ideographic	1	Hachi	8	1	3	0	1981	31631	23327	P
+1474	店	8	2	形声_Phonetic	4	Madare	17	1	2	3	1981	135917	128589	P
+1475	点	9	2	形声_Phonetic	3	Hi_Hihen_Renga	26	1	13	0	1981	364985	364938	P
+1476	展	10	6	会意_Com_Ideographic	1	Shikabane	15	1	1	0	1981	127026	126306	S
+1477	添	11	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	7	13	1981	17578	13174	S
+1478	転	11	3	形声_Phonetic	4	Kuruma_Kurumahen	15	1	3	6	1981	163926	163841	R
+1479	填	13	7	形声_Phonetic	0	Tsuchi_Tsuchihen	50	1	5	0	2010	67	67	
+1480	田	5	1	象形_Pictographic	4	Ta_Tahen	19	1	2	2	1981	678926	30445	P
+1481	伝	6	4	会意_Com_Ideographic	3	Hito_Ninben_Hitoyane	104	1	6	13	1981	118726	117732	S
+1482	殿	13	7	会意_Com_Ideographic	2	Rumata	6	2	5	5	1981	10458	8640	P
+1483	電	13	2	会意_Com_Ideographic	5	Ame_Amekanmuri	13	1	1	0	1981	239873	201699	S
+1484	斗	4	7	象形_Pictographic	1	Tomasu	3	1	4	0	1981	4728	2557	S
+1485	吐	6	7	形声_Phonetic	1	Kuchi_Kuchihen	70	1	8	8	1981	5124	5061	S
+1486	妬	8	7	形声_Phonetic	0	Onna_Onnahen	36	1	2	2	2010	497	497	
+1487	徒	10	4	形声_Phonetic	3	Gyooninben	19	1	5	0	1981	37222	36788	S
+1488	途	10	7	形声_Phonetic	3	Shinnyoo	51	1	2	0	1981	45157	45157	S
+1489	都	11	3	形声_Phonetic	3	Oozato	12	2	2	2	1981	332766	267906	S
+1490	渡	12	7	形声_Phonetic	3	Mizu_Sanzui_Shitamizu	118	1	9	20	1981	90347	53193	R
+1491	塗	13	7	形声_Phonetic	2	Tsuchi_Tsuchihen	50	1	4	4	1981	6955	6907	S
+1492	賭	16	7	形声_Phonetic	0	Kai_Kaihen	35	1	1	2	2010	3464	3464	
+1493	土	3	1	象形_Pictographic	5	Tsuchi_Tsuchihen	50	2	4	3	1981	122433	96642	S
+1494	奴	5	7	会意_Com_Ideographic	1	Onna_Onnahen	36	1	3	0	1981	2186	2168	S
+1495	努	7	4	形声_Phonetic	3	Chikara	23	1	8	8	1981	32433	30611	
+1496	度	9	3	会意_Com_Ideographic	4	Madare	17	3	11	3	1981	400271	399772	P
+1497	怒	9	7	形声_Phonetic	3	Kokoro_Risshinben_Shitagokoro	76	1	3	3	1981	16120	15805	S
+1498	刀	2	2	象形_Pictographic	1	Katana_Rittoo	32	1	4	2	1981	5979	5496	P
+1499	冬	5	2	象形_Pictographic	4	Suinyoo	4	1	1	1	1981	26702	25386	S
+1500	灯	6	4	形声_Phonetic	2	Hi_Hihen_Renga	26	1	3	1	1981	7879	7870	S
+1501	当	6	2	形声_Phonetic	3	Shoo	5	1	6	46	1981	429512	428929	S
+1502	投	7	3	会意_Com_Ideographic	3	Tehen	89	1	1	4	1981	259057	258997	R
+1503	豆	7	3	象形_Pictographic	1	Mame	2	2	3	3	1981	13899	9823	S
+1504	東	8	2	仮借_Loan	5	Ki_Kihen	85	1	1	1	1981	710300	58910	R
+1505	到	8	7	会意_Com_Ideographic	3	Katana_Rittoo	32	1	8	0	1981	20432	20424	S
+1506	逃	9	7	形声_Phonetic	3	Shinnyoo	51	1	6	11	1981	43360	43360	
+1507	倒	10	7	形声_Phonetic	3	Hito_Ninben_Hitoyane	104	1	9	21	1981	51738	50977	S
+1508	凍	10	7	形声_Phonetic	2	Nisui	6	1	3	6	1981	15654	15654	S
+1509	唐	10	7	会意_Com_Ideographic	0	Kuchi_Kuchihen	70	1	6	7	1981	6605	4829	R
+1510	島	10	3	会意_Com_Ideographic	2	Yama_Yamahen	16	1	1	1	1981	299065	45736	S
+1511	桃	10	7	形声_Phonetic	1	Ki_Kihen	85	1	1	1	1981	4926	1627	S
+1512	討	10	6	形声_Phonetic	1	Gon_Gonben	68	1	4	4	1981	84446	84446	S
+1513	透	10	7	形声_Phonetic	1	Shinnyoo	51	1	2	8	1981	25672	24297	S
+1514	党	10	6	形声_Phonetic	2	Shoo	5	1	4	0	1981	495041	269334	S
+1515	悼	11	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	1	1	1981	8033	8033	
+1516	盗	11	7	会意_Com_Ideographic	3	Sara	8	1	1	3	1981	31762	31762	S
+1517	陶	11	7	形声_Phonetic	1	Kozatohen	31	1	2	0	1981	4580	4094	R
+1518	塔	12	7	形声_Phonetic	2	Tsuchi_Tsuchihen	50	1	5	0	1981	5605	5125	S
+1519	搭	12	7	形声_Phonetic	1	Tehen	89	1	2	0	1981	7983	7983	
+1520	棟	12	7	形声_Phonetic	1	Ki_Kihen	85	1	3	3	1981	10052	9847	S
+1521	湯	12	3	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	1	3	1981	16396	10512	S
+1522	痘	12	7	形声_Phonetic	1	Yamaidare	15	1	1	0	1981	371	371	S
+1523	登	12	3	会意_Com_Ideographic	3	Hatsugashira	2	2	10	10	1981	109704	100913	R
+1524	答	12	2	形声_Phonetic	4	Take_Takekanmuri	24	1	1	4	1981	74725	74694	S
+1525	等	12	3	形声_Phonetic	3	Take_Takekanmuri	24	1	3	4	1981	56131	54270	S
+1526	筒	12	7	形声_Phonetic	2	Take_Takekanmuri	24	1	2	6	1981	5078	3518	S
+1527	統	12	5	形声_Phonetic	1	Ito_Itohen	63	1	3	3	1981	240609	238742	S
+1528	稲	14	7	形声_Phonetic	1	Nogi_Nogihen	23	1	1	1	1981	24911	3758	S
+1529	踏	15	7	形声_Phonetic	1	Ashi_Ashihen	11	1	8	9	1981	45834	45824	S
+1530	糖	16	6	形声_Phonetic	1	Kome_Komehen	10	1	1	0	1981	11070	10951	S
+1531	頭	16	2	形声_Phonetic	3	Oogai	22	3	2	13	1981	117411	114844	P
+1532	謄	17	7	形声_Phonetic	1	Gon_Gonben	68	1	1	0	1981	266	266	
+1533	藤	18	7	形声_Phonetic	1	Kusakanmuri	47	1	1	1	2010	254146	5993	S
+1534	闘	18	7	形声_Phonetic	1	Mongamae	11	1	2	4	1981	44751	43820	S
+1535	騰	20	7	形声_Phonetic	1	Uma_Umahen	11	1	2	0	1981	10096	10095	S
+1536	同	6	2	会意_Com_Ideographic	4	Kuchi_Kuchihen	70	1	3	8	1981	833380	827991	R
+1537	洞	9	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	1	3	1981	5744	3357	S
+1538	胴	10	7	形声_Phonetic	1	Niku_Nikuzuki	44	1	10	0	1981	2080	2080	R
+1539	動	11	3	形声_Phonetic	4	Chikara	23	1	3	22	1981	420292	391265	P
+1540	堂	11	4	形声_Phonetic	4	Tsuchi_Tsuchihen	50	1	8	0	1981	31216	18280	P
+1541	童	12	3	形声_Phonetic	2	Tatsu	5	1	1	1	1981	29954	28504	S
+1542	道	12	2	会意_Com_Ideographic	4	Shinnyoo	51	2	4	20	1981	330135	251485	P
+1543	働	13	4	形声_Phonetic	3	Hito_Ninben_Hitoyane	104	1	10	10	1981	101399	82683	
+1544	銅	14	5	形声_Phonetic	2	Kane_Kanehen	33	1	1	0	1981	10149	10064	R
+1545	導	15	5	形声_Phonetic	2	Sun	12	1	1	4	1981	122562	122550	S
+1546	瞳	17	7	形声_Phonetic	1	Me_Mehen	19	1	1	1	2010	2051	1409	
+1547	峠	9	7	国字_Original	1	Yama_Yamahen	16	0	0	4	1981	1601	1046	
+1548	匿	10	7	会意_Com_Ideographic	1	Kakushigamae	4	1	3	0	1981	5280	5280	
+1549	特	10	4	形声_Phonetic	4	Ushi_Ushihen	6	1	1	0	1981	201736	200157	R
+1550	得	11	4	会意_Com_Ideographic	3	Gyooninben	19	1	3	12	1981	222334	222136	S
+1551	督	13	7	形声_Phonetic	1	Me_Mehen	19	1	4	0	1981	130554	130086	S
+1552	徳	14	5	会意_Com_Ideographic	1	Gyooninben	19	1	5	0	1981	42750	10848	P
+1553	篤	16	7	会意_Com_Ideographic	1	Take_Takekanmuri	24	1	5	0	1981	4476	798	R
+1554	毒	8	4	象形_Pictographic	2	Haha_Hahanokan	3	1	9	0	1981	14910	14884	S
+1555	独	9	5	形声_Phonetic	1	Inu_Kemonohen	17	1	1	2	1981	102357	85527	R
+1556	読	14	2	形声_Phonetic	5	Gon_Gonben	68	3	1	6	1981	95555	92088	P
+1557	栃	9	7	国字_Original	0	Ki_Kihen	85	0	0	1	2010	22600	2305	
+1558	凸	5	7	象形_Pictographic	1	Ukebako	4	1	2	0	1981	770	491	
+1559	突	8	7	会意_Com_Ideographic	3	Ana_Anakanmuri	10	1	2	16	1981	80719	80715	S
+1560	届	8	6	会意_Com_Ideographic	2	Shikabane	15	0	0	9	1981	34402	34402	
+1561	屯	4	7	象形_Pictographic	1	Tetsu	1	1	2	0	1981	1119	932	
+1562	豚	11	7	会意_Com_Ideographic	1	Inoko	3	1	1	3	1981	5429	5429	S
+1563	頓	13	7	形声_Phonetic	0	Oogai	22	1	3	0	2010	1835	1335	S
+1564	貪	11	7	会意_Com_Ideographic	0	Kai_Kaihen	35	1	1	2	2010	330	330	
+1565	鈍	12	7	形声_Phonetic	2	Kane_Kanehen	33	1	3	7	1981	4875	4639	R
+1566	曇	16	7	形声_Phonetic	2	Nichi_Nichihen	38	1	5	5	1981	2475	1992	
+1567	丼	5	7	象形_Pictographic	0	Ten	4	0	0	2	2010	2358	2358	
+1568	那	7	7	形声_Phonetic	1	Oozato	12	1	1	0	2010	10783	1538	
+1569	奈	8	7	形声_Phonetic	1	Dai	16	1	1	0	2010	67069	2060	
+1570	内	4	2	象形_Pictographic	3	Hito_Ninben_Hitoyane	104	2	7	11	1981	577184	506360	R
+1571	梨	11	7	形声_Phonetic	1	Ki_Kihen	85	0	0	2	2010	17318	2092	
+1572	謎	17	7	形声_Phonetic	0	Gon_Gonben	68	0	0	5	2010	4515	4515	
+1573	鍋	17	7	形声_Phonetic	0	Kane_Kanehen	33	0	0	3	2010	6753	4283	S
+1574	南	9	2	象形_Pictographic	5	Juu	11	2	1	1	1981	129764	59544	R
+1575	軟	11	7	形声_Phonetic	2	Kuruma_Kurumahen	15	1	1	1	1981	12578	12578	R
+1576	難	18	6	会意_Com_Ideographic	3	Furutori	9	1	6	12	1981	127146	126351	S
+1577	二	2	1	指事_Ideographic	5	Ni	6	1	2	1	1981	207617	155284	R
+1578	尼	5	7	会意_Com_Ideographic	1	Shikabane	15	1	1	1	1981	3905	410	
+1579	弐	6	7	形声_Phonetic	1	Shikigamae	2	1	2	0	1981	84	83	
+1580	匂	4	7	国字_Original	0	Tsutsumigamae	3	0	0	5	2010	724	647	
+1581	肉	6	2	象形_Pictographic	4	Niku_Nikuzuki	44	1	8	0	1981	40897	40877	S
+1582	虹	9	7	形声_Phonetic	1	Mushi_Mushihen	10	0	0	1	2010	1946	1893	
+1583	日	4	1	象形_Pictographic	5	Nichi_Nichihen	38	2	2	4	1981	2817613	1855755	S
+1584	入	2	1	象形_Pictographic	5	Iru	1	1	5	30	1981	569966	562966	R
+1585	乳	8	6	会意_Com_Ideographic	2	Otsu_Otsunyoo	7	1	3	3	1981	18871	17326	S
+1586	尿	7	7	象形_Pictographic	1	Shikabane	15	1	1	0	1981	8379	8377	S
+1587	任	6	5	形声_Phonetic	3	Hito_Ninben_Hitoyane	104	1	5	2	1981	216719	215095	P
+1588	妊	7	7	形声_Phonetic	1	Onna_Onnahen	36	1	3	0	1981	9254	9254	S
+1589	忍	7	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	4	6	1981	4604	3648	S
+1590	認	14	6	形声_Phonetic	3	Gon_Gonben	68	1	11	11	1981	241815	241630	S
+1591	寧	14	7	会意_Com_Ideographic	1	Ukanmuri	36	1	1	0	1981	7265	4574	
+1592	熱	15	4	会意_Com_Ideographic	3	Hi_Hihen_Renga	26	1	8	1	1981	52483	50849	S
+1593	年	6	1	会意_Com_Ideographic	5	Ichijuu	5	1	2	3	1981	1812728	1811312	S
+1594	念	8	4	形声_Phonetic	3	Kokoro_Risshinben_Shitagokoro	76	1	8	0	1981	125618	124612	P
+1595	捻	11	7	形声_Phonetic	0	Tehen	89	1	3	0	2010	751	751	
+1596	粘	11	7	形声_Phonetic	1	Kome_Komehen	10	1	4	4	1981	12184	12184	R
+1597	燃	16	5	形声_Phonetic	2	Hi_Hihen_Renga	26	1	1	3	1981	32205	31449	S
+1598	悩	10	7	形声_Phonetic	2	Kokoro_Risshinben_Shitagokoro	76	1	2	10	1981	21523	21523	
+1599	納	10	6	形声_Phonetic	1	Ito_Itohen	63	5	16	23	1981	40403	37542	S
+1600	能	10	5	象形_Pictographic	3	Niku_Nikuzuki	44	1	6	0	1981	212465	205862	P
+1601	脳	11	6	会意_Com_Ideographic	2	Niku_Nikuzuki	44	1	2	0	1981	69715	69628	S
+1602	農	13	3	会意_Com_Ideographic	2	Shinnotatsu	2	1	2	0	1981	92077	74854	R
+1603	濃	16	7	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	3	6	1981	21472	18310	R
+1604	把	7	7	形声_Phonetic	1	Tehen	89	1	4	0	1981	10245	10245	
+1605	波	8	3	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	1	2	1981	56685	38273	S
+1606	派	9	6	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	6	0	1981	167524	167088	P
+1607	破	10	5	形声_Phonetic	3	Ishi_Ishihen	16	1	11	20	1981	85597	82174	S
+1608	覇	19	7	会意_Com_Ideographic	1	Nishi	4	1	6	0	1981	32973	28959	S
+1609	馬	10	2	象形_Pictographic	3	Uma_Umahen	11	1	1	2	1981	131850	91370	P
+1610	婆	11	7	形声_Phonetic	1	Onna_Onnahen	36	1	2	0	1981	703	699	P
+1611	罵	15	7	形声_Phonetic	0	Amigashira	7	1	3	3	2010	382	382	S
+1612	拝	8	6	会意_Com_Ideographic	2	Tehen	89	1	1	5	1981	17107	16985	S
+1613	杯	8	7	形声_Phonetic	3	Ki_Kihen	85	1	5	4	1981	60302	20880	P
+1614	背	9	6	形声_Phonetic	3	Niku_Nikuzuki	44	1	2	14	1981	56732	56627	R
+1615	肺	9	6	形声_Phonetic	1	Niku_Nikuzuki	44	1	1	0	1981	12905	12905	S
+1616	俳	10	6	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	1	0	1981	20808	20297	R
+1617	配	10	3	会意_Com_Ideographic	3	Tori_Torihen	14	1	4	4	1981	119991	119958	S
+1618	排	11	7	形声_Phonetic	1	Tehen	89	1	8	0	1981	30280	30280	R
+1619	敗	11	4	会意_Com_Ideographic	3	Nobun	16	1	2	1	1981	180635	180635	S
+1620	廃	12	7	形声_Phonetic	1	Madare	17	1	3	5	1981	53869	53867	R
+1621	輩	15	7	形声_Phonetic	1	Kuruma_Kurumahen	15	1	4	0	1981	11126	11126	P
+1622	売	7	2	会意_Com_Ideographic	4	Samurai	5	1	1	10	1981	214276	210848	S
+1623	倍	10	3	形声_Phonetic	2	Hito_Ninben_Hitoyane	104	1	4	0	1981	59170	36710	R
+1624	梅	10	4	形声_Phonetic	1	Ki_Kihen	85	1	2	2	1981	17449	6575	S
+1625	培	11	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	2	2	1981	8322	8321	
+1626	陪	11	7	形声_Phonetic	1	Kozatohen	31	1	3	0	1981	1561	1561	
+1627	媒	12	7	形声_Phonetic	1	Onna_Onnahen	36	1	1	0	1981	2509	2485	S
+1628	買	12	2	会意_Com_Ideographic	4	Kai_Kaihen	35	1	1	5	1981	79473	79473	S
+1629	賠	15	7	形声_Phonetic	1	Kai_Kaihen	35	1	1	0	1981	16980	16980	
+1630	白	5	1	象形_Pictographic	5	Shiro	5	2	1	7	1981	129369	104138	R
+1631	伯	7	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	5	0	1981	7502	3625	S
+1632	拍	8	7	形声_Phonetic	1	Tehen	89	2	1	0	1981	9328	9322	S
+1633	泊	8	7	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	1	4	1981	15276	14958	P
+1634	迫	8	7	形声_Phonetic	1	Shinnyoo	51	1	9	9	1981	45504	43628	S
+1635	剥	10	7	会意_Com_Ideographic	0	Katana_Rittoo	32	1	5	11	2010	348	348	R
+1636	舶	11	7	形声_Phonetic	1	Fune_Funehen	8	1	1	0	1981	3063	3034	
+1637	博	12	4	形声_Phonetic	1	Juu	11	2	9	0	1981	64841	29145	R
+1638	薄	16	7	形声_Phonetic	2	Kusakanmuri	47	1	7	18	1981	21675	20855	R
+1639	麦	7	2	会意_Com_Ideographic	2	Mugi	2	1	4	4	1981	5389	5155	S
+1640	漠	13	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	4	0	1981	3541	3111	S
+1641	縛	16	7	形声_Phonetic	1	Ito_Itohen	63	1	2	9	1981	4189	4189	P
+1642	爆	19	7	形声_Phonetic	2	Hi_Hihen_Renga	26	1	3	0	1981	68760	68736	S
+1643	箱	15	3	形声_Phonetic	3	Take_Takekanmuri	24	0	0	6	1981	17765	13967	S
+1644	箸	15	7	形声_Phonetic	0	Take_Takekanmuri	24	0	0	1	2010	959	955	
+1645	畑	9	3	国字_Original	0	Ta_Tahen	19	0	0	5	1981	25999	7671	S
+1646	肌	6	7	形声_Phonetic	2	Niku_Nikuzuki	44	0	0	5	1981	6826	6826	P
+1647	八	2	1	指事_Ideographic	5	Hachi	8	1	1	1	1981	82792	57038	R
+1648	鉢	13	7	形声_Phonetic	1	Kane_Kanehen	33	2	5	0	1981	3053	2839	S
+1649	発	9	3	会意_Com_Ideographic	4	Hatsugashira	2	2	2	0	1981	721803	715124	S
+1650	髪	14	7	形声_Phonetic	3	Kamigashira	1	1	1	1	1981	9931	9915	P
+1651	伐	6	7	会意_Com_Ideographic	1	Hito_Ninben_Hitoyane	104	1	3	0	1981	2950	2948	S
+1652	抜	7	7	形声_Phonetic	3	Tehen	89	1	12	27	1981	69134	69111	S
+1653	罰	14	7	会意_Com_Ideographic	1	Amigashira	7	2	2	0	1981	17968	17968	S
+1654	閥	14	7	形声_Phonetic	1	Mongamae	11	1	5	0	1981	11149	11149	P
+1655	反	4	3	会意_Com_Ideographic	3	Mata	9	3	7	5	1981	225873	224230	R
+1656	半	5	2	象形_Pictographic	5	Juu	11	1	5	5	1981	210130	199172	R
+1657	氾	5	7	形声_Phonetic	0	Mizu_Sanzui_Shitamizu	118	1	2	0	2010	158	158	
+1658	犯	5	5	形声_Phonetic	3	Inu_Kemonohen	17	1	3	10	1981	58025	58025	P
+1659	帆	6	7	形声_Phonetic	1	Haba_Kinben	17	1	1	1	1981	2816	1202	S
+1660	汎	6	7	形声_Phonetic	0	Mizu_Sanzui_Shitamizu	118	1	1	0	2010	767	425	
+1661	伴	7	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	2	4	4	1981	29893	29110	S
+1662	判	7	5	形声_Phonetic	3	Katana_Rittoo	32	2	4	0	1981	296200	295627	S
+1663	坂	7	3	形声_Phonetic	2	Tsuchi_Tsuchihen	50	1	3	3	1981	58672	4158	
+1664	阪	7	7	形声_Phonetic	3	Kozatohen	31	1	1	0	2010	148172	233	
+1665	板	8	3	形声_Phonetic	2	Ki_Kihen	85	2	6	6	1981	64411	57824	P
+1666	版	8	5	形声_Phonetic	2	Katahen	2	1	6	0	1981	50072	48638	P
+1667	班	10	6	会意_Com_Ideographic	1	Tama_Oo	15	1	7	0	1981	8584	8514	
+1668	畔	10	7	形声_Phonetic	1	Ta_Tahen	19	1	2	0	1981	1374	993	
+1669	般	10	7	会意_Com_Ideographic	2	Fune_Funehen	8	1	2	0	1981	43597	43438	P
+1670	販	11	7	形声_Phonetic	2	Kai_Kaihen	35	1	2	0	1981	79713	78902	P
+1671	斑	12	7	会意_Com_Ideographic	0	Bun	2	1	1	0	2010	1221	857	S
+1672	飯	12	4	形声_Phonetic	4	Shoku_Shokuhen	12	1	3	4	1981	23512	6952	S
+1673	搬	13	7	形声_Phonetic	1	Tehen	89	1	2	0	1981	7087	7079	S
+1674	煩	13	7	会意_Com_Ideographic	1	Hi_Hihen_Renga	26	2	2	9	1981	868	868	R
+1675	頒	13	7	形声_Phonetic	1	Oogai	22	1	4	0	1981	216	216	
+1676	範	15	7	形声_Phonetic	1	Take_Takekanmuri	24	1	4	0	1981	19407	18358	S
+1677	繁	16	7	会意_Com_Ideographic	1	Ito_Itohen	63	1	3	0	1981	14740	9411	R
+1678	藩	18	7	形声_Phonetic	1	Kusakanmuri	47	1	2	0	1981	2486	2443	S
+1679	晩	12	6	形声_Phonetic	3	Nichi_Nichihen	38	1	4	0	1981	7374	7266	S
+1680	番	12	2	象形_Pictographic	3	Ta_Tahen	19	1	10	0	1981	166150	164990	S
+1681	蛮	12	7	形声_Phonetic	1	Mushi_Mushihen	10	1	1	0	1981	707	703	S
+1682	盤	15	7	形声_Phonetic	1	Sara	8	1	6	0	1981	42521	42017	P
+1683	比	4	5	会意_Com_Ideographic	2	Kuraberu	1	1	4	3	1981	122659	113113	S
+1684	皮	5	3	象形_Pictographic	2	Kegawa	1	1	11	11	1981	16635	16633	P
+1685	妃	6	7	会意_Com_Ideographic	1	Onna_Onnahen	36	1	2	0	1981	2599	2079	
+1686	否	7	6	会意_Com_Ideographic	3	Kuchi_Kuchihen	70	1	2	2	1981	68430	68430	P
+1687	批	7	6	形声_Phonetic	1	Tehen	89	1	1	0	1981	69573	69561	
+1688	彼	8	7	仮借_Loan	3	Gyooninben	19	1	2	3	1981	48150	48078	R
+1689	披	8	7	形声_Phonetic	1	Tehen	89	1	1	0	1981	9342	9342	
+1690	肥	8	5	会意_Com_Ideographic	1	Niku_Nikuzuki	44	1	2	10	1981	9128	6762	S
+1691	非	8	5	象形_Pictographic	3	Arazu	1	1	7	0	1981	81808	81771	R
+1692	卑	9	7	会意_Com_Ideographic	1	Juu	11	1	6	7	1981	1699	1314	R
+1693	飛	9	4	象形_Pictographic	3	Tobu	1	1	2	12	1981	96706	94143	R
+1694	疲	10	7	形声_Phonetic	3	Yamaidare	15	1	2	2	1981	14063	14063	
+1695	秘	10	6	形声_Phonetic	1	Nogi_Nogihen	23	1	1	2	1981	37453	37453	R
+1696	被	10	7	形声_Phonetic	2	Koromo_Koromohen	21	1	1	4	1981	158623	158336	R
+1697	悲	12	3	形声_Phonetic	3	Kokoro_Risshinben_Shitagokoro	76	1	5	8	1981	25357	25321	R
+1698	扉	12	7	形声_Phonetic	1	To_Tokanmuri	6	1	3	3	1981	3388	3388	
+1699	費	12	4	形声_Phonetic	3	Kai_Kaihen	35	1	2	5	1981	149544	149544	P
+1700	碑	14	7	形声_Phonetic	1	Ishi_Ishihen	16	1	2	0	1981	3882	3603	S
+1701	罷	15	7	会意_Com_Ideographic	1	Amigashira	7	1	11	0	1981	1268	1268	
+1702	避	16	7	形声_Phonetic	1	Shinnyoo	51	1	8	8	1981	49702	49702	S
+1703	尾	7	7	象形_Pictographic	1	Shikabane	15	1	3	3	1981	61572	8768	S
+1704	眉	9	7	象形_Pictographic	1	Me_Mehen	19	2	1	1	2010	538	471	S
+1705	美	9	3	象形_Pictographic	3	Hitsuji	7	1	3	8	1981	150353	58671	R
+1706	備	12	5	形声_Phonetic	3	Hito_Ninben_Hitoyane	104	1	5	15	1981	126682	124317	P
+1707	微	13	7	形声_Phonetic	1	Gyooninben	19	1	4	0	1981	15137	15122	R
+1708	鼻	14	3	形声_Phonetic	2	Hana	1	1	1	3	1981	6110	6008	R
+1709	膝	15	7	形声_Phonetic	0	Niku_Nikuzuki	44	0	0	2	2010	430	421	S
+1710	肘	7	7	形声_Phonetic	0	Niku_Nikuzuki	44	0	0	2	2010	87	80	
+1711	匹	4	7	象形_Pictographic	2	Kakushigamae	4	1	3	3	1981	7370	7357	
+1712	必	5	4	象形_Pictographic	3	Kokoro_Risshinben_Shitagokoro	76	1	1	3	1981	159382	159378	R
+1713	泌	8	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	2	4	0	1981	2027	1788	
+1714	筆	12	3	会意_Com_Ideographic	2	Take_Takekanmuri	24	1	9	9	1981	25147	25031	P
+1715	姫	10	7	会意_Com_Ideographic	1	Onna_Onnahen	36	0	0	4	1981	9289	4255	S
+1716	百	6	1	指事_Ideographic	5	Shiro	5	1	3	0	1981	59480	50835	R
+1717	氷	5	3	象形_Pictographic	2	Mizu_Sanzui_Shitamizu	118	1	3	3	1981	10116	8498	S
+1718	表	8	3	会意_Com_Ideographic	3	Koromo_Koromohen	21	1	5	21	1981	629796	628434	S
+1719	俵	10	5	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	4	4	1981	7992	7473	
+1720	票	11	4	会意_Com_Ideographic	1	Shimesu_Shimesuhen	15	1	4	0	1981	92903	92903	P
+1721	評	12	5	形声_Phonetic	1	Gon_Gonben	68	1	2	0	1981	103038	102684	P
+1722	漂	14	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	1	1	1981	7559	7559	
+1723	標	15	4	形声_Phonetic	1	Ki_Kihen	85	1	4	0	1981	64993	64511	S
+1724	苗	8	7	会意_Com_Ideographic	1	Kusakanmuri	47	1	3	3	1981	4836	2420	S
+1725	秒	9	3	会意_Com_Ideographic	2	Nogi_Nogihen	23	1	1	0	1981	92691	92691	S
+1726	病	10	3	形声_Phonetic	4	Yamaidare	15	2	3	7	1981	129313	125840	S
+1727	描	11	7	形声_Phonetic	1	Tehen	89	1	4	6	1981	42225	42225	S
+1728	猫	11	7	形声_Phonetic	3	Inu_Kemonohen	17	1	1	1	1981	10029	9920	S
+1729	品	9	3	会意_Com_Ideographic	4	Kuchi_Kuchihen	70	1	3	10	1981	221436	211039	P
+1730	浜	10	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	3	3	1981	101829	3071	S
+1731	貧	11	5	会意_Com_Ideographic	3	Kai_Kaihen	35	2	1	3	1981	16085	16085	R
+1732	賓	15	7	会意_Com_Ideographic	1	Kai_Kaihen	35	1	1	0	1981	1926	1724	S
+1733	頻	17	7	会意_Com_Ideographic	1	Oogai	22	1	2	0	1981	4803	4803	R
+1734	敏	10	7	会意_Com_Ideographic	1	Nobun	16	1	2	0	1981	23308	4557	S
+1735	瓶	11	7	形声_Phonetic	2	Kawara	2	1	4	0	1981	5566	3890	P
+1736	不	4	4	仮借_Loan	4	Fu	1	2	4	0	1981	379808	375009	R
+1737	夫	4	4	象形_Pictographic	3	Dai	16	2	2	2	1981	159635	78438	P
+1738	父	4	2	会意_Com_Ideographic	5	Chichi	1	1	1	1	1981	67864	63779	S
+1739	付	5	4	会意_Com_Ideographic	3	Hito_Ninben_Hitoyane	104	1	6	37	1981	223721	222560	S
+1740	布	5	5	形声_Phonetic	2	Haba_Kinben	17	1	1	1	1981	33076	25401	S
+1741	扶	7	7	形声_Phonetic	1	Tehen	89	1	8	0	1981	2891	2163	R
+1742	府	8	4	形声_Phonetic	2	Madare	17	1	4	0	1981	266857	252316	S
+1743	怖	8	7	形声_Phonetic	3	Kokoro_Risshinben_Shitagokoro	76	1	4	4	1981	14400	14400	
+1744	阜	8	7	象形_Pictographic	0	Kozatohen	31	1	2	0	2010	14256	89	
+1745	附	8	7	形声_Phonetic	1	Kozatohen	31	1	6	0	1981	970	224	R
+1746	訃	9	7	形声_Phonetic	0	Gon_Gonben	68	1	2	0	2010	15126	15126	
+1747	負	9	3	会意_Com_Ideographic	3	Kai_Kaihen	35	1	3	17	1981	152042	152035	S
+1748	赴	9	7	形声_Phonetic	1	Hashiru_Soonyoo	6	1	4	4	1981	2937	2937	
+1749	浮	10	7	形声_Phonetic	3	Mizu_Sanzui_Shitamizu	118	1	8	22	1981	44612	44219	R
+1750	婦	11	5	形声_Phonetic	3	Onna_Onnahen	36	1	3	0	1981	47248	46677	P
+1751	符	11	7	形声_Phonetic	2	Take_Takekanmuri	24	1	5	0	1981	4789	4788	S
+1752	富	12	5	形声_Phonetic	3	Ukanmuri	36	2	1	12	1981	73740	15903	R
+1753	普	12	7	会意_Com_Ideographic	2	Nichi_Nichihen	38	1	2	0	1981	45675	37885	R
+1754	腐	14	7	形声_Phonetic	1	Niku_Nikuzuki	44	1	7	11	1981	7603	7599	R
+1755	敷	15	7	形声_Phonetic	1	Nobun	16	1	7	7	1981	19991	15267	S
+1756	膚	15	7	形声_Phonetic	2	Niku_Nikuzuki	44	1	5	0	1981	3847	3847	
+1757	賦	15	7	形声_Phonetic	1	Kai_Kaihen	35	1	6	0	1981	442	442	S
+1758	譜	19	7	形声_Phonetic	1	Gon_Gonben	68	1	8	0	1981	12459	12459	P
+1759	侮	8	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	2	2	1981	1515	1515	
+1760	武	8	5	会意_Com_Ideographic	2	Tomeru	6	2	6	0	1981	141828	45612	R
+1761	部	11	3	形声_Phonetic	3	Oozato	12	1	13	0	1981	626282	579457	P
+1762	舞	15	7	会意_Com_Ideographic	3	Maiashi	1	1	5	6	1981	60222	53872	S
+1763	封	9	7	会意_Com_Ideographic	2	Sun	12	2	4	0	1981	22784	22777	S
+1764	風	9	2	形声_Phonetic	4	Kaze	1	2	23	6	1981	98812	95284	S
+1765	伏	6	7	会意_Com_Ideographic	1	Hito_Ninben_Hitoyane	104	1	3	9	1981	12862	7413	S
+1766	服	8	3	形声_Phonetic	4	Tsuki_Tsukihen	8	1	6	0	1981	39267	35638	P
+1767	副	11	4	形声_Phonetic	2	Katana_Rittoo	32	1	4	0	1981	86495	85481	R
+1768	幅	12	7	形声_Phonetic	2	Haba_Kinben	17	1	4	6	1981	54965	54955	P
+1769	復	12	5	形声_Phonetic	2	Gyooninben	19	1	6	0	1981	116991	116951	R
+1770	福	13	3	形声_Phonetic	3	Shimesu_Shimesuhen	15	1	5	0	1981	173574	34702	S
+1771	腹	13	6	形声_Phonetic	3	Niku_Nikuzuki	44	1	2	13	1981	14645	14644	S
+1772	複	14	5	形声_Phonetic	2	Koromo_Koromohen	21	1	4	0	1981	39101	39101	R
+1773	覆	18	7	形声_Phonetic	1	Nishi	4	1	4	23	1981	10712	10712	S
+1774	払	5	7	形声_Phonetic	3	Tehen	89	1	12	12	1981	54257	54133	S
+1775	沸	8	7	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	9	11	1981	4793	4781	
+1776	仏	4	5	形声_Phonetic	2	Hito_Ninben_Hitoyane	104	1	2	4	1981	34332	6745	R
+1777	物	8	3	形声_Phonetic	4	Ushi_Ushihen	6	2	7	7	1981	276274	271270	P
+1778	粉	10	4	形声_Phonetic	2	Kome_Komehen	10	1	2	3	1981	13864	13593	S
+1779	紛	10	7	形声_Phonetic	1	Ito_Itohen	63	1	4	11	1981	15458	15458	S
+1780	雰	12	7	形声_Phonetic	1	Ame_Amekanmuri	13	1	1	0	1981	10375	10375	
+1781	噴	15	7	形声_Phonetic	1	Kuchi_Kuchihen	70	1	3	3	1981	11160	11102	R
+1782	墳	15	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	2	0	1981	3436	3436	
+1783	憤	15	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	3	3	1981	3711	3711	S
+1784	奮	16	6	会意_Com_Ideographic	1	Dai	16	1	3	3	1981	8951	8951	S
+1785	分	4	2	会意_Com_Ideographic	5	Katana_Rittoo	32	3	25	33	1981	842519	823138	S
+1786	文	4	1	象形_Pictographic	4	Bun	2	2	15	2	1981	388966	345135	S
+1787	聞	14	2	形声_Phonetic	5	Mimi_Mimihen	5	2	5	11	1981	204919	130510	P
+1788	丙	5	7	象形_Pictographic	1	Ichi	14	1	2	0	1981	192	180	
+1789	平	5	3	会意_Com_Ideographic	3	Ichijuu	5	2	2	9	1981	239103	141560	R
+1790	兵	7	4	会意_Com_Ideographic	2	Hachi	8	2	8	0	1981	90710	63695	P
+1791	併	8	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	2	2	1981	30860	30859	R
+1792	並	8	6	会意_Com_Ideographic	2	Ni	6	1	5	19	1981	52167	46713	S
+1793	柄	9	7	形声_Phonetic	1	Ki_Kihen	85	1	7	12	1981	20096	19364	P
+1794	陛	10	6	形声_Phonetic	1	Kozatohen	31	1	1	0	1981	7194	7194	
+1795	閉	11	6	会意_Com_Ideographic	3	Mongamae	11	1	2	5	1981	30232	30228	R
+1796	塀	12	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	2	0	1981	1184	1180	
+1797	幣	15	7	形声_Phonetic	1	Haba_Kinben	17	1	4	0	1981	2406	2186	S
+1798	弊	15	7	形声_Phonetic	1	Komanuki_Nijuuashi	3	1	8	0	1981	2867	2867	S
+1799	蔽	15	7	形声_Phonetic	0	Kusakanmuri	47	1	9	0	2010	192	192	
+1800	餅	15	7	形声_Phonetic	0	Shoku_Shokuhen	12	1	1	1	2010	1755	1741	
+1801	米	6	2	象形_Pictographic	3	Kome_Komehen	10	2	2	1	1981	567851	51380	S
+1802	壁	16	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	4	1	1981	23779	23246	P
+1803	璧	18	7	形声_Phonetic	0	Tama_Oo	15	1	4	0	2010	302	294	
+1804	癖	18	7	形声_Phonetic	1	Yamaidare	15	1	1	8	1981	2591	2591	P
+1805	別	7	4	会意_Com_Ideographic	4	Katana_Rittoo	32	1	8	11	1981	172357	167354	S
+1806	蔑	14	7	会意_Com_Ideographic	0	Kusakanmuri	47	1	4	2	2010	356	356	
+1807	片	4	6	象形_Pictographic	2	Katahen	2	1	4	4	1981	31236	17695	S
+1808	辺	5	4	形声_Phonetic	2	Shinnyoo	51	1	9	1	1981	73599	38719	P
+1809	返	7	3	形声_Phonetic	3	Shinnyoo	51	1	1	13	1981	115724	115704	R
+1810	変	9	4	会意_Com_Ideographic	3	Suinyoo	4	1	5	10	1981	183042	183042	R
+1811	偏	11	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	3	3	1981	6674	6674	S
+1812	遍	12	7	形声_Phonetic	1	Shinnyoo	51	1	1	0	1981	2703	2696	S
+1813	編	15	5	形声_Phonetic	2	Ito_Itohen	63	1	5	10	1981	73109	73107	S
+1814	弁	5	5	象形_Pictographic	1	Komanuki_Nijuuashi	3	1	7	0	1981	72179	68105	S
+1815	便	9	4	会意_Com_Ideographic	3	Hito_Ninben_Hitoyane	104	2	8	3	1981	48844	47573	S
+1816	勉	10	3	形声_Phonetic	4	Chikara	23	1	8	0	1981	18963	15128	S
+1817	歩	8	2	会意_Com_Ideographic	4	Tomeru	6	3	8	3	1981	117776	115865	S
+1818	保	9	5	会意_Com_Ideographic	1	Hito_Ninben_Hitoyane	104	1	1	12	1981	371112	299957	R
+1819	哺	10	7	形声_Phonetic	0	Kuchi_Kuchihen	70	1	1	0	2010	315	315	
+1820	捕	10	7	形声_Phonetic	3	Tehen	89	1	3	8	1981	89986	89986	R
+1821	補	12	6	形声_Phonetic	2	Koromo_Koromohen	21	1	2	8	1981	144396	144371	R
+1822	舗	15	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	2	0	1981	14308	14277	S
+1823	母	5	2	象形_Pictographic	5	Haha_Hahanokan	3	1	3	3	1981	90001	89057	S
+1824	募	12	7	形声_Phonetic	2	Chikara	23	1	5	5	1981	46383	46382	S
+1825	墓	13	5	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	2	2	1981	9482	9458	R
+1826	慕	14	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	4	4	1981	1283	1283	S
+1827	暮	14	6	形声_Phonetic	3	Nichi_Nichihen	38	1	3	8	1981	36424	35492	S
+1828	簿	19	7	形声_Phonetic	1	Take_Takekanmuri	24	1	1	0	1981	9855	9819	
+1829	方	4	2	象形_Pictographic	4	Hoo_Hoohen	6	1	10	3	1981	583222	568673	P
+1830	包	5	4	象形_Pictographic	2	Tsutsumigamae	3	1	5	5	1981	21161	21132	S
+1831	芳	7	7	形声_Phonetic	1	Kusakanmuri	47	1	1	3	1981	11662	885	R
+1832	邦	7	7	形声_Phonetic	1	Oozato	12	1	1	0	1981	33838	21091	S
+1833	奉	8	7	会意_Com_Ideographic	1	Dai	16	2	6	4	1981	4794	4539	R
+1834	宝	8	6	形声_Phonetic	2	Ukanmuri	36	1	1	5	1981	32628	23842	S
+1835	抱	8	7	形声_Phonetic	3	Tehen	89	1	4	10	1981	38818	38777	S
+1836	放	8	3	会意_Com_Ideographic	3	Nobun	16	1	9	19	1981	153676	147578	R
+1837	法	8	4	会意_Com_Ideographic	3	Mizu_Sanzui_Shitamizu	118	3	19	0	1981	440454	417985	P
+1838	泡	8	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	5	5	1981	4698	4640	S
+1839	胞	9	7	形声_Phonetic	1	Niku_Nikuzuki	44	1	5	0	1981	17428	17427	S
+1840	俸	10	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	1	0	1981	3891	3891	S
+1841	倣	10	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	3	3	1981	1164	1164	
+1842	峰	10	7	形声_Phonetic	1	Yama_Yamahen	16	1	4	4	1981	8727	6002	P
+1843	砲	10	7	形声_Phonetic	1	Ishi_Ishihen	16	1	6	0	1981	12515	12506	S
+1844	崩	11	7	形声_Phonetic	1	Yama_Yamahen	16	1	1	14	1981	39502	39488	
+1845	訪	11	6	形声_Phonetic	3	Gon_Gonben	68	1	2	3	1981	91412	88820	S
+1846	報	12	5	会意_Com_Ideographic	3	Tsuchi_Tsuchihen	50	1	4	4	1981	362295	352707	P
+1847	蜂	13	7	形声_Phonetic	0	Mushi_Mushihen	10	1	3	3	2010	1418	1110	S
+1848	豊	13	5	象形_Pictographic	2	Mame	2	1	3	3	1981	59433	19871	R
+1849	飽	13	7	形声_Phonetic	1	Shoku_Shokuhen	12	1	3	8	1981	2703	2651	
+1850	褒	15	7	形声_Phonetic	1	Koromo_Koromohen	21	1	2	2	1981	2529	2529	R
+1851	縫	16	7	形声_Phonetic	1	Ito_Itohen	63	1	3	3	1981	2999	2974	
+1852	亡	3	6	象形_Pictographic	3	Nabebuta	5	2	4	2	1981	83912	83912	S
+1853	乏	4	7	象形_Pictographic	1	No	4	1	5	5	1981	6046	6046	P
+1854	忙	6	7	形声_Phonetic	3	Kokoro_Risshinben_Shitagokoro	76	1	2	2	1981	6003	6003	S
+1855	坊	7	7	形声_Phonetic	0	Tsuchi_Tsuchihen	50	2	3	0	1981	20907	20338	S
+1856	妨	7	7	形声_Phonetic	1	Onna_Onnahen	36	1	5	5	1981	8528	8528	
+1857	忘	7	6	形声_Phonetic	3	Kokoro_Risshinben_Shitagokoro	76	1	4	4	1981	21231	21226	S
+1858	防	7	5	形声_Phonetic	2	Kozatohen	31	1	7	7	1981	153928	133800	R
+1859	房	8	7	形声_Phonetic	1	To_Tokanmuri	6	1	3	7	1981	48104	42203	P
+1860	肪	8	7	形声_Phonetic	1	Niku_Nikuzuki	44	1	1	0	1981	3944	3944	
+1861	某	9	7	会意_Com_Ideographic	1	Ki_Kihen	85	1	4	0	1981	708	708	S
+1862	冒	9	7	会意_Com_Ideographic	1	Hirabi	8	1	8	8	1981	10517	10517	
+1863	剖	10	7	形声_Phonetic	1	Katana_Rittoo	32	1	1	0	1981	3023	3023	
+1864	紡	10	7	形声_Phonetic	1	Ito_Itohen	63	1	2	2	1981	1852	1032	S
+1865	望	11	4	形声_Phonetic	3	Tsuki_Tsukihen	8	2	2	8	1981	89684	84277	P
+1866	傍	12	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	3	3	1981	5937	5786	R
+1867	帽	12	7	形声_Phonetic	2	Haba_Kinben	17	1	2	0	1981	4246	4227	S
+1868	棒	12	6	形声_Phonetic	2	Ki_Kihen	85	1	10	0	1981	9428	9419	P
+1869	貿	12	5	形声_Phonetic	2	Kai_Kaihen	35	1	1	0	1981	20655	20587	
+1870	貌	14	7	象形_Pictographic	0	Mujina_Mujinahen	1	1	3	0	2010	1066	1066	P
+1871	暴	15	5	会意_Com_Ideographic	2	Nichi_Nichihen	38	2	4	10	1981	43965	43965	R
+1872	膨	16	7	形声_Phonetic	1	Niku_Nikuzuki	44	1	3	1	1981	10921	10921	
+1873	謀	16	7	形声_Phonetic	1	Gon_Gonben	68	2	8	8	1981	10184	10184	P
+1874	頬	16	7	形声_Phonetic	0	Oogai	22	1	1	0	2010	299	298	S
+1875	北	5	2	会意_Com_Ideographic	5	Hi	2	1	1	1	1981	358482	66592	R
+1876	木	4	1	象形_Pictographic	5	Ki_Kihen	85	2	2	6	1981	234482	50179	S
+1877	朴	6	7	形声_Phonetic	1	Ki_Kihen	85	1	3	0	1981	6090	3647	S
+1878	牧	8	4	会意_Com_Ideographic	1	Ushi_Ushihen	6	1	3	1	1981	16187	4614	R
+1879	睦	13	7	形声_Phonetic	1	Me_Mehen	19	1	3	0	2010	1653	194	
+1880	僕	14	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	2	0	1981	20544	20544	S
+1881	墨	14	7	会意_Com_Ideographic	1	Tsuchi_Tsuchihen	50	1	5	5	1981	6475	3087	S
+1882	撲	15	7	形声_Phonetic	1	Tehen	89	1	26	0	1981	26983	26854	
+1883	没	7	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	10	0	1981	12911	12911	S
+1884	勃	9	7	形声_Phonetic	0	Chikara	23	1	2	0	2010	452	452	S
+1885	堀	11	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	0	0	3	1981	26572	2581	
+1886	本	5	1	指事_Ideographic	5	Ki_Kihen	85	1	11	14	1981	1485252	701651	R
+1887	奔	8	7	会意_Com_Ideographic	1	Dai	16	1	1	0	1981	2358	2358	S
+1888	翻	18	7	形声_Phonetic	1	Hane	6	1	3	8	1981	7024	7024	S
+1889	凡	3	7	象形_Pictographic	1	Tsukue	1	2	1	0	1981	5003	4378	R
+1890	盆	9	7	形声_Phonetic	1	Sara	8	1	3	0	1981	2996	2792	S
+1891	麻	11	7	会意_Com_Ideographic	1	Asa	1	1	5	5	1981	38472	10810	S
+1892	摩	15	7	形声_Phonetic	1	Te	6	1	8	0	1981	10857	3538	S
+1893	磨	16	7	形声_Phonetic	2	Ishi_Ishihen	16	1	7	7	1981	11687	6335	S
+1894	魔	21	7	形声_Phonetic	1	Oni_Kinyoo	4	1	4	0	1981	8668	8605	S
+1895	毎	6	2	象形_Pictographic	5	Haha_Hahanokan	3	1	5	0	1981	138919	56868	R
+1896	妹	8	2	形声_Phonetic	4	Onna_Onnahen	36	1	1	1	1981	11388	10780	P
+1897	枚	8	6	会意_Com_Ideographic	2	Ki_Kihen	85	1	4	0	1981	30084	28336	
+1898	昧	9	7	形声_Phonetic	0	Nichi_Nichihen	38	1	2	0	2010	378	371	P
+1899	埋	10	7	形声_Phonetic	2	Tsuchi_Tsuchihen	50	1	3	12	1981	18917	18914	R
+1900	幕	13	6	形声_Phonetic	1	Haba_Kinben	17	2	7	0	1981	58012	56775	P
+1901	膜	14	7	形声_Phonetic	1	Niku_Nikuzuki	44	1	1	0	1981	4833	4833	P
+1902	枕	8	7	形声_Phonetic	0	Ki_Kihen	85	0	0	1	2010	2004	1749	S
+1903	又	2	7	象形_Pictographic	1	Mata	9	0	0	4	1981	3304	1402	
+1904	末	5	4	指事_Ideographic	3	Ki_Kihen	85	2	2	7	1981	100981	97460	S
+1905	抹	8	7	形声_Phonetic	1	Tehen	89	1	3	0	1981	2742	2742	S
+1906	万	3	2	象形_Pictographic	5	Ichi	14	2	4	0	1981	409412	404560	R
+1907	満	12	4	形声_Phonetic	3	Mizu_Sanzui_Shitamizu	118	1	8	11	1981	85439	76938	R
+1908	慢	14	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	2	0	1981	11565	11565	S
+1909	漫	14	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	2	0	1981	10740	10740	S
+1910	未	5	4	象形_Pictographic	3	Ki_Kihen	85	1	3	0	1981	73951	72897	R
+1911	味	8	3	形声_Phonetic	4	Kuchi_Kuchihen	70	1	6	8	1981	112407	109252	P
+1912	魅	15	7	会意_Com_Ideographic	1	Oni_Kinyoo	4	1	4	0	1981	18948	18948	
+1913	岬	8	7	形声_Phonetic	1	Yama_Yamahen	16	0	0	3	1981	1103	465	
+1914	密	11	6	会意_Com_Ideographic	1	Ukanmuri	36	1	5	0	1981	41010	40919	S
+1915	蜜	14	7	形声_Phonetic	0	Mushi_Mushihen	10	1	4	0	2010	773	773	S
+1916	脈	10	4	会意_Com_Ideographic	1	Niku_Nikuzuki	44	1	5	0	1981	9303	8972	P
+1917	妙	7	7	形声_Phonetic	1	Onna_Onnahen	36	1	5	0	1981	18000	15272	S
+1918	民	5	4	象形_Pictographic	3	Uji	2	1	3	3	1981	634153	405427	S
+1919	眠	10	7	形声_Phonetic	3	Me_Mehen	19	1	1	5	1981	13855	13711	P
+1920	矛	5	7	象形_Pictographic	1	Hoko	1	1	4	4	1981	5160	5160	
+1921	務	11	5	形声_Phonetic	3	Chikara	23	1	8	8	1981	396197	340217	P
+1922	無	12	4	仮借_Loan	2	Hi_Hihen_Renga	26	2	3	3	1981	225588	224748	R
+1923	夢	13	5	会意_Com_Ideographic	3	Yuube	5	1	5	5	1981	36345	34107	S
+1924	霧	19	7	形声_Phonetic	1	Ame_Amekanmuri	13	1	3	3	1981	3282	2670	S
+1925	娘	10	7	形声_Phonetic	3	Onna_Onnahen	36	0	0	3	1981	24495	24353	S
+1926	名	6	1	会意_Com_Ideographic	5	Kuchi_Kuchihen	70	2	4	4	1981	291373	241836	S
+1927	命	8	3	会意_Com_Ideographic	3	Kuchi_Kuchihen	70	2	4	1	1981	118516	106488	P
+1928	明	8	2	会意_Com_Ideographic	4	Nichi_Nichihen	38	2	6	44	1981	626629	512392	S
+1929	迷	9	5	形声_Phonetic	3	Shinnyoo	51	1	9	9	1981	28744	28706	S
+1930	冥	10	7	象形_Pictographic	0	Wakanmuri	4	2	1	0	2010	1680	1680	R
+1931	盟	13	6	会意_Com_Ideographic	1	Sara	8	1	2	0	1981	62825	61465	S
+1932	銘	14	7	形声_Phonetic	1	Kane_Kanehen	33	1	4	0	1981	11471	10830	S
+1933	鳴	14	2	会意_Com_Ideographic	3	Tori	4	1	1	25	1981	17034	15408	S
+1934	滅	13	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	2	5	1981	14489	14489	P
+1935	免	8	7	象形_Pictographic	1	Hitoashi	9	1	1	9	1981	24881	24617	S
+1936	面	9	3	象形_Pictographic	3	Men	1	1	11	4	1981	232121	231082	P
+1937	綿	14	5	会意_Com_Ideographic	2	Ito_Itohen	63	1	3	2	1981	10568	8624	S
+1938	麺	16	7	形声_Phonetic	0	Mugi	2	1	2	0	2010	881	881	S
+1939	茂	8	7	形声_Phonetic	1	Kusakanmuri	47	1	3	3	1981	25054	945	
+1940	模	14	6	形声_Phonetic	1	Ki_Kihen	85	2	3	0	1981	68951	63281	R
+1941	毛	4	2	象形_Pictographic	2	Ke	1	1	2	4	1981	15919	10106	P
+1942	妄	6	7	形声_Phonetic	1	Onna_Onnahen	36	2	6	0	1981	1021	1021	S
+1943	盲	8	7	形声_Phonetic	1	Me_Mehen	19	1	1	0	1981	3809	3787	S
+1944	耗	10	7	形声_Phonetic	1	Sukihen	2	2	1	0	1981	1805	1805	
+1945	猛	11	7	形声_Phonetic	1	Inu_Kemonohen	17	1	3	0	1981	13519	11626	R
+1946	網	14	7	形声_Phonetic	1	Ito_Itohen	63	1	2	2	1981	14735	11591	S
+1947	目	5	1	象形_Pictographic	4	Me_Mehen	19	2	4	24	1981	510537	503519	P
+1948	黙	15	7	形声_Phonetic	1	Kuro	2	1	1	3	1981	10043	9902	R
+1949	門	8	2	象形_Pictographic	2	Mongamae	11	1	5	2	1981	106883	91494	P
+1950	紋	10	7	形声_Phonetic	1	Ito_Itohen	63	1	2	0	1981	5644	5444	S
+1951	問	11	3	会意_Com_Ideographic	4	Kuchi_Kuchihen	70	1	4	5	1981	433896	433569	P
+1952	冶	7	7	形声_Phonetic	1	Nisui	6	1	1	0	2010	460	277	
+1953	夜	8	2	会意_Com_Ideographic	4	Yuube	5	1	1	4	1981	70624	69976	S
+1954	野	11	2	形声_Phonetic	4	Sato_Satohen	4	1	5	2	1981	522054	251945	R
+1955	弥	8	7	会意_Com_Ideographic	1	Yumi_Yumihen	11	0	0	2	2010	11880	1477	
+1956	厄	4	7	形声_Phonetic	1	Gandare	4	1	4	0	1981	819	817	S
+1957	役	7	3	会意_Com_Ideographic	3	Gyooninben	19	2	14	0	1981	164061	163521	P
+1958	約	9	4	形声_Phonetic	3	Ito_Itohen	63	1	4	0	1981	410379	410298	P
+1959	訳	11	6	形声_Phonetic	1	Gon_Gonben	68	1	1	7	1981	26637	26637	S
+1960	薬	16	3	形声_Phonetic	3	Kusakanmuri	47	1	1	6	1981	64142	58237	S
+1961	躍	21	7	形声_Phonetic	1	Ashi_Ashihen	11	1	6	6	1981	37975	37975	S
+1962	闇	17	7	形声_Phonetic	0	Mongamae	11	0	0	5	2010	5404	5401	
+1963	由	5	3	象形_Pictographic	3	Ta_Tahen	19	3	1	8	1981	148001	107549	S
+1964	油	8	3	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	1	1	1981	59563	54708	S
+1965	喩	12	7	形声_Phonetic	0	Kuchi_Kuchihen	70	1	3	0	2010	333	333	P
+1966	愉	12	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	1	0	1981	1411	1411	
+1967	諭	16	7	形声_Phonetic	1	Gon_Gonben	68	1	7	7	1981	13813	9918	S
+1968	輸	16	5	形声_Phonetic	2	Kuruma_Kurumahen	15	1	2	0	1981	67338	62944	S
+1969	癒	18	7	形声_Phonetic	1	Yamaidare	15	1	4	6	1981	5821	5821	S
+1970	唯	11	7	会意_Com_Ideographic	1	Kuchi_Kuchihen	70	2	4	0	1981	11191	10373	R
+1971	友	4	2	会意_Com_Ideographic	5	Mata	9	1	3	3	1981	73292	42506	S
+1972	有	6	3	会意_Com_Ideographic	4	Tsuki_Tsukihen	8	2	3	11	1981	180920	159897	R
+1973	勇	9	4	形声_Phonetic	2	Chikara	23	1	3	2	1981	15895	9017	S
+1974	幽	9	7	会意_Com_Ideographic	1	Itogashira	4	1	1	0	1981	1504	1451	R
+1975	悠	11	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	3	0	1981	4748	1114	R
+1976	郵	11	6	会意_Com_Ideographic	2	Oozato	12	1	2	0	1981	50252	48464	R
+1977	湧	12	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	9	9	2010	916	390	
+1978	猶	12	7	形声_Phonetic	1	Inu_Kemonohen	17	1	6	0	1981	6413	6411	
+1979	裕	12	7	形声_Phonetic	1	Koromo_Koromohen	21	1	4	0	1981	42283	9873	
+1980	遊	12	3	形声_Phonetic	3	Shinnyoo	51	2	9	9	1981	35749	35088	R
+1981	雄	12	7	形声_Phonetic	1	Furutori	9	1	5	1	1981	67039	10571	R
+1982	誘	14	7	形声_Phonetic	1	Gon_Gonben	68	1	9	9	1981	25201	24921	R
+1983	憂	15	7	会意_Com_Ideographic	1	Kokoro_Risshinben_Shitagokoro	76	1	3	11	1981	7942	4499	S
+1984	融	16	7	会意_Com_Ideographic	1	Mushi_Mushihen	10	1	2	0	1981	108091	106891	S
+1985	優	17	6	形声_Phonetic	3	Hito_Ninben_Hitoyane	104	1	3	11	1981	183796	175331	R
+1986	与	3	7	会意_Com_Ideographic	3	Ichi	14	1	6	6	1981	149687	143595	S
+1987	予	4	3	象形_Pictographic	3	Haneboo	3	1	3	0	1981	246395	245667	R
+1988	余	7	5	形声_Phonetic	3	Hito_Ninben_Hitoyane	104	1	8	6	1981	47259	46813	R
+1989	誉	13	7	形声_Phonetic	1	Gon_Gonben	68	1	1	2	1981	23097	22380	
+1990	預	13	5	形声_Phonetic	2	Oogai	22	1	6	13	1981	19869	19148	
+1991	幼	5	6	象形_Pictographic	2	Itogashira	4	1	4	1	1981	18075	18075	R
+1992	用	5	2	象形_Pictographic	4	Mochiiru	1	1	11	3	1981	371091	369078	P
+1993	羊	6	3	象形_Pictographic	1	Hitsuji	7	1	1	1	1981	2775	2642	S
+1994	妖	7	7	形声_Phonetic	0	Onna_Onnahen	36	1	3	3	2010	1638	1638	S
+1995	洋	9	3	形声_Phonetic	4	Mizu_Sanzui_Shitamizu	118	1	6	0	1981	82908	24111	R
+1996	要	9	4	象形_Pictographic	3	Nishi	4	1	5	7	1981	343227	340979	S
+1997	容	10	5	会意_Com_Ideographic	3	Ukanmuri	36	1	2	0	1981	228205	225588	S
+1998	庸	11	7	会意_Com_Ideographic	1	Madare	17	1	3	0	1981	1128	180	
+1999	揚	12	7	形声_Phonetic	1	Tehen	89	1	1	51	1981	12169	11863	S
+2000	揺	12	7	形声_Phonetic	1	Tehen	89	1	10	12	1981	22011	21945	
+2001	葉	12	3	形声_Phonetic	3	Kusakanmuri	47	1	4	6	1981	142216	75304	P
+2002	陽	12	3	形声_Phonetic	3	Kozatohen	31	1	14	0	1981	36395	18057	S
+2003	溶	13	7	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	3	5	1981	6668	6668	R
+2004	腰	13	7	形声_Phonetic	2	Niku_Nikuzuki	44	1	8	8	1981	13089	12713	S
+2005	様	14	3	形声_Phonetic	3	Ki_Kihen	85	1	6	9	1981	87077	87022	P
+2006	瘍	14	7	形声_Phonetic	0	Yamaidare	15	1	2	0	2010	1770	1770	
+2007	踊	14	7	形声_Phonetic	2	Ashi_Ashihen	11	1	6	8	1981	9796	9796	
+2008	窯	15	7	形声_Phonetic	1	Ana_Anakanmuri	10	1	4	4	1981	720	688	
+2009	養	15	4	形声_Phonetic	1	Shoku_Shokuhen	12	1	8	8	1981	42009	39936	S
+2010	擁	16	7	形声_Phonetic	1	Tehen	89	1	5	0	1981	12269	12269	
+2011	謡	16	7	形声_Phonetic	1	Gon_Gonben	68	1	1	3	1981	4420	4420	S
+2012	曜	18	2	形声_Phonetic	4	Nichi_Nichihen	38	1	3	0	1981	37050	36896	P
+2013	抑	7	7	会意_Com_Ideographic	1	Tehen	89	1	16	16	1981	37924	37877	S
+2014	沃	7	7	形声_Phonetic	0	Mizu_Sanzui_Shitamizu	118	1	2	0	2010	80	80	
+2015	浴	10	4	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	3	14	1981	19247	19202	S
+2016	欲	11	6	形声_Phonetic	3	Akubi	8	1	6	2	1981	27227	27225	P
+2017	翌	11	6	形声_Phonetic	2	Hane	6	1	2	0	1981	19049	19049	R
+2018	翼	17	7	形声_Phonetic	1	Hane	6	1	3	1	1981	16381	15982	P
+2019	拉	8	7	形声_Phonetic	0	Tehen	89	1	1	0	2010	25882	25882	
+2020	裸	13	7	形声_Phonetic	1	Koromo_Koromohen	21	1	11	11	1981	3324	3324	S
+2021	羅	19	7	会意_Com_Ideographic	1	Amigashira	7	1	2	0	1981	5681	2721	S
+2022	来	7	2	象形_Pictographic	5	Ki_Kihen	85	1	4	20	1981	314119	308159	S
+2023	雷	13	7	形声_Phonetic	1	Ame_Amekanmuri	13	1	1	1	1981	7169	6884	S
+2024	頼	16	7	形声_Phonetic	3	Oogai	22	1	11	16	1981	52229	50439	
+2025	絡	12	7	形声_Phonetic	2	Ito_Itohen	63	1	4	7	1981	35562	35295	P
+2026	落	12	3	形声_Phonetic	3	Kusakanmuri	47	1	21	42	1981	135487	131556	S
+2027	酪	13	7	形声_Phonetic	1	Tori_Torihen	14	1	3	0	1981	1382	1308	
+2028	辣	14	7	形声_Phonetic	0	Karai	3	1	1	0	2010	135	135	
+2029	乱	7	6	会意_Com_Ideographic	2	Otsu_Otsunyoo	7	1	3	12	1981	43946	43338	S
+2030	卵	7	6	象形_Pictographic	2	Fushizukuri_Warifu	6	1	1	4	1981	12096	12096	S
+2031	覧	17	6	会意_Com_Ideographic	1	Miru	7	1	1	0	1981	13536	13341	P
+2032	濫	18	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	2	0	1981	199	199	S
+2033	藍	18	7	形声_Phonetic	1	Kusakanmuri	47	1	2	2	2010	3898	987	S
+2034	欄	20	7	形声_Phonetic	1	Ki_Kihen	85	1	4	0	1981	7275	7272	S
+2035	吏	6	7	会意_Com_Ideographic	1	Kuchi_Kuchihen	70	1	1	0	1981	435	434	S
+2036	利	7	4	会意_Com_Ideographic	3	Katana_Rittoo	32	1	5	6	1981	231614	206382	S
+2037	里	7	2	会意_Com_Ideographic	0	Sato_Satohen	4	1	3	4	1981	45081	15662	S
+2038	理	11	2	形声_Phonetic	4	Tama_Oo	15	1	4	0	1981	422771	385731	P
+2039	痢	12	7	形声_Phonetic	1	Yamaidare	15	1	1	0	1981	1094	1094	
+2040	裏	13	6	形声_Phonetic	2	Koromo_Koromohen	21	1	1	11	1981	37372	37235	R
+2041	履	15	7	会意_Com_Ideographic	1	Shikabane	15	1	8	1	1981	7881	7879	S
+2042	璃	15	7	形声_Phonetic	1	Tama_Oo	15	1	1	0	2010	805	717	
+2043	離	19	7	形声_Phonetic	1	Furutori	9	1	1	21	1981	87245	86601	S
+2044	陸	11	4	形声_Phonetic	2	Kozatohen	31	1	1	0	1981	56708	44303	S
+2045	立	5	1	会意_Com_Ideographic	4	Tatsu	5	2	1	57	1981	502495	460112	S
+2046	律	9	6	形声_Phonetic	2	Gyooninben	19	2	4	0	1981	24943	24066	S
+2047	慄	13	7	形声_Phonetic	0	Kokoro_Risshinben_Shitagokoro	76	1	2	0	2010	148	148	
+2048	略	11	5	形声_Phonetic	2	Ta_Tahen	19	1	4	0	1981	66033	66003	S
+2049	柳	9	7	形声_Phonetic	1	Ki_Kihen	85	1	1	1	1981	34665	14738	P
+2050	流	10	3	会意_Com_Ideographic	3	Mizu_Sanzui_Shitamizu	118	2	2	29	1981	161604	159853	S
+2051	留	10	5	会意_Com_Ideographic	3	Ta_Tahen	19	2	12	19	1981	52677	44977	S
+2052	竜	10	7	象形_Pictographic	1	Ryuu	1	1	2	1	1981	19009	9853	S
+2053	粒	11	7	形声_Phonetic	2	Kome_Komehen	10	1	2	3	1981	5789	5789	S
+2054	隆	11	7	会意_Com_Ideographic	1	Kozatohen	31	1	3	0	1981	45777	1151	R
+2055	硫	12	7	形声_Phonetic	1	Ishi_Ishihen	16	1	1	0	1981	2167	1418	S
+2056	侶	9	7	形声_Phonetic	0	Hito_Ninben_Hitoyane	104	1	2	0	2010	1532	1531	
+2057	旅	10	3	会意_Com_Ideographic	4	Hoo_Hoohen	6	1	2	1	1981	42135	41591	R
+2058	虜	13	7	形声_Phonetic	1	Toragashira	5	1	3	0	1981	2511	2511	
+2059	慮	15	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	3	0	1981	29991	29991	P
+2060	了	2	7	象形_Pictographic	2	Haneboo	3	1	3	0	1981	46718	46239	S
+2061	両	6	3	象形_Pictographic	3	Ichi	14	1	4	0	1981	152434	151596	R
+2062	良	7	4	象形_Pictographic	3	Kon	1	1	2	24	1981	117671	69894	S
+2063	料	10	4	会意_Com_Ideographic	4	Tomasu	3	1	6	0	1981	185047	184817	P
+2064	涼	11	7	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	1	4	1981	5234	3548	S
+2065	猟	11	7	形声_Phonetic	1	Inu_Kemonohen	17	1	5	0	1981	1756	1756	S
+2066	陵	11	7	形声_Phonetic	1	Kozatohen	31	1	1	1	1981	6911	3565	S
+2067	量	12	4	象形_Pictographic	2	Sato_Satohen	4	1	5	7	1981	97703	97589	P
+2068	僚	14	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	2	0	1981	41142	41136	S
+2069	領	14	5	形声_Phonetic	2	Oogai	22	1	4	0	1981	192760	189691	S
+2070	寮	15	7	形声_Phonetic	1	Ukanmuri	36	1	4	0	1981	3482	3482	S
+2071	療	17	7	形声_Phonetic	2	Yamaidare	15	1	2	0	1981	97344	97099	S
+2072	瞭	17	7	形声_Phonetic	1	Me_Mehen	19	1	1	0	2010	568	469	
+2073	糧	18	7	形声_Phonetic	1	Kome_Komehen	10	2	3	3	1981	7529	7337	S
+2074	力	2	1	象形_Pictographic	4	Chikara	23	2	8	23	1981	489194	474012	P
+2075	緑	14	3	形声_Phonetic	2	Ito_Itohen	63	2	2	2	1981	16296	12377	S
+2076	林	8	1	会意_Com_Ideographic	2	Ki_Kihen	85	1	1	1	1981	83948	23105	P
+2077	厘	9	7	形声_Phonetic	1	Gandare	4	1	2	0	1981	5648	5646	
+2078	倫	10	7	形声_Phonetic	1	Hito_Ninben_Hitoyane	104	1	1	0	1981	11340	10381	S
+2079	輪	15	4	形声_Phonetic	2	Kuruma_Kurumahen	15	1	5	6	1981	102226	98602	P
+2080	隣	16	7	会意_Com_Ideographic	1	Kozatohen	31	1	1	3	1981	18826	18773	S
+2081	臨	18	6	会意_Com_Ideographic	1	Shin	2	1	16	16	1981	37189	36946	R
+2082	瑠	14	7	形声_Phonetic	1	Tama_Oo	15	1	1	0	2010	2858	2273	
+2083	涙	10	7	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	2	2	1981	14137	14121	S
+2084	累	11	7	形声_Phonetic	1	Ito_Itohen	63	1	5	0	1981	3693	3693	R
+2085	塁	12	7	形声_Phonetic	1	Tsuchi_Tsuchihen	50	1	4	0	1981	86058	86058	P
+2086	類	18	4	会意_Com_Ideographic	3	Oogai	22	1	8	5	1981	55912	55611	S
+2087	令	5	4	象形_Pictographic	2	Hito_Ninben_Hitoyane	104	1	5	0	1981	38748	38418	P
+2088	礼	5	3	形声_Phonetic	3	Shimesu_Shimesuhen	15	2	10	0	1981	17036	14032	P
+2089	冷	7	4	形声_Phonetic	3	Nisui	6	1	2	27	1981	40543	40483	R
+2090	励	7	7	形声_Phonetic	1	Chikara	23	1	1	4	1981	16174	16101	S
+2091	戻	7	7	会意_Com_Ideographic	3	To_Tokanmuri	6	1	7	11	1981	50784	50783	
+2092	例	8	4	形声_Phonetic	3	Hito_Ninben_Hitoyane	104	1	7	3	1981	97942	97847	P
+2093	鈴	13	7	形声_Phonetic	1	Kane_Kanehen	33	2	3	1	1981	48808	1945	S
+2094	零	13	7	形声_Phonetic	2	Ame_Amekanmuri	13	1	4	0	1981	3231	3113	R
+2095	霊	15	7	会意_Com_Ideographic	1	Ame_Amekanmuri	13	2	2	2	1981	9218	8962	S
+2096	隷	16	7	会意_Com_Ideographic	1	Reizukuri	1	1	4	0	1981	1540	1478	S
+2097	齢	17	7	形声_Phonetic	2	Ha_Hahen	2	1	1	0	1981	57243	57241	P
+2098	麗	19	7	象形_Pictographic	1	Shika	3	1	4	3	1981	5531	3398	P
+2099	暦	14	7	会意_Com_Ideographic	1	Nichi_Nichihen	38	1	2	2	1981	2928	2816	S
+2100	歴	14	4	形声_Phonetic	2	Tomeru	6	1	3	0	1981	85808	85600	S
+2101	列	6	3	会意_Com_Ideographic	3	Katana_Rittoo	32	1	8	0	1981	28900	28738	P
+2102	劣	6	7	会意_Com_Ideographic	1	Chikara	23	1	2	2	1981	8527	8527	S
+2103	烈	10	7	会意_Com_Ideographic	1	Hi_Hihen_Renga	26	1	12	0	1981	8297	7895	S
+2104	裂	12	7	形声_Phonetic	1	Koromo_Koromohen	21	1	6	6	1981	14118	14118	S
+2105	恋	10	7	形声_Phonetic	2	Kokoro_Risshinben_Shitagokoro	76	1	1	6	1981	16487	16205	S
+2106	連	10	4	会意_Com_Ideographic	3	Shinnyoo	51	1	7	8	1981	515353	425541	R
+2107	廉	13	7	形声_Phonetic	1	Madare	17	1	4	0	1981	1369	1124	S
+2108	練	14	3	形声_Phonetic	2	Ito_Itohen	63	1	6	6	1981	56925	53657	S
+2109	錬	16	7	形声_Phonetic	1	Kane_Kanehen	33	1	4	0	1981	1744	1629	S
+2110	呂	7	7	象形_Pictographic	1	Kuchi_Kuchihen	70	1	1	0	2010	8251	6044	
+2111	炉	8	7	形声_Phonetic	1	Hi_Hihen_Renga	26	1	4	0	1981	9982	9861	S
+2112	賂	13	7	形声_Phonetic	0	Kai_Kaihen	35	1	1	0	2010	90	90	
+2113	路	13	3	形声_Phonetic	3	Ashi_Ashihen	11	1	3	3	1981	101773	86147	P
+2114	露	21	7	形声_Phonetic	1	Ame_Amekanmuri	13	2	2	6	1981	38679	18955	S
+2115	老	6	4	会意_Com_Ideographic	3	Oikanmuri	3	1	3	1	1981	34640	29561	R
+2116	労	7	4	会意_Com_Ideographic	3	Chikara	23	1	3	0	1981	110305	88823	S
+2117	弄	7	7	会意_Com_Ideographic	0	Komanuki_Nijuuashi	3	1	2	6	2010	1151	1150	
+2118	郎	9	7	形声_Phonetic	1	Oozato	12	1	3	0	1981	163121	8937	S
+2119	朗	10	6	形声_Phonetic	1	Tsuki_Tsukihen	8	1	6	6	1981	21814	6166	S
+2120	浪	10	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	2	0	1981	9388	5009	S
+2121	廊	12	7	形声_Phonetic	1	Madare	17	1	5	0	1981	5063	5020	S
+2122	楼	13	7	形声_Phonetic	1	Ki_Kihen	85	1	4	0	1981	1582	1575	S
+2123	漏	14	7	形声_Phonetic	1	Mizu_Sanzui_Shitamizu	118	1	3	17	1981	19756	19756	S
+2124	籠	22	7	形声_Phonetic	0	Take_Takekanmuri	24	1	2	8	2010	2526	2090	
+2125	六	4	1	仮借_Loan	5	Hachi	8	1	1	1	1981	57761	49930	R
+2126	録	16	4	形声_Phonetic	2	Kane_Kanehen	33	1	1	0	1981	103784	103771	P
+2127	麓	19	7	形声_Phonetic	0	Shika	3	1	1	1	2010	537	439	
+2128	論	15	6	形声_Phonetic	3	Gon_Gonben	68	1	2	0	1981	197415	196158	P
+2129	和	8	3	会意_Com_Ideographic	3	Kuchi_Kuchihen	70	2	5	21	1981	259765	111315	R
+2130	話	13	2	形声_Phonetic	5	Gon_Gonben	68	1	5	14	1981	344648	344481	P
+2131	賄	13	7	形声_Phonetic	1	Kai_Kaihen	35	1	3	3	1981	8215	8215	
+2132	脇	10	7	形声_Phonetic	0	Niku_Nikuzuki	44	0	6	6	2010	15177	8176	S
+2133	惑	12	7	形声_Phonetic	1	Kokoro_Risshinben_Shitagokoro	76	1	9	9	1981	41571	41571	P
+2134	枠	8	7	国字_Original	1	Ki_Kihen	85	0	0	8	1981	34922	34922	S
+2135	湾	12	7	形声_Phonetic	2	Mizu_Sanzui_Shitamizu	118	1	3	0	1981	43782	9629	S
+2136	腕	12	7	形声_Phonetic	2	Niku_Nikuzuki	44	1	1	3	1981	23727	23726	S

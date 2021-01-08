@@ -1,0 +1,531 @@
+---
+title: "HarvardX Capstone Project: Kanji Grade Finder"
+author: "Ayomide Bamgbose"
+date: "04/01/2021"
+output: 
+  pdf_document:
+    latex_engine: lualatex
+documentclass: ltjsarticle
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+
+# Install tidyverse, caret, and data.table packages
+if(!require(tidyverse)) install.packages("tidyverse", repos = "http://cran.us.r-project.org")
+if(!require(caret)) install.packages("caret", repos = "http://cran.us.r-project.org")
+if(!require(data.table)) install.packages("data.table", repos = "http://cran.us.r-project.org")
+
+library(tidyverse)
+library(caret)
+library(data.table)
+
+# Install lubridate and readr packages
+if(!require(lubridate)) install.packages("lubridate", repos = "http://cran.us.r-project.org")
+if(!require(readr)) install.packages("readr", repos = "http://cran.us.r-project.org")
+if(!require(gridExtra)) install.packages("gridExtra", repos = "http://cran.us.r-project.org")
+
+library(lubridate)
+library(readr)
+library(gridExtra)
+
+# Install rvest, rpart, and randomForest packages
+if(!require(rvest)) install.packages("rvest", repos = "http://cran.us.r-project.org")
+if(!require(rpart)) install.packages("rpart", repos = "http://cran.us.r-project.org")
+if(!require(randomForest)) install.packages("randomForest", repos = "http://cran.us.r-project.org")
+
+library(rvest)
+library(rpart)
+library(randomForest)
+
+options(digits = 3)
+
+```
+
+## Executive Summary
+The purpose of this report is to implement a machine learning model on a given dataset. The goal of this report is to create a machine learning model that will predict the JLPT grade of a given kanji. It will strive to provide an aid for learners of the Japanese language. The `random forest` model was selected to train the dataset, and gave an accuracy of `0.636`. This accuracy is likely due to the small size of the dataset, and expanding the given dataset to include JLPT-specific vocabulary would most likely increase the model accuracy without causing over-training to occur.
+
+## Introduction
+The Japanese language is composed of three alphabets: hiragana (平仮名), katakana (カタカナ), and kanji (漢字). The kanji alphabet is composed of originally Chinese characters that have been adjusted and implemented into the Japanese language over time. For individuals hoping to learn the Japanese language, this kanji system is often the most difficult part of their experience. This is primarily due to the fact that there are thousands of kanji, and each kanji often has different meanings and readings ("readings" referring to the way the kanji is read in a certain circumstance). Due to this, a list of 2136 kanji (dubbed, "Joyo kanji") was created by the Japanese Ministry of Education. This list contained the kanji that were most likely to be seen on a day-to-day basis (in Japan). It is often said that these are the "only" kanji a learner of Japanese needs to know in order to be proficient in the language. Each kanji in this list is also taught to Japanese individuals throughout their elementary to highschool education. In other words, each kanji in this list is attached to a specific grade of study. 
+
+For learners of Japanese, there is a test called the _Nihongo Nouryoku Shiken_ (本語能力試験, Japanese Language Proficiency Test, JLPT) that is used to test a learner's proficiency in Japanese. There are 5 levels to this test, and each level contains a group of kanji. It is often difficult for learners to determine whether or not a given kanji is at their preferred level of study by just looking at its grade (since this grade is for the Japanese education system). However, by knowing the JLPT grade of a given kanji, the learning process can be simplified. Since the majority of learners of Japanese will take the JLPT, it is very important that they know which kanji to learn (according to their level). This report will implement a machine learning model that will predict the JLPT grade of a given kanji.
+
+## Overview
+In order to implement a machine learning model, the required data will first need to be selected. Following this, data visualization and exploration will be conducted in order to gain an understanding of the behavior and characteristics of this data. Various machine learning models will then be tested and compared, and a final model will be selected. The highest JLPT level is 1 (often referred to as "N1"), and the lowest JLPT level is 5 (often referred to as "N5").
+
+### Dataset
+Three datasets will be used for this project:  
+
+1. [List of joyo kanji](https://en.wikipedia.org/wiki/List_of_jōyō_kanji)
+2. [List of radicals by stroke count](https://en.wikipedia.org/wiki/List_of_kanji_radicals_by_stroke_count)
+3. [Kanji dataset](https://www.kanjidatabase.com/index.php)
+
+#### List of joyo kanji  
+```{r load_data2, echo=FALSE}
+
+h2 <- read_html("https://en.wikipedia.org/wiki/List_of_jōyō_kanji")
+tab <- h2 %>% html_nodes("table")
+tab <- tab[[2]] %>% html_table
+tab <- tab %>% setNames(c("kanjiID", "kanji", "old", "radical", "kanji_stroke_count", "grade", "year_added",
+                          "meaning", "readings"))
+tab <- tab %>% mutate(year_added = replace_na(year_added, 1946))
+
+kanji_df <- tab
+rm(h2, tab)
+
+```
+
+This dataset contains all 2,136 Joyo kanji and is defined with the following variables:  
+
+- `kanjiID`: the ID of the given kanji
+- `kanji`: the kanji (in Japanese form)
+- `old`: the old version of the kanji
+- `radical`: the radical of the kanji
+- `kanji_stroke_count`: the number of strokes in the kanji
+- `grade`: the grade of the kanji with respect to the Japanese education system (e.g., "1" is grade 1 and "S" is secondary school (grade 7-9))
+- `year_added`: the year the given kanji was added to the Joyo kanji list
+- `meaning`: the menaing of the kanji
+- `readings`: the reading(s) of the kanji
+
+The structure of this dataset is given as follows:
+
+```{r, echo=FALSE}
+str(kanji_df)
+```
+
+*Note:* "Strokes" refer to the number of times you must lift up the pen/pencil when writing a kanji or radical. For example:  
+```{r, echo=FALSE}
+kanji_df[1,c(2,5)]
+```
+
+There is a specific system for counting the strokes of a kanji, but it will not be discussed in this report.
+
+#### List of radicals by stroke count  
+
+```{r load_data1, echo=FALSE}
+
+h1 <- read_html("https://en.wikipedia.org/wiki/List_of_kanji_radicals_by_stroke_count")
+tab <- h1 %>% html_nodes("table")
+tab <- tab[[1]] %>% html_table
+tab <- tab %>% setNames(c("radicalID", "radical", "radical_stroke_count", "meaning_reading", "freq",
+                          "joyo_freq", "examples", "group"))
+
+tab <- tab %>% mutate(freq = parse_number(freq)) %>%
+  replace_na(list(freq = 0, joyo_freq = 0))
+
+radical_df <- tab
+rm(h1, tab)
+
+```
+
+This dataset contains 8 variables:  
+
+- `radicalID`: the numerical ID of the radical
+- `radical`: the radical (in Japanese)
+- `radical_stroke_count`: the number of strokes in the radical
+- `meaning_reading`: the meaning and reading of the radical
+- `freq`: the frequency of the radical (from the 47,035 characters in the Chinese language)
+- `joyo_freq`: the frequency of the radical (from the 2,136 Joyo kanji)
+- `examples`: examples of some kanji that use this radical
+- `group`: "Top 25%" means that this radical represents 25% of Jōyō kanji. "Top 50%" means that this radical plus the "Top 25%" represent 50% of Jōyō kanji. "Top 75%" means that this radical plus the "Top 50%" represent 75% of Jōyō kanji  
+
+```{r, echo=FALSE}
+str(radical_df)
+```
+
+*Note: * "Radicals" are the smaller parts that make up a kanji. For example:  
+```{r, echo=FALSE}
+radical_df[1,c(2, 7)]
+```
+
+#### Kanji Dataset
+```{r load_data3, echo=FALSE}
+
+h3 <- read_table2("data.csv")
+tab <- as.data.frame(h3)
+tab <- tab %>% setNames(c("ID", "kanji", "kanji_stroke_count", "grade", "classification", "JLPT_grade", "radical", 
+                          "radical_freq", "n_on_readings", "n_on_meanings", "n_kun_meanings", "year_added2", 
+                          "kanji_freq_proper", "kanji_freq", "symmetry"))
+tab <- tab %>% mutate(symmetry = replace_na(symmetry, ""))
+
+kanji_df2 <- tab
+rm(h3, tab)
+
+```
+
+This dataset contains the following variables:  
+
+- `ID`: the ID of the given kanji
+- `kanji`: the kanji (in Japanese form)
+- `kanji_stroke_count`: the number of strokes in the kanji
+- `grade`: the grade of the kanji with respect to the Japanese education system (e.g., "1" is grade 1 and "S" is secondary school (grade 7-9))
+- `classification`: "Rikusho Bunrui" kanji classification
+- `JLPT_grade`: the grade of the kanji with respect to the Japanese Language Proficiency Test
+  + Note: a JLPT grade of "0" indicates the fact that the kanji is not ranked in the JLPT 1-5 levels
+  + The highest (i.e., most difficult) JLPT level is 1, and the lowest (i.e., easiest) JLPT level is 5
+- `radical`: the radical of the kanji
+- `radical_freq`: the frequency of the radical (from the 2,136 Joyo kanji)
+- `n_on_readings`: number of onyomi readings
+- `n_on_meanings`: number of meanings for onyomi readings
+- `n_kun_meanings`: number of meanings for kunyomi readings
+- `year_added2`: the year the given kanji was added to the Joyo kanji list
+- `kanji_freq_proper`: total kanji frequency from the "Mainichi Shinbun" including proper nouns
+- `kanji_freq`: total kanji frequency from the "Mainichi Shinbun" *not* including proper nouns 
+* `symmetry`: lexical symmetry of the kanji from left to right
+  + "S": symmetric
+  + "R": right-symmetric
+  + "L": left-symmetric 
+
+```{r, echo=FALSE}
+str(kanji_df2, give.attr = FALSE)
+```
+
+*Note: * _onyomi_ and _kunyomi_ readings refer to the Chinese and Japanese readings of the kanji, respectively.
+
+## Methods
+Applying the three datasets given above, they must be merged into one cohesive dataset and cleaned. From this new dataset, training and test sets will also be created.
+
+### Data Cleaning
+In order to clean and merge the data, each dataset must be cleaned separately in advance. Since all datasets have overlapping/identical data, some duplicate columns can be removed.
+
+```{r tidy_data1, echo=FALSE}
+
+radical_to_drop <- c("radicalID", "meaning_reading", "examples", "freq")
+kanji_to_drop <- c("readings", "meaning", "kanjiID", "grade", "kanji_stroke_count")
+kanji_to_drop2 <- c("year_added2")
+
+radical_df <- radical_df[, !(names(radical_df) %in% radical_to_drop)]
+radical_df <- radical_df %>% mutate(group = as.factor(group))
+
+radical_df <- separate(radical_df, radical, into = c("radical", NA), sep = " ", extra = "drop", fill = "right")
+
+kanji_df <- kanji_df[, !(names(kanji_df) %in% kanji_to_drop)]
+kanji_df <- kanji_df %>% mutate(year_added = as.factor(year_added))
+
+kanji_df2 <- kanji_df2[, !(names(kanji_df2) %in% kanji_to_drop2)]
+kanji_df2 <- kanji_df2 %>% mutate(grade = as.factor(grade), classification = as.factor(classification),
+                                  JLPT_grade = as.factor(JLPT_grade), radical = as.factor(radical),
+                                  symmetry = as.factor(symmetry))
+
+```
+
+The following columns are removed from each dataset:
+
+```{r, echo=FALSE}
+list(radical_df = radical_to_drop, kanji_df = kanji_to_drop, kanji_df2 = kanji_to_drop2)
+```
+
+In addition to this, the following columns are converted into factors:
+
+```{r, echo=FALSE}
+list(radical_df = c("group"), kanji_df = c("year_added"), 
+           kanji_df2 = c("grade", "classification", "JLPT_grade", "radical", "symmetry"))
+```
+
+As soon as each dataset has been tidied separately, they are merged together with the `left_join()` function. The final dataset is thus defined as:
+
+```{r tidy_data2, echo=FALSE}
+
+# merge kanji_df, kanji_df2 and radical_df
+temp <- left_join(kanji_df2, kanji_df, by = "kanji")
+temp <- rename(temp, radical = radical.y)
+df <- left_join(temp, radical_df, by = "radical")
+
+df <- df[, !(names(df) == "radical_stroke_count")] 
+df <- df %>% replace_na(list(joyo_freq = 0, old = "", radical = "", year_added = "1981", group = "")) %>%
+  mutate(radical = as.factor(radical), old_logical = ifelse(old == "", FALSE, TRUE))
+
+levels(df$group) <- c("", "Top 25%", "Top 50%", "Top 50%", "Top 50%", "Top 50%", "Top 75%")
+df <- df %>% mutate(old_logical = ifelse(old == "", FALSE, TRUE),
+                    year_added = replace_na(year_added, "1981"),
+                    group = replace_na(group, ""))
+
+# clear workspace
+rm(kanji_to_drop, radical_to_drop, temp, kanji_to_drop2)
+
+str(df)
+```
+
+#### Create the training and test sets  
+
+After setting the seed to **1**, the training set is defined as 80% of the data and the test set is defined as 20% of the data. This value is selected because the dataset is relatively small (there are only 2136 observations).
+
+```{r train_test, warning=FALSE}
+set.seed(1, sample.kind="Rounding")
+test_index <- createDataPartition(y = df$JLPT_grade, times = 1, p = 0.2, list = FALSE)
+
+kanji_train <- df[-test_index, ]
+kanji_test <- df[test_index, ]
+```
+
+```{r, echo=FALSE}
+# clear workspace
+rm(kanji_df, radical_df, test_index, kanji_df2)
+```
+
+### Data Exploration
+The main characteristics and behaviour of the `kanji_train` dataset will be explored in this section. The `kanji_train` dataset will be analyzed because the machine learning model must be trained with this data.
+
+#### most_common() function
+
+This function will be used in subsequent data analysis. It takes the form `function(x,y)`, where `x` is a vector containing all data and `y` is a vector containing the unique values (e.g., levels) of the vector `x`. The formula is shown here: 
+
+```{r most_common}
+most_common <- function(x, y){
+  count <- vector(mode = "numeric", length = length(y))
+  for(i in seq(1, length(y), 1)){
+    count[i] <- sum(x == y[i])
+  }
+  return(y[which.max(count)])
+}
+```
+
+For example, the most common grade in the dataset can be determined by:  
+```{r, eval=FALSE}
+most_common(kanji_train$grade, levels(kanji_train$grade)) # = 7
+```
+
+Applying this function to the entire `kanji_train` dataset, the most common (for categorical data) and average (for numerical data) for each predictor in the dataset is shown in the table below. This table is created by grouping the `kanji_train` dataset by each JLPT grade:
+```{r most_common_data1, echo=FALSE}
+
+most_common_kanji_train <- kanji_train %>% group_by(JLPT_grade) %>%
+  summarise(grade = most_common(grade, levels(grade)),
+            classification = most_common(classification, levels(classification)),
+            radical = most_common(radical, levels(radical)),
+            avg_strokes = mean(kanji_stroke_count), percent_old = mean(old_logical),
+            on_meanings = mean(n_on_meanings), kun_meanings = mean(n_kun_meanings),
+            on_readings = mean(n_on_readings), radical_freq = mean(radical_freq),
+            avg_freq = mean(kanji_freq), avg_freq_proper = mean(kanji_freq_proper),
+            symmetry = most_common(symmetry, levels(symmetry)),
+            year_added = most_common(year_added, levels(year_added)))
+
+most_common_kanji_train[,1:7]
+
+```
+
+From the table above, it follows that the JLPT grades higher than level 3 are most often composed of kanji in grade 7 (i.e., secondary school). The most common Kanji classification amongst all JLPT grades is the `形声_Phonetic` classification. The average number of strokes for a kanji (`avg_strokes`) tends to increase as the JLPT level increases. The level 1 JLPT level has the highest percentage of old kanji versions (`old_percentage`).
+
+```{r, echo=FALSE}
+most_common_kanji_train[,c(1,8:10)]
+```
+
+From the table above, it follws that the lower JLPT levels tend to have a higher average number of _onyomi_ readings (`on_meanings`). In a similar manner, the JLPT level 5 grade has the highest average number of _kunyomi_ readings (`kun_meanings`). The average radical frequency (`radical_freq`) does not vary much across each JLPT level, but the JLPT levels 4 and 5 tend to be composed of lower frequency radicals.
+
+The table below shows that the higher the JLPT level of the kanji, the lower the average frequency (`avg_freq` and `avg_freq_proper`) of the kanji. The most common symmetry is `S` and most common year added is `1946`.
+
+```{r, echo=FALSE}
+most_common_kanji_train[,c(1,11:14)]
+```
+
+17.7% of the kanji in the dataset have an "old" version, however there is a very small difference in the stroke count of kanjis with and without old versions:
+```{r, echo=FALSE}
+# Q: is there a relationship between a kanji having an alternative version and its grade?
+kanji_old_stroke <- kanji_train %>% group_by(JLPT_grade, old_logical) %>%
+  summarise(n = n(), avg_stroke_count = mean(kanji_stroke_count))
+kanji_old_stroke
+```
+
+In addition, there does not seem to be a significant relationship between the JLPT grade of a kanji and the most common group of the radicals in that grade:
+```{r, echo=FALSE}
+kanji_train %>% group_by(JLPT_grade) %>%
+  summarise(group = most_common(group, levels(group)))
+```
+
+### Data Visualization
+Figure 1, below, shows that the `kanji_stroke_count` predictors is normally distributed with an median of `10` strokes:
+
+```{r stroke_count1, echo=FALSE}
+# kanji stroke count distribution
+kanji_train %>% ggplot(aes(kanji_stroke_count)) + 
+  geom_histogram(bins = 20, col = "black") +
+  geom_vline(xintercept = median(kanji_train$kanji_stroke_count), col = "blue", show.legend = TRUE) +
+  theme(legend.position = "right") +
+  labs(title = "Figure 1. Kanji Stroke Count Distribution", x = "Kanji Stroke Count", y = "Count")
+```
+
+Calculating the average number of strokes (per kanji) over each JLPT grade, the following can be shown:
+
+```{r stroke_count2, echo=FALSE}
+# kanji stroke count vs JLPT grade (with and without an old version)
+kanji_old_stroke %>% 
+  ggplot(aes(x = as.numeric(JLPT_grade)-1, y = avg_stroke_count, col = old_logical)) +
+  geom_line() +
+  scale_x_continuous(breaks = seq(0,5,1)) +
+  labs(title = "Figure 2. Kanji Stroke Count vs JLPT Grade", x = "JLPT Grade", y = "Average Kanji Stroke Count")
+```
+
+This figure shows a trend of a decline in the average number of strokes a kanji has versus its JLPT grade. The higher the JLPT grade, the higher the number of strokes the kanji has. In addition, kanjis without and old version tend to have a lower number of strokes (in comparison to kanjis with an old version). This could imply that if a kanji has an old version, it is likely that it has a higher number of strokes.
+
+From the figure below, it is clear that almost all of the kanji in the `kanji_train` dataset were added to the Joyo kanji in 1946:
+
+```{r year_added1, echo=FALSE}
+# kanji frequency vs stroke count (most common year is 1946)
+kanji_train %>% ggplot(aes(x=kanji_freq, y=kanji_stroke_count, col = JLPT_grade)) +
+  geom_point() +
+  facet_wrap(vars(year_added)) +
+  labs(title = "Figure 3. Kanji Stroke Count vs Frequency (by Year Added)", y = "Kanji Stroke Count", x = "Kanji Frequency") +
+  theme(axis.text.x.bottom = element_text(angle = 45))
+```
+
+Re-plotting this figure so that only the kanji added in 1946 are selected:
+
+```{r year_added2, echo=FALSE}
+kanji_train %>% filter(year_added == "1946") %>%
+  ggplot(aes(x=kanji_freq, y=kanji_stroke_count, col = JLPT_grade)) +
+  geom_point() +
+  labs(title = "Figure 4. Kanji Stroke Count vs Frequency (in 1946)", y = "Kanji Stroke Count", x = "Kanji Frequency")
+```
+
+From the figure above, it is clear that the higher JLPT grade (i.e., level 1 or 2) kanji tend to be made up of low-frequency kanjis. Also, low JLPT grade (i.e., level 4 or 5) kanji tend to be made up of kanjis with low stroke counts.
+
+Figure 5, below, shows that there is a distinct correlation between the `JLPT_grade` of a kanji and its `grade`:
+
+```{r jlpt_vs_grade, echo=FALSE}
+# kanji frequency vs stroke count (by JLPT level)
+kanji_train %>% ggplot(aes(y=kanji_freq, x=kanji_stroke_count, col = grade)) + 
+  geom_point() +
+  facet_wrap(vars(JLPT_grade)) +
+  labs(title = "Figure 5. Kanji Frequency vs Stroke Count (by JLPT Grade)", x = "Kanji Stroke Count", y = "Kanji Frequency")
+```
+
+Compiling the plots above into a table, the correlation between the `JLPT_grade` of a kanji and its `grade` can be summarised:
+
+```{r jlpt_vs_grade2, echo=FALSE}
+data.frame(JLPT_grade = c(0, 1, 2, 3, 4, 5), 
+           grades = c("7", "4, 5, 7", "3, 4, 5, 7", "2, 3, 4, 5, 6, 7", "1, 2, 3, 4", "1, 2"))
+```
+
+From the table above, it follows that the JLPT level 5 is composed of grade 1 and 2 kanji. The JLPT levels 0 to 2 are mainly composed of grade 4-7 kanji.
+
+## Analysis
+Since the `JLPT_grade` predictor is a categorical variable, we can only use machine learning models that can work with categorical outcomes. Due to the structure of the predictors in the `kanji_train` dataset, four machine learning models will be used in this report:
+
+1. Decision trees (`rpart`)
+2. Random forest (`rf`)
+3. K-Nearest Neighbors (`knn`)
+4. Linear Discriminant Analysis (`lda`)
+5. Ensemble
+
+Since the `kanji` and `ID` predictors contain only unique values, they will not be useful as predictors in any machine learning algorithms. A `predictors` dataset is taken from the `kanji_train` dataset, and is defined with the following variables:
+
+```{r predictors, echo=FALSE}
+predictors <- kanji_train[, c(3:14, 16:20)] # ignore ID, kanji, and old elements
+str(predictors)
+```
+
+### Decision tree, `rpart`
+Training a decision tree (`rpart`) model on the `predictors` dataset, the following decision tree is created with tuning parameter `cp = 0.01`:
+
+```{r rpart, echo=FALSE}
+## decision tree (categorical)
+rpart_fit <- train(JLPT_grade ~ ., predictors, method = "rpart", 
+                   tuneGrid = data.frame(cp = seq(0, 0.1, 0.01)))
+
+# plot the tree
+plot(rpart_fit$finalModel, margin = 0.1)
+text(rpart_fit$finalModel, cex = 0.75)
+```
+
+Using the `varImp()` function, the four most important predictors are: `kanji_freq_proper`, `kanji_freq`, `grade` and `year_added`. The accuracy of this model is given by:
+
+```{r}
+rpart_cm <- confusionMatrix(predict(rpart_fit, kanji_test), kanji_test$JLPT_grade)
+rpart_cm$overall["Accuracy"]
+```
+
+### Random forest, `rf`
+Training a random forest model with the `randomForest()` function, the tuning parameter `mtry = 3` is selected. The five most important predictors are: `kanji_stroke_count`, `grade`, `kanji_freq_proper`, `kanji_freq`, and `radical_freq`. The accuracy of this model is given by:
+
+```{r rf, echo=FALSE}
+## random forest (can't have predictors with more than 4 factor levels)
+rforest_fit <- randomForest(JLPT_grade~., data = predictors[, c(1:4, 6:12, 14:17)])
+```
+
+```{r}
+rforest_cm <- confusionMatrix(predict(rforest_fit, kanji_test), kanji_test$JLPT_grade)
+rforest_cm$overall["Accuracy"]
+```
+
+### K-Nearest Neighbors, `knn`
+The k-nearest neighbors model is trained with 10-fold cross validation for `k = seq(20, 30, 2)`. The final model uses `k = 28`. The five most important predictors for this model are: `kanji_freq_proper`, `kanji_freq`, `grade`, `year_added`, and `symmetry`. The accuracy of the model is:
+
+```{r knn, echo=FALSE}
+ctrl <- trainControl(method = "cv", number = 10, p = 0.9)
+knn_fit <- train(JLPT_grade ~ ., data = predictors, method = "knn", 
+                 tuneGrid = data.frame(k = seq(20, 30, 2)), trControl = ctrl)
+```
+
+```{r}
+knn_cm <- confusionMatrix(predict(knn_fit, kanji_test), kanji_test$JLPT_grade)
+knn_cm$overall["Accuracy"]
+```
+
+### Linear Discriminant Analysis, `lda`
+Since `lda` cannot be used with predictors that are factors, the un-factorized, character, and numerical predictors are used instead:
+
+```{r lda, echo=FALSE}
+lda_fit <- train(JLPT_grade ~ kanji_stroke_count + radical_freq + n_on_readings + n_on_meanings +
+                   n_kun_meanings + kanji_freq_proper + kanji_freq + joyo_freq + old_logical + grade
+                   , data = predictors, method = "lda")
+```
+
+The variable importance cannot be determined with linear discriminant analysis, so the accuracy will be calculated instead:
+
+```{r}
+lda_cm <- confusionMatrix(predict(lda_fit, kanji_test), kanji_test$JLPT_grade)
+lda_cm$overall["Accuracy"]
+```
+
+**Note:** `qda` (Quadrant Discriminant Analysis) is not used in this project because there are too many levels in each predictor. Attempting to train a `qda` machine learning model results in rank deficiency issues. 
+
+### Ensemble Model
+This model is composed of a combination of the four previous models. Predictions for this model are made by choosing the most common prediction (with the `most_common(x,y)` function) out of all four models.
+
+```{r ensemble}
+# combine predictions of all models
+predictions <- data.frame(rpart = predict(rpart_fit, kanji_test),
+                          rforest = predict(rforest_fit, kanji_test),
+                          knn = predict(knn_fit, kanji_test),
+                          lda = predict(lda_fit, kanji_test))
+str(predictions)
+
+rows <- seq(1:nrow(predictions))
+outcomes <- levels(kanji_test$JLPT_grade)
+
+# create ensemble prediction by selecting the most common prediction acrosss all models
+ensemble_pred <- sapply(rows, function(r){
+  most_common(predictions[r,], outcomes)
+})
+
+```
+
+For example, the ensemble predictions for the first three kanji are:
+
+```{r, echo=FALSE}
+temp <- predictions %>% mutate(ensemble = ensemble_pred)
+temp[1:3,]
+```
+
+## Results
+Compiling the accuracy of each model in the previous section, the following table can be created:
+
+```{r select_model, echo=FALSE}
+data.frame(model = c("decision tree", "random forest", "knn", "lda", "ensemble"), 
+           accuracy = c(rpart_cm$overall[["Accuracy"]], rforest_cm$overall[["Accuracy"]], 
+                        knn_cm$overall[["Accuracy"]], lda_cm$overall[["Accuracy"]],
+                        confusionMatrix(factor(ensemble_pred), kanji_test$JLPT_grade)$overall["Accuracy"]))
+
+```
+
+From this table, it is clear that the `random forest` and `ensemble` models have the highest accuracy. Since the random forest model has the highest accuracy, it will be used as the final model. The accuracy of the selected model is:
+
+```{r selected_model}
+## Selected: randomForest model
+confusionMatrix(predict(rforest_fit, kanji_test), kanji_test$JLPT_grade)$overall["Accuracy"]
+```
+
+## Conclusion
+The `random forest` model was selected to train the `kanji_train` dataset, and gave an accuracy of `0.636`. The most important predictors are `kanji_freq`, `kanji_freq_proper`, `grade`, and `year_added`. Since the `kanji_train` dataset is quite small, it would be difficult to fit an accurate algorithm to it without over-training. A possible solution to this problem would be to include the words (in kanji form) that are commonly found in each JLPT level. This would greatly expand the amount of available data for this machine learning challenge, and would most likely allow for an increase in the model accuracy without causing over-training. Through further improvement, this model can be used as a simple guide for learners of Japanese by ensuring that the kanji they are learning is appropriate for their level. In the future, this dataset would be expanded to include JLPT-specific vocabulary, and additional machine learning models (e.g., matrix factorization) would be tested.
+
+## References
+[1] Tamaoka, K., Makioka, S., Sanders, S. & Verdonschot, R.G. (2017). www.kanjidatabase.com

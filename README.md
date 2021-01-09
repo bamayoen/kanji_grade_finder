@@ -1,5 +1,5 @@
 # kanji_grade_finder
-Harvard EdX Capstone Project. This project uses machine learning to allow the user to predict the grade of a given kanji (Grade 1-7). 
+Harvard EdX Capstone Project. This project uses machine learning to allow the user to predict the JLPT grade of a given kanji (Grade 0-5). 
 
 Content:
 1. code.R : all code for this project
